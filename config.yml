@@ -1,0 +1,126 @@
+baseURL: "https://odasnac.com/"
+title: Odåsnac
+theme: PaperMod
+defaultContentLanguage: es
+
+languages:
+  es:
+    weight: 1
+  en:
+    weight: 2
+    menu:
+      main:
+        - identifier: tags
+          name: tags
+          url: /tags/
+          weight: 30
+        - identifier: Odasnac
+          name: odasnac.com
+          url: https://odasnac.com
+          weight: 40
+  
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-380000254-1
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Odåsnac
+  description: "El Blog de Victor Odasnac"
+  keywords: [Blog, Portfolio, PaperMod]
+  author: Victor Odåsnac
+  # author: ["Me", "You"] # multiple authors
+  # images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "2 January 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "faviconV2o.png"
+    
+
+  # profile-mode
+  profileMode:
+    enabled: false # needs to be explicitly set
+    title: Odasnac
+    subtitle: "This is subtitle"
+    imageUrl: "<img location>"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: my image
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Espressamente \U00002615"
+    Content: "Victor Odåsnac \U0001F44B"
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/odasnac"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/odasnac/"
+    
+
+menu:
+  main:
+    - identifier: Tu Trabajo va a Desaparecer
+      name: Tu Trabajo va a Desaparecer
+      url: /tu-trabajo/
+      weight: 10
+    - identifier: Todo Sobresaliente
+      name: Todo Sobresaliente
+      url: /todo-sobresaliente/
+      weight: 20
+    - identifier: Cuentos
+      name: Cuentos
+      url: /cuentos/
+      weight: 30
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 40
+    - identifier: Odasnac
+      name: odasnac.com
+      url: https://odasnac.com
+      weight: 50
+
+
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
