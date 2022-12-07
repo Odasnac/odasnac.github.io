@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://odasnac.com/tags/cuentos/</loc>
+    <loc>https://odasnac.github.io/tags/cuentos/</loc>
   </url><url>
-    <loc>https://odasnac.com/tags/ebook/</loc>
+    <loc>https://odasnac.github.io/tags/ebook/</loc>
   </url><url>
-    <loc>https://odasnac.com/tags/futureofwork/</loc>
+    <loc>https://odasnac.github.io/tags/futureofwork/</loc>
   </url><url>
-    <loc>https://odasnac.com/tags/libro/</loc>
+    <loc>https://odasnac.github.io/tags/libro/</loc>
   </url><url>
-    <loc>https://odasnac.com/tags/memorias/</loc>
+    <loc>https://odasnac.github.io/tags/memorias/</loc>
   </url><url>
-    <loc>https://odasnac.com/categories/</loc>
+    <loc>https://odasnac.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://odasnac.com/en/categories/"
+                href="https://odasnac.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://odasnac.com/categories/"
+                href="https://odasnac.github.io/categories/"
                 />
   </url><url>
-    <loc>https://odasnac.com/cuentos/</loc>
+    <loc>https://odasnac.github.io/cuentos/</loc>
   </url><url>
-    <loc>https://odasnac.com/posts/que-nos-diferencia-de-robots/</loc>
+    <loc>https://odasnac.github.io/posts/que-nos-diferencia-de-robots/</loc>
   </url><url>
-    <loc>https://odasnac.com/posts/la-cuarta-revolucion-industrial/</loc>
+    <loc>https://odasnac.github.io/posts/la-cuarta-revolucion-industrial/</loc>
   </url><url>
-    <loc>https://odasnac.com/</loc>
+    <loc>https://odasnac.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://odasnac.com/en/"
+                href="https://odasnac.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://odasnac.com/"
+                href="https://odasnac.github.io/"
                 />
   </url><url>
-    <loc>https://odasnac.com/posts/</loc>
+    <loc>https://odasnac.github.io/posts/</loc>
   </url><url>
-    <loc>https://odasnac.com/tags/</loc>
+    <loc>https://odasnac.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://odasnac.com/en/tags/"
+                href="https://odasnac.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://odasnac.com/tags/"
+                href="https://odasnac.github.io/tags/"
                 />
   </url><url>
-    <loc>https://odasnac.com/todo-sobresaliente/</loc>
+    <loc>https://odasnac.github.io/todo-sobresaliente/</loc>
   </url><url>
-    <loc>https://odasnac.com/posts/tu-trabajo-va-a-desaparecer/</loc>
+    <loc>https://odasnac.github.io/posts/tu-trabajo-va-a-desaparecer/</loc>
   </url><url>
-    <loc>https://odasnac.com/tu-trabajo/</loc>
+    <loc>https://odasnac.github.io/tu-trabajo/</loc>
   </url>
 </urlset>

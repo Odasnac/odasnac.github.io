@@ -2,48 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://odasnac.com/en/tags/leadership/</loc>
+    <loc>https://odasnac.github.io/en/tags/booksummary/</loc>
   </url><url>
-    <loc>https://odasnac.com/en/categories/</loc>
+    <loc>https://odasnac.github.io/en/tags/leadership/</loc>
+  </url><url>
+    <loc>https://odasnac.github.io/en/tags/sales/</loc>
+  </url><url>
+    <loc>https://odasnac.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://odasnac.com/categories/"
+                href="https://odasnac.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://odasnac.com/en/categories/"
+                href="https://odasnac.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://odasnac.com/en/en/</loc>
+    <loc>https://odasnac.github.io/en/en/</loc>
   </url><url>
-    <loc>https://odasnac.com/en/en/posts/leadership-moving-others/</loc>
+    <loc>https://odasnac.github.io/en/en/posts/leadership-moving-others/</loc>
   </url><url>
-    <loc>https://odasnac.com/en/</loc>
+    <loc>https://odasnac.github.io/en/en/posts/logotheraphy/</loc>
+  </url><url>
+    <loc>https://odasnac.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://odasnac.com/"
+                href="https://odasnac.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://odasnac.com/en/"
+                href="https://odasnac.github.io/en/"
                 />
   </url><url>
-    <loc>https://odasnac.com/en/en/posts/serenity-prayer/</loc>
+    <loc>https://odasnac.github.io/en/en/posts/sales-is-about-teaching/</loc>
   </url><url>
-    <loc>https://odasnac.com/en/tags/</loc>
+    <loc>https://odasnac.github.io/en/en/posts/serenity-prayer/</loc>
+  </url><url>
+    <loc>https://odasnac.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://odasnac.com/tags/"
+                href="https://odasnac.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://odasnac.com/en/tags/"
+                href="https://odasnac.github.io/en/tags/"
                 />
   </url>
 </urlset>
