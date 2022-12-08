@@ -2,6 +2,7 @@
 title: Serenity Prayer
 date: 2022–08-31
 draft: false
+tags: [“growth”]
 cover:
  image: img/serenity.jpg
  alt: ‘Cover image’
@@ -9,10 +10,10 @@ cover:
 ---
 The Serenity Prayer in bullets:
 
-*God, grant me the 
-- ***serenity** to accept the things I cannot change,*  
-- ***courage** to change the things I can,  and* 
-- ***wisdom** to know the difference.*
+> *God, grant me the* 
+> - ***serenity** to accept the things I cannot change,*  
+> - ***courage** to change the things I can,  and* 
+> - ***wisdom** to know the difference.*
 
 This prayer combines so well with these words in the *I Ching* (translation of [Brian Browne Walker](https://brianbrownewalker.com/2022/01/25/ebb-and-flow/)):
 
