@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ens on Odåsnac</title>
-    <link>https://odasnac.com/en/en/</link>
+    <link>https://www.odasnac.com/en/en/</link>
     <description>Recent content in Ens on Odåsnac</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://odasnac.com/en/en/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://www.odasnac.com/en/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building a Second Brain</title>
-      <link>https://odasnac.com/en/en/posts/building-a-second-brain/</link>
+      <link>https://www.odasnac.com/en/en/posts/building-a-second-brain/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://odasnac.com/en/en/posts/building-a-second-brain/</guid>
+      <guid>https://www.odasnac.com/en/en/posts/building-a-second-brain/</guid>
       <description>Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential, by Tiago Forte is one of the books of 2022.
 The underlying philosophy is very similar to that of Zettelkasten. Tiago Forte’s method is a pragmatic update to this note-taking system, which is popular in the academic world.
 Building a second brain is about creating a system to process the vast amounts of information we consume and transform it into actionable knowledge.</description>
@@ -18,10 +18,10 @@ Building a second brain is about creating a system to process the vast amounts o
     
     <item>
       <title>Leadership is about moving others</title>
-      <link>https://odasnac.com/en/en/posts/leadership-moving-others/</link>
+      <link>https://www.odasnac.com/en/en/posts/leadership-moving-others/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://odasnac.com/en/en/posts/leadership-moving-others/</guid>
+      <guid>https://www.odasnac.com/en/en/posts/leadership-moving-others/</guid>
       <description>It was striking to see in Benjamin Zander&amp;rsquo;s Ted talk his capacity to &amp;ldquo;move&amp;rdquo; people. Note how he delivers his talk, how he brings attention and accent to different parts of it, how he uses stories, how he makes it so inspiring and emotional.
 His stories were meant to make people emotional, so that the impact is far greater.
 At the end it shows how leadership is about moving others to action.</description>
@@ -29,10 +29,10 @@ At the end it shows how leadership is about moving others to action.</descriptio
     
     <item>
       <title>Logotherapy</title>
-      <link>https://odasnac.com/en/en/posts/logotheraphy/</link>
+      <link>https://www.odasnac.com/en/en/posts/logotheraphy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://odasnac.com/en/en/posts/logotheraphy/</guid>
+      <guid>https://www.odasnac.com/en/en/posts/logotheraphy/</guid>
       <description>Viktor Frankl wrote his experience to endure and survive four concentration camps between 1942 and 1945.
 The viennese psychiatrist wrote &amp;ldquo;Man&amp;rsquo;s Search for Meaning&amp;rdquo; in just 9 days and intended to publish it anonymously. He was surprised by its success as an international bestseller, and saw in it the symptom of the &amp;ldquo;mass neurosis of modern times&amp;rdquo; since the title promised to deal with the question of life&amp;rsquo;s meaningfulness.
 The first part of the book recounts his experience in dealing with the worst and cruelest conditions a human being can think of, and how still some of them managed to survived.</description>
@@ -40,10 +40,10 @@ The first part of the book recounts his experience in dealing with the worst and
     
     <item>
       <title>Sales is about teaching</title>
-      <link>https://odasnac.com/en/en/posts/sales-is-about-teaching/</link>
+      <link>https://www.odasnac.com/en/en/posts/sales-is-about-teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://odasnac.com/en/en/posts/sales-is-about-teaching/</guid>
+      <guid>https://www.odasnac.com/en/en/posts/sales-is-about-teaching/</guid>
       <description>Great sales people teach their clients a different way to think about their issues.
 Teach your clients on new approaches to succeed in their business.
 Get better by learning about issues in their industries and how to apply your capabilities (products &amp;amp; services) to address them.
@@ -53,14 +53,24 @@ That is meaningful work, as you help your clients achieve success by having a bi
     
     <item>
       <title>Serenity Prayer</title>
-      <link>https://odasnac.com/en/en/posts/serenity-prayer/</link>
+      <link>https://www.odasnac.com/en/en/posts/serenity-prayer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://odasnac.com/en/en/posts/serenity-prayer/</guid>
+      <guid>https://www.odasnac.com/en/en/posts/serenity-prayer/</guid>
       <description>The Serenity Prayer in bullets:
 God, grant me the
 serenity to accept the things I cannot change, courage to change the things I can, and wisdom to know the difference. This prayer combines so well with these words in the I Ching (translation of Brian Browne Walker):
 Ebb and flow are inherent in the nature of life. When difficulties arise, accept this and hold firmly to what is correct. Good fortune returns to those that remain calm and detached.</description>
+    </item>
+    
+    <item>
+      <title>What does ChatGPT thinks about how AI will impact the Future of Work?</title>
+      <link>https://www.odasnac.com/en/en/posts/ai-at-work-draft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.odasnac.com/en/en/posts/ai-at-work-draft/</guid>
+      <description>Everyones talks about ChatGPT and how it is going to impact on al kinds of creative jobs. There are hundreds, if not thousands, of YouTube videos explaining how ChatGPT can be used to generate content, software or do your homework. There are all sorts of clickbait posts alerting on how AI will leave you jobless and without future.
+If you want to make sense out of the hype, why not asking ChatGPT got help?</description>
     </item>
     
   </channel>

@@ -2,64 +2,74 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://odasnac.com/tags/cuentos/</loc>
+    <loc>https://www.odasnac.com/tags/cuentos/</loc>
   </url><url>
-    <loc>https://odasnac.com/tags/ebook/</loc>
+    <loc>https://www.odasnac.com/tags/ebook/</loc>
   </url><url>
-    <loc>https://odasnac.com/tags/futureofwork/</loc>
-  </url><url>
-    <loc>https://odasnac.com/tags/libro/</loc>
-  </url><url>
-    <loc>https://odasnac.com/tags/memorias/</loc>
-  </url><url>
-    <loc>https://odasnac.com/categories/</loc>
+    <loc>https://www.odasnac.com/tags/futureofwork/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://odasnac.com/en/categories/"
+                href="https://www.odasnac.com/en/tags/futureofwork/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://odasnac.com/categories/"
+                href="https://www.odasnac.com/tags/futureofwork/"
                 />
   </url><url>
-    <loc>https://odasnac.com/cuentos/</loc>
+    <loc>https://www.odasnac.com/tags/libro/</loc>
   </url><url>
-    <loc>https://odasnac.com/posts/que-nos-diferencia-de-robots/</loc>
+    <loc>https://www.odasnac.com/tags/memorias/</loc>
   </url><url>
-    <loc>https://odasnac.com/posts/la-cuarta-revolucion-industrial/</loc>
-  </url><url>
-    <loc>https://odasnac.com/</loc>
+    <loc>https://www.odasnac.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://odasnac.com/en/"
+                href="https://www.odasnac.com/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://odasnac.com/"
+                href="https://www.odasnac.com/categories/"
                 />
   </url><url>
-    <loc>https://odasnac.com/posts/</loc>
+    <loc>https://www.odasnac.com/cuentos/</loc>
   </url><url>
-    <loc>https://odasnac.com/tags/</loc>
+    <loc>https://www.odasnac.com/posts/que-nos-diferencia-de-robots/</loc>
+  </url><url>
+    <loc>https://www.odasnac.com/posts/la-cuarta-revolucion-industrial/</loc>
+  </url><url>
+    <loc>https://www.odasnac.com/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://odasnac.com/en/tags/"
+                href="https://www.odasnac.com/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://odasnac.com/tags/"
+                href="https://www.odasnac.com/"
                 />
   </url><url>
-    <loc>https://odasnac.com/todo-sobresaliente/</loc>
+    <loc>https://www.odasnac.com/posts/</loc>
   </url><url>
-    <loc>https://odasnac.com/posts/tu-trabajo-va-a-desaparecer/</loc>
+    <loc>https://www.odasnac.com/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.odasnac.com/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.odasnac.com/tags/"
+                />
   </url><url>
-    <loc>https://odasnac.com/tu-trabajo/</loc>
+    <loc>https://www.odasnac.com/todo-sobresaliente/</loc>
+  </url><url>
+    <loc>https://www.odasnac.com/posts/tu-trabajo-va-a-desaparecer/</loc>
+  </url><url>
+    <loc>https://www.odasnac.com/tu-trabajo/</loc>
   </url>
 </urlset>

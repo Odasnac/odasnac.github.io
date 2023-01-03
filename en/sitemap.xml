@@ -2,60 +2,74 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://odasnac.com/en/tags/booksummary/</loc>
+    <loc>https://www.odasnac.com/en/tags/booksummary/</loc>
   </url><url>
-    <loc>https://odasnac.com/en/tags/growth/</loc>
-  </url><url>
-    <loc>https://odasnac.com/en/tags/leadership/</loc>
-  </url><url>
-    <loc>https://odasnac.com/en/tags/sales/</loc>
-  </url><url>
-    <loc>https://odasnac.com/en/en/posts/building-a-second-brain/</loc>
-  </url><url>
-    <loc>https://odasnac.com/en/categories/</loc>
+    <loc>https://www.odasnac.com/en/tags/futureofwork/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://odasnac.com/categories/"
+                href="https://www.odasnac.com/tags/futureofwork/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://odasnac.com/en/categories/"
+                href="https://www.odasnac.com/en/tags/futureofwork/"
                 />
   </url><url>
-    <loc>https://odasnac.com/en/en/</loc>
+    <loc>https://www.odasnac.com/en/tags/growth/</loc>
   </url><url>
-    <loc>https://odasnac.com/en/en/posts/leadership-moving-others/</loc>
+    <loc>https://www.odasnac.com/en/tags/leadership/</loc>
   </url><url>
-    <loc>https://odasnac.com/en/en/posts/logotheraphy/</loc>
+    <loc>https://www.odasnac.com/en/tags/sales/</loc>
   </url><url>
-    <loc>https://odasnac.com/en/</loc>
+    <loc>https://www.odasnac.com/en/en/posts/building-a-second-brain/</loc>
+  </url><url>
+    <loc>https://www.odasnac.com/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://odasnac.com/"
+                href="https://www.odasnac.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://odasnac.com/en/"
+                href="https://www.odasnac.com/en/categories/"
                 />
   </url><url>
-    <loc>https://odasnac.com/en/en/posts/sales-is-about-teaching/</loc>
+    <loc>https://www.odasnac.com/en/en/</loc>
   </url><url>
-    <loc>https://odasnac.com/en/en/posts/serenity-prayer/</loc>
+    <loc>https://www.odasnac.com/en/en/posts/leadership-moving-others/</loc>
   </url><url>
-    <loc>https://odasnac.com/en/tags/</loc>
+    <loc>https://www.odasnac.com/en/en/posts/logotheraphy/</loc>
+  </url><url>
+    <loc>https://www.odasnac.com/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://odasnac.com/tags/"
+                href="https://www.odasnac.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://odasnac.com/en/tags/"
+                href="https://www.odasnac.com/en/"
                 />
+  </url><url>
+    <loc>https://www.odasnac.com/en/en/posts/sales-is-about-teaching/</loc>
+  </url><url>
+    <loc>https://www.odasnac.com/en/en/posts/serenity-prayer/</loc>
+  </url><url>
+    <loc>https://www.odasnac.com/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.odasnac.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.odasnac.com/en/tags/"
+                />
+  </url><url>
+    <loc>https://www.odasnac.com/en/en/posts/ai-at-work-draft/</loc>
   </url>
 </urlset>

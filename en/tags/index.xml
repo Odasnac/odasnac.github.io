@@ -2,42 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Odåsnac</title>
-    <link>https://odasnac.com/en/tags/</link>
+    <link>https://www.odasnac.com/en/tags/</link>
     <description>Recent content in Tags on Odåsnac</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://odasnac.com/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://www.odasnac.com/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>“BookSummary”</title>
-      <link>https://odasnac.com/en/tags/booksummary/</link>
+      <link>https://www.odasnac.com/en/tags/booksummary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://odasnac.com/en/tags/booksummary/</guid>
+      <guid>https://www.odasnac.com/en/tags/booksummary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“FutureOfWork”</title>
+      <link>https://www.odasnac.com/en/tags/futureofwork/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.odasnac.com/en/tags/futureofwork/</guid>
       <description></description>
     </item>
     
     <item>
       <title>“growth”</title>
-      <link>https://odasnac.com/en/tags/growth/</link>
+      <link>https://www.odasnac.com/en/tags/growth/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://odasnac.com/en/tags/growth/</guid>
+      <guid>https://www.odasnac.com/en/tags/growth/</guid>
       <description></description>
     </item>
     
     <item>
       <title>“leadership”</title>
-      <link>https://odasnac.com/en/tags/leadership/</link>
+      <link>https://www.odasnac.com/en/tags/leadership/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://odasnac.com/en/tags/leadership/</guid>
+      <guid>https://www.odasnac.com/en/tags/leadership/</guid>
       <description></description>
     </item>
     
     <item>
       <title>“sales”</title>
-      <link>https://odasnac.com/en/tags/sales/</link>
+      <link>https://www.odasnac.com/en/tags/sales/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://odasnac.com/en/tags/sales/</guid>
+      <guid>https://www.odasnac.com/en/tags/sales/</guid>
       <description></description>
     </item>
     
