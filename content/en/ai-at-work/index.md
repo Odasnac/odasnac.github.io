@@ -20,12 +20,15 @@ This book compiles the **insights and predictions of ChatGPT**, a leading *exper
 You can download a preview of the book here.
 
 **AI at Work** Draft 1 ([PDF](https://www.odasnac.com/free/AI_at_Work-230103-Draft.pdf))
+
 **AI at Work** Draft 1 ([ePub](https://www.odasnac.com/free/AI_at_Work-230102-Draft.epub))
 
 Don't miss out on this opportunity to stay informed and stay ahead of the curve on the future of work. Stay curious and download your preview copy now!
 
 Post any feedback to:
+
 https://twitter.com/odasnac
+
 https://www.linkedin.com/in/odasnac/
 
 
