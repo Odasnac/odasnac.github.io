@@ -1,4 +1,4 @@
-baseURL: "https://odasnac.com/"
+baseURL: "https://www.odasnac.com/"
 title: Odåsnac
 theme: PaperMod
 defaultContentLanguage: es
@@ -16,7 +16,7 @@ languages:
           weight: 30
         - identifier: Odasnac
           name: odasnac.com
-          url: https://odasnac.com
+          url: https://www.odasnac.com
           weight: 40
   
 enableRobotsTXT: true
@@ -34,7 +34,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Odåsnac
   description: "El Blog de Victor Odasnac"
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [Blog, BookSummaries, Growth]
   author: Victor Odåsnac
   # author: ["Me", "You"] # multiple authors
   # images: ["<link or path of image for opengraph, twitter-cards>"]
