@@ -38,6 +38,18 @@
   </url><url>
     <loc>https://www.odasnac.com/posts/que-nos-diferencia-de-robots/</loc>
   </url><url>
+    <loc>https://www.odasnac.com/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.odasnac.com/en/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.odasnac.com/en/"
+                />
+  </url><url>
     <loc>https://www.odasnac.com/posts/la-cuarta-revolucion-industrial/</loc>
   </url><url>
     <loc>https://www.odasnac.com/</loc>
@@ -71,5 +83,7 @@
     <loc>https://www.odasnac.com/posts/tu-trabajo-va-a-desaparecer/</loc>
   </url><url>
     <loc>https://www.odasnac.com/tu-trabajo/</loc>
+  </url><url>
+    <loc>https://www.odasnac.com/en/ai-at-work/</loc>
   </url>
 </urlset>
