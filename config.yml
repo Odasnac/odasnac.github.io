@@ -10,6 +10,10 @@ languages:
     weight: 2
     menu:
       main:
+        - identifier: AI at Work
+          name: AI at Work
+          url: /ai-at-work/
+          weight: 10
         - identifier: tags
           name: tags
           url: /tags/
