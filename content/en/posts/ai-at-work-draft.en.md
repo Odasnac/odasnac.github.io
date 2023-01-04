@@ -1,5 +1,5 @@
 ---
-title: What does ChatGPT thinks about how AI will impact the Future of Work?
+title: What does ChatGPT think about how AI will impact the Future of Work?
 date: 2023–01-03
 draft: false
 tags: [“FutureOfWork”]
@@ -9,7 +9,7 @@ cover:
 
 ---
 
-Everyones talks about ChatGPT and how it is going to change everything. There are thousands of YouTube videos explaining how ChatGPT can be used to generate content, software or do your homework. There are all sorts of clickbait posts alerting on how AI will leave you jobless and without future.
+Everyone talks about ChatGPT and how it is going to change everything. There are thousands of YouTube videos explaining how ChatGPT can be used to generate content, software or do your homework. There are all sorts of clickbait posts alerting on how AI will leave you jobless and without future.
 
 If you want to make sense out of the hype, why not asking ChatGPT for help?
 You can directly ask the famous AI or just read **"AI at Work: The Impact of Artificial Intelligence on the Future of Employment."** 
