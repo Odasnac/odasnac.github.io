@@ -8,6 +8,9 @@
 /assets/jsconfig.json
 hugo_stats.json
 
+# Obsidian in Odasnac
+/content/.obsidian/
+
 # Executable may be added to repository
 hugo.exe
 hugo.darwin

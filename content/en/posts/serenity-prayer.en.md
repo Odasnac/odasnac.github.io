@@ -1,6 +1,6 @@
 ---
 title: Serenity Prayer
-date: 2022–08-31
+date: 2022–08-31T08:08:00+01:00
 draft: false
 tags: [“growth”]
 cover:

@@ -1,6 +1,6 @@
 ---
 title: Building a Second Brain
-date: 2022–12-08
+date: 2022–12-08T08:08:00+01:00
 draft: false
 tags: [“BookSummary”]
 cover:

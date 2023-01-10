@@ -1,6 +1,6 @@
 ---
 title: What does ChatGPT think about how AI will impact the Future of Work?
-date: 2023–01-03
+date: 2023–01-03T08:08:00+01:00
 draft: false
 tags: [“FutureOfWork”]
 cover:
