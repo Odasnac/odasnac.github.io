@@ -6,6 +6,20 @@ defaultContentLanguage: en
 languages:
   en:
     weight: 1
+    menu:
+      main:
+      - identifier: AI at Work
+        name: AI at Work
+        url: /ai-at-work/
+        weight: 10
+      - identifier: tags
+        name: tags
+        url: /tags/
+        weight: 30
+      - identifier: Odasnac
+        name: odasnac.com
+        url: https://www.odasnac.com
+        weight: 40  
   es:
     weight: 2
     menu:
@@ -103,20 +117,7 @@ params:
       url: "https://www.linkedin.com/in/odasnac/"
     
 
-menu:
-  main:
-    - identifier: AI at Work
-      name: AI at Work
-      url: /ai-at-work/
-      weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 30
-    - identifier: Odasnac
-      name: odasnac.com
-      url: https://www.odasnac.com
-      weight: 40  
+
 
 
 pygmentsUseClasses: true
