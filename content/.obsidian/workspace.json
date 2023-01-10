@@ -11,12 +11,8 @@
             "id": "23ef161eab009965",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "en/posts/template.en.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "en/posts/template.en.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "en/posts/template.en.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "en/posts/template.en.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,13 +140,13 @@
   },
   "active": "23ef161eab009965",
   "lastOpenFiles": [
+    "en/posts/template.en.md",
     "en/posts/serenity-prayer.en.md",
     "en/posts/sales-is-about-teaching.en.md",
     "en/posts/logotheraphy.en.md",
     "en/posts/leadership-moving-others.en.md",
     "en/posts/building-a-second-brain.en.md",
     "en/posts/ai-at-work-draft.en.md",
-    "en/posts/template.en.md",
     "cuentos/index.md"
   ]
 }

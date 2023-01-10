@@ -1,27 +1,35 @@
 baseURL: "https://www.odasnac.com/"
 title: Odåsnac
 theme: PaperMod
-defaultContentLanguage: es
+defaultContentLanguage: en
 
 languages:
-  es:
-    weight: 1
   en:
+    weight: 1
+  es:
     weight: 2
     menu:
       main:
-        - identifier: AI at Work
-          name: AI at Work
-          url: /en/ai-at-work/
-          weight: 10
-        - identifier: tags
-          name: tags
-          url: /tags/
-          weight: 30
-        - identifier: Odasnac
-          name: odasnac.com
-          url: https://www.odasnac.com
-          weight: 40
+    - identifier: Tu Trabajo va a Desaparecer
+      name: Tu Trabajo va a Desaparecer
+      url: /tu-trabajo/
+      weight: 10
+    - identifier: Todo Sobresaliente
+      name: Todo Sobresaliente
+      url: /todo-sobresaliente/
+      weight: 20
+    - identifier: Cuentos
+      name: Cuentos
+      url: /cuentos/
+      weight: 30
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 40
+    - identifier: Odasnac
+      name: odasnac.com
+      url: https://odasnac.com
+      weight: 50
   
 enableRobotsTXT: true
 buildDrafts: false
@@ -37,8 +45,8 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Odåsnac
-  description: "El Blog de Victor Odasnac"
-  keywords: [Blog, BookSummaries, Growth]
+  description: "Victor Odasnac"
+  keywords: [Blog, BookSummaries, Growth, Sales, futureofwork]
   author: Victor Odåsnac
   # author: ["Me", "You"] # multiple authors
   # images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -97,26 +105,18 @@ params:
 
 menu:
   main:
-    - identifier: Tu Trabajo va a Desaparecer
-      name: Tu Trabajo va a Desaparecer
-      url: /tu-trabajo/
+    - identifier: AI at Work
+      name: AI at Work
+      url: /en/ai-at-work/
       weight: 10
-    - identifier: Todo Sobresaliente
-      name: Todo Sobresaliente
-      url: /todo-sobresaliente/
-      weight: 20
-    - identifier: Cuentos
-      name: Cuentos
-      url: /cuentos/
-      weight: 30
     - identifier: tags
       name: tags
       url: /tags/
-      weight: 40
+      weight: 30
     - identifier: Odasnac
       name: odasnac.com
-      url: https://odasnac.com
-      weight: 50
+      url: https://www.odasnac.com
+      weight: 40  
 
 
 pygmentsUseClasses: true
