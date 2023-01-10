@@ -12,7 +12,7 @@ languages:
       main:
         - identifier: AI at Work
           name: AI at Work
-          url: /ai-at-work/
+          url: /en/ai-at-work/
           weight: 10
         - identifier: tags
           name: tags
