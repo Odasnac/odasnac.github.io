@@ -44,19 +44,7 @@
                 href="https://www.odasnac.com/categories/"
                 />
   </url><url>
-    <loc>https://www.odasnac.com/es/cuentos/</loc>
-  </url><url>
-    <loc>https://www.odasnac.com/es/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.odasnac.com/es/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.odasnac.com/es/"
-                />
+    <loc>https://www.odasnac.com/cuentos/</loc>
   </url><url>
     <loc>https://www.odasnac.com/posts/leadership-moving-others/</loc>
   </url><url>
@@ -75,6 +63,16 @@
                 />
   </url><url>
     <loc>https://www.odasnac.com/posts/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.odasnac.com/es/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.odasnac.com/posts/"
+                />
   </url><url>
     <loc>https://www.odasnac.com/posts/sales-is-about-teaching/</loc>
   </url><url>
@@ -92,9 +90,9 @@
                 href="https://www.odasnac.com/tags/"
                 />
   </url><url>
-    <loc>https://www.odasnac.com/es/todo-sobresaliente/</loc>
+    <loc>https://www.odasnac.com/todo-sobresaliente/</loc>
   </url><url>
-    <loc>https://www.odasnac.com/es/tu-trabajo/</loc>
+    <loc>https://www.odasnac.com/tu-trabajo/</loc>
   </url><url>
     <loc>https://www.odasnac.com/ai-at-work/</loc>
   </url><url>

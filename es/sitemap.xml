@@ -26,21 +26,9 @@
                 href="https://www.odasnac.com/es/categories/"
                 />
   </url><url>
-    <loc>https://www.odasnac.com/es/es/posts/que-nos-diferencia-de-robots/</loc>
+    <loc>https://www.odasnac.com/es/posts/que-nos-diferencia-de-robots/</loc>
   </url><url>
-    <loc>https://www.odasnac.com/es/es/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.odasnac.com/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.odasnac.com/es/es/"
-                />
-  </url><url>
-    <loc>https://www.odasnac.com/es/es/posts/la-cuarta-revolucion-industrial/</loc>
+    <loc>https://www.odasnac.com/es/posts/la-cuarta-revolucion-industrial/</loc>
   </url><url>
     <loc>https://www.odasnac.com/es/</loc>
     <xhtml:link
@@ -52,6 +40,18 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://www.odasnac.com/es/"
+                />
+  </url><url>
+    <loc>https://www.odasnac.com/es/posts/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.odasnac.com/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.odasnac.com/es/posts/"
                 />
   </url><url>
     <loc>https://www.odasnac.com/es/tags/</loc>
@@ -66,6 +66,6 @@
                 href="https://www.odasnac.com/es/tags/"
                 />
   </url><url>
-    <loc>https://www.odasnac.com/es/es/posts/tu-trabajo-va-a-desaparecer/</loc>
+    <loc>https://www.odasnac.com/es/posts/tu-trabajo-va-a-desaparecer/</loc>
   </url>
 </urlset>
