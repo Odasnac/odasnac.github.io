@@ -4,7 +4,7 @@ date: 2023–01-03T08:08:00+01:00
 draft: false
 tags: [“FutureOfWork”]
 cover:
- image: img/AI_at_Work-cover.jpg
+ image: img/ai-office.jpg
  alt: ‘Cover image’
 
 ---
