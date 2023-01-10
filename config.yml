@@ -107,7 +107,7 @@ menu:
   main:
     - identifier: AI at Work
       name: AI at Work
-      url: /en/ai-at-work/
+      url: /ai-at-work/
       weight: 10
     - identifier: tags
       name: tags
