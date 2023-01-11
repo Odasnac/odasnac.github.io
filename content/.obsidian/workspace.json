@@ -11,8 +11,12 @@
             "id": "23ef161eab009965",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "es/posts/ai-at-work-draft.es.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "es/posts/ai-at-work-draft.es.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "es/posts/ai-at-work-draft.es.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "es/posts/ai-at-work-draft.es.md"
+              }
             }
           }
         ]
@@ -138,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62d58894c95ecbd1",
+  "active": "23ef161eab009965",
   "lastOpenFiles": [
-    "ai-at-work/index.md",
-    "es/cuentos/index.md",
-    "posts/ai-at-work-draft.en.md",
-    "es/posts/que-nos-diferencia-de-robots.es.md",
-    "es/posts/tu-trabajo-va-a-desaparecer.es.md",
-    "es/posts/la-cuarta-revolucion-industrial.es.md",
-    "en/posts/template.en.md",
-    "en/posts/serenity-prayer.en.md",
-    "en/posts/sales-is-about-teaching.en.md",
-    "en/posts/logotheraphy.en.md"
+    "es/posts/4th-industrial-revolution.es.md",
+    "es/posts/ai-at-work-draft.es.md",
+    "es/posts/building-a-second-brain.es.md",
+    "es/posts/curiosity.es.md",
+    "es/posts/leadership-moving-others.es.md",
+    "es/posts/logotheraphy.md",
+    "es/posts/sales-is-about-teaching.es.md",
+    "es/posts/serenity-prayer.es.md",
+    "en/posts/tu-trabajo-va-a-desaparecer.md",
+    "en/posts/curiosity.md"
   ]
 }
