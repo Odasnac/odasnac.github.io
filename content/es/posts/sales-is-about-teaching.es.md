@@ -1,6 +1,6 @@
 ---
 title: Vender es también educar
-date: "2023–01-10T08:08:00+01:00"
+date: 2023–01-10T08:08:00+01:00
 draft: false
 tags: [“leadership”, “sales”]
 cover:
