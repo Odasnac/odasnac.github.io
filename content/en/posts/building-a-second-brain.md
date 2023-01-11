@@ -2,7 +2,8 @@
 title: Building a Second Brain
 date: 2022–12-08T08:08:00+01:00
 draft: false
-tags: [“BookSummary”]
+weight: 197
+tags: [“BookSummary”, "Productivity"]
 cover:
  image: img/second-brain.jpg
  alt: ‘Cover image’

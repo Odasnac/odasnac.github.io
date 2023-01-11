@@ -1,8 +1,8 @@
 ---
 title: The Fourth Industrial Revolution or the Innovation Economy
-date: "2017–04-30"
+date: 2017–04-30
 draft: false
-
+weight: 199
 ---
 
 En 1990, los tres principales fabricantes de automóviles en Detroit tenían de forma combinada:

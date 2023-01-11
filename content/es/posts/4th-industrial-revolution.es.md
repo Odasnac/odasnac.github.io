@@ -1,6 +1,7 @@
 ---
 title: La Cuarta Revolución Industrial o la Economía de la Innovación
 date: 2017–04-30T10:30:41+01:00
+weight: 199
 draft: false
 
 ---
