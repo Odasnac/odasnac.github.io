@@ -1,6 +1,6 @@
 ---
 title: The Fourth Industrial Revolution or the Innovation Economy
-date: 2017–04-30T10:30:41+01:00
+date: "2017–04-30"
 draft: false
 
 ---
