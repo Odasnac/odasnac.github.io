@@ -1,6 +1,6 @@
 baseURL: "https://www.odasnac.com/"
 title: Odåsnac
-theme: PaperMod
+theme: hugo-theme-stack
 defaultContentLanguage: en
 
 languages:

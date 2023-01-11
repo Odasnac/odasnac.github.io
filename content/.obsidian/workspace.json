@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "es/posts/ai-at-work-draft.es.md",
+                "file": "en/posts/template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "es/posts/ai-at-work-draft.es.md",
+                "file": "en/posts/template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "es/posts/ai-at-work-draft.es.md",
+                "file": "en/posts/template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "es/posts/ai-at-work-draft.es.md"
+                "file": "en/posts/template.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "23ef161eab009965",
   "lastOpenFiles": [
-    "es/posts/4th-industrial-revolution.es.md",
     "es/posts/ai-at-work-draft.es.md",
+    "es/posts/4th-industrial-revolution.es.md",
     "es/posts/building-a-second-brain.es.md",
     "es/posts/curiosity.es.md",
     "es/posts/leadership-moving-others.es.md",
