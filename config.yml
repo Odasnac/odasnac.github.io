@@ -5,6 +5,8 @@ defaultContentLanguage: en
 
 languages:
   en:
+    contentDir: content/en
+    languageName: English
     weight: 1
     menu:
       main:
@@ -21,6 +23,8 @@ languages:
         url: https://www.odasnac.com
         weight: 40  
   es:
+    contentDir: content/es
+    languageName: Español
     weight: 2
     menu:
       main:
