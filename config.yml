@@ -46,7 +46,7 @@ languages:
         weight: 40
       - identifier: Odasnac
         name: odasnac.com
-        url: https://odasnac.com
+        url: https://www.odasnac.com/es/
         weight: 50
   
 enableRobotsTXT: true
