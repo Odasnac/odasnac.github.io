@@ -6,7 +6,6 @@ tags: [“FutureOfWork”]
 cover:
  image: img/curioso-einstein.jpg
  alt: ‘Cover image’
-
 ---
 
 Si hay una actividad que sea humana y difícil de substituir por máquinas es la innovación.

@@ -1,6 +1,6 @@
 ---
 title: Mover, motivar, emocionar
-date: "2022–08-31"
+date: 2022–08-31
 draft: false
 tags: [“leadership”]
 cover:

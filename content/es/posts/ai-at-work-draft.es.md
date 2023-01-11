@@ -6,7 +6,6 @@ tags: [“FutureOfWork”]
 cover:
  image: img/ai-office.jpg
  alt: ‘Cover image’
-
 ---
 
 Everyone talks about ChatGPT and how it is going to change everything. There are thousands of YouTube videos explaining how ChatGPT can be used to generate content, software or do your homework. There are all sorts of clickbait posts alerting on how AI will leave you jobless and without future.
