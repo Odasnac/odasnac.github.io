@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "en/posts/4th-industrial-revolution.md",
+                "file": "en/posts/curiosity.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "en/posts/4th-industrial-revolution.md",
+                "file": "en/posts/curiosity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "en/posts/4th-industrial-revolution.md",
+                "file": "en/posts/curiosity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "en/posts/4th-industrial-revolution.md"
+                "file": "en/posts/curiosity.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "23ef161eab009965",
   "lastOpenFiles": [
+    "en/posts/building-a-second-brain.md",
     "en/posts/ai-at-work-draft.md",
+    "es/posts/ai-at-work-draft.es.md",
+    "es/posts/building-a-second-brain.es.md",
+    "en/posts/leadership-moving-others.md",
     "es/posts/leadership-moving-others.es.md",
+    "es/posts/4th-industrial-revolution.es.md",
     "es/posts/curiosity.es.md",
     "en/posts/4th-industrial-revolution.md",
-    "es/posts/ai-at-work-draft.es.md",
-    "es/posts/4th-industrial-revolution.es.md",
-    "en/posts/building-a-second-brain.md",
-    "en/posts/leadership-moving-others.md",
-    "en/posts/logotheraphy.md",
-    "en/posts/sales-is-about-teaching.md"
+    "en/posts/logotheraphy.md"
   ]
 }
