@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.odasnac.com/es/posts/4th-industrial-revolution/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.odasnac.com/posts/4th-industrial-revolution/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.odasnac.com/es/posts/4th-industrial-revolution/"
+                />
+  </url><url>
+    <loc>https://www.odasnac.com/es/posts/tu-trabajo-va-a-desaparecer/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.odasnac.com/posts/tu-trabajo-va-a-desaparecer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.odasnac.com/es/posts/tu-trabajo-va-a-desaparecer/"
+                />
+  </url><url>
     <loc>https://www.odasnac.com/es/tags/futureofwork/</loc>
     <lastmod>2023-01-03T08:08:00+01:00</lastmod>
     <xhtml:link
@@ -169,18 +193,6 @@
                 href="https://www.odasnac.com/es/posts/curiosity/"
                 />
   </url><url>
-    <loc>https://www.odasnac.com/es/posts/4th-industrial-revolution/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.odasnac.com/posts/4th-industrial-revolution/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.odasnac.com/es/posts/4th-industrial-revolution/"
-                />
-  </url><url>
     <loc>https://www.odasnac.com/es/posts/logotheraphy/</loc>
     <xhtml:link
                 rel="alternate"
@@ -229,18 +241,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://www.odasnac.com/es/posts/building-a-second-brain/"
-                />
-  </url><url>
-    <loc>https://www.odasnac.com/es/posts/tu-trabajo-va-a-desaparecer/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.odasnac.com/posts/tu-trabajo-va-a-desaparecer/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.odasnac.com/es/posts/tu-trabajo-va-a-desaparecer/"
                 />
   </url><url>
     <loc>https://www.odasnac.com/es/tu-trabajo/</loc>
