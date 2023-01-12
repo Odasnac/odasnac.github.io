@@ -9,21 +9,13 @@ cover:
  
 ---
 
-- ¿La tecnología crea o destruye empleos?
-- En un mundo de robots, ¿qué trabajo haremos las personas?
-- ¿Deben los robots pagar impuestos?
-- ¿Es viable una Renta Básica Universal?
-- ¿Para qué futuro preparamos a nuestros hijos?
+- Does technology create or destroy jobs?
+- What jobs will be done by people in a world of robots?
+- Should robots pay taxes?
+- Is Universal Basic Income a feasible solution?
+- What future should we prepare our kids for?
 
 ![Cover](/img/ttvd-cover-188x300.jpg)
 
-[**Tu trabajo va a desaparecer**](https://www.amazon.es/dp/B072L6FP5H/) no es una profecía, sino un reflejo de la realidad donde nuevos trabajos emergen al tiempo que otros desaparecen y otros son reemplazados por la automatización. El libro ofrece datos, reflexiones y nuevas perspectivas sobre el futuro del trabajo:
-- Cómo los robots y la innovación afectan al empleo
-- Cómo serán los trabajos del futuro
-- Qué cambios son necesarios para hacer que las personas sean una oportunidad y no una carga para la Economía.
+[**Tu trabajo va a desaparecer**](https://www.amazon.es/dp/B072L6FP5H/) is a book published in 2017 in Spanish which proovides answers, thoughts and new perspective on the future of work.
 
-Una vision pragmática sin prejuicios ni dogmas ideológicos.
-
-Esto es el futuro de tu trabajo visto por un ingeniero metido a economista.
-
-*Victor Odåsnac es Ingeniero, MBA, y ex-doctorando en rebeldía en Económicas*.

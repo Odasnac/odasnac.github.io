@@ -5,48 +5,47 @@ draft: false
 weight: 199
 ---
 
-En 1990, los tres principales fabricantes de automóviles en Detroit tenían de forma combinada:
+In 1990, the top three automakers in Detroit had combined:
+- market capitalization of 36 trillion dollars (“US trillion” of 1,000 million)
+- revenue of 250,000 million dollars
+- 1.2 million employees, with around 5% of them dedicated to innovation
 
-- capitalización bursátil de 36 billones de dólares (“billones americanos” de 1.000 millones)
-- ingresos de 250.000 millones de dólares
-- 1,2 millones de empleados, con alrededor de un 5% de ellos dedicados a innovación
+In 2014, the three main companies in Silicon Valley add between them:
+- **30 times capitalization**: more than 1,000 trillion dollars!
+- virtually **same revenue**: $247 billion
+- **10 times fewer employees**: 137,000, with more than 80% of them dedicated to innovation
 
-En 2014, las tres principales compañías en Silicon Valley suman entre ellas:
+In the Digital Age, ideas, and not material goods, become the main asset for generating wealth. In today's economy, far fewer workers are needed to generate the same income, and the value of the wealth generated multiplies.
 
-- **capitalización 30 veces superior**: más de 1.000 billones de dólares!
-- prácticamente los **mismos ingresos**: 247.000 millones de dólares
-- **10 veces menos empleados**: 137.000, con más de un 80% de ellos dedicados a innovación
+In the world we are heading to, Innovation is going to play a key role in generating employment and wealth.
 
-En la Era Digital las ideas, y no los bienes materiales, se convierten en el principal activo para generar riqueza. En la Economía de hoy son necesarios muchos menos trabajadores para generar los mismos ingresos, y el valor de la riqueza generada se multiplica.
+Companies based on technological innovation already top the rankings of the largest companies in the world by capitalization: Google (Alphabet), Apple, Microsoft, Amazon, Facebook, etc. The technological sector, or one with a strong technology component, is the main engine for the creation of new companies that seek to create cataclysms that reconfigure the industries they transform. **Fintech, Insurtech, Edtech, HealthTech** are just some of the buzzwords that push a good number of startups that intend to completely re-invent sectors such as finance, insurance, education or health through technology.
 
-En el mundo hacia el que nos movemos, la Innovación va a jugar un papel clave en generar empleo y riqueza.
+There are many areas of research where exponential advances are being made that are going to transform the world in which we live. These are 10 of them:
 
-Las empresas basadas en la innovación tecnológica ya copan los rankings de las empresas más grandes del mundo por capitalización: Google (Alphabet), Apple, Microsoft, Amazon, Facebook, etc. El sector tecnológico, o con fuerte componente de tecnología, es el principal motor de creación de nuevas empresas que buscan crear cataclismos que re-configuren las industrias a las que transforman. **Fintech, Insurtech, Edtech, HealthTech** son solo algunos de los términos de moda que empujan un buen número de startups que pretenden re-inventar completamente sectores como el financiero, los seguros, la educación o la salud mediante la tecnología.
+- Artificial Intelligence
+- Internet of Things: connectivity, computing and ubiquitous sensors
+- Quantum technology
+- 3D printing
+- New Materials
+- Advanced robotics
+- Gene editing
+- Synthetic biology
+- Implantable technology
+- Neurotechnology
 
-Son muchas las áreas de investigación donde se están produciendo avances de forma exponencial que van a transformar el mundo en que vivimos. Éstas son 10 de ellas:
+The possibilities and challenges that these technologies pose are such that the economic system must be capable of adapting to a new world so as not to leave anyone behind.
 
-- Inteligencia Artificial
-- Internet of Things: conectividad, computación y sensores ubicuos
-- Tecnología cuántica
-- Impresión 3D
-- Nuevos materiales
-- Robótica avanzada
-- Edición de genes
-- Biología sintética
-- Tecnología implantable
-- Neurotecnología
+ These developments are going to be transcendental to enable other innovation territories. There are two other areas that will be key in shaping the world to which we are headed and that will mean two sectors of growing activity with their own entity to add to Agriculture, Industrial and Services:
 
-Son tales las posibilidades y los retos que éstas tecnologías plantean, que el sistema económico debe ser capaz de adaptarse a un nuevo mundo para no dejar a nadie al margen de la oportunidad que representan.
+- The Fourth Sector: **Social Innovation**. Social entrepreneurship, foundations and non-profits to solve social problems and challenges that emerge as a result of the changes
 
-No todo va a ser un trabajo de ingenieros y científicos. Estos desarrollos van a ser trascendentes para habilitar a su vez otros territorios de innovación. Hay otras dos áreas que serán claves en configurar el mundo al que nos dirigimos y que supondrán dos sectores de actividad creciente con entidad propia que sumar al Agrícola, Industrial y Servicios:
+- The Fifth Sector: **Artistic Innovation**. Culture, show-business and entertainment. Key to articulating thought, ideas, common values and developing critical thinking in a society in which the avalanche of information is a breeding ground for half-truths, polarization and extreme radicalization. More people than ever will be able to make a living out of artistic creation and entertainment.
 
-- El Cuarto Sector: la **Innovación Social**. Emprendimiento social, fundaciones y non-profits para resolver problemas y retos sociales que emerjan como resultado de los cambios
+We are facing the possibility of a New **Renaissance** in which science, humanities and arts will have unprecedented progress, generating a large part of the economic activity and employment.
 
-- El Quinto Sector: la **Innovación Artística**. Cultura, el espectáculo y el entretenimiento. Clave para articular el pensamiento, las ideas, los valores comunes y desarrollar el sentido crítico en una sociedad donde la avalancha de información es un caldo de cultivo para las medias verdades, la polarización y la radicalización extrema. Clave también para dar cabida a las ideas, a la diversidad y a la expresión de más personas de las que nunca han podido dedicarse a la creación artística y al entretenimiento.
+Politicians must reform the system to create a framework that enables this Renaissance. Tax incentives for employment and innovation, and  Universal Basic Income are two elements in this line. 
 
-Estamos ante la posibilidad de un Nuevo **Renacimiento** donde las ciencias, las humanidades y las artes van a tener un progreso sin precedentes, generando gran parte de la actividad económica y del empleo.
+The alternative is to let the system inherited from the industrial era accelerate rampant inequality that destroys the middle class and gives rise to the populism that we have seen grow in recent years. The system that took us so long to build risks collapsing before the elites realize it.
 
-Los políticos deben reformar el sistema para crear un marco que habilite este Renacimiento. Los incentivos fiscales para el empleo y la innovación, y la Renta Básica Universal son dos elementos en esa línea. La alternativa es dejar que el sistema heredado de la era industrial acelere una desigualdad galopante que destruya la clase media y dé pie a los populismos que hemos visto crecer en estos años. El sistema que tanto nos llevó construir corre el riesgo de desmoronarse antes de que las elites se den cuenta.
-
-Tenemos que decidir qué mundo queremos para nuestros hijos. Está en nuestra mano poner el progreso tecnológico y económico al alcance de todos, sin destruir aquellos elementos del sistema que nos han traído hasta aquí.
-
+We have to decide what world we want for our children. It is in our power to make technological and economic progress work for everyone, without destroying the elements of the system that  brought us here.

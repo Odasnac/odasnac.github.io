@@ -1,29 +1,31 @@
 ---
 title: Vender es también educar
 date: 2023–01-10T08:08:00+01:00
+weight: 194
 draft: false
 tags: [“leadership”, “sales”]
 cover:
- image: img/sales-teaching.png
+ image: img/sales-teaching.jpg
  alt: ‘Cover image’
 
 ---
+Los mejores vendedores son aquellos que descubren a sus clientes a forma distinta de pensar sobre sus problemas para resolverlos.
 
-Great sales people teach their clients a different way to think about their issues.
+Una investigación publicada por [CEB](https://en.wikipedia.org/wiki/CEB_Inc.) preguntó a miles de clientes qué es lo que más valoraban de sus proveedores. Los resultados mostraron que **lo que distingue a los mejores vendedores es el valor que aportan al cliente para que éste gane o ahorre dinero de maneras que no sabían que eran posibles**.
 
-A research asked thousands of customers about what is it that they valued most from their suppliers. The results showed that **what sets the best sales reps apart is the value of their insights in how to make the customer make or save money in ways they did not know were possible**. 
+Los clientes prefieren a los vendedores que les enseñan y descubren nuevas formas de tener éxito.
 
-Customers loves salespeople who teach and discover new ways for them to succeed.
+Como vendedor, tu trabajo es enseñar a tus clientes nuevos enfoques para tener éxito en sus negocios.
 
-As a sales person your job is to teach your clients on new approaches to succeed in their business.
+- Invierte en aprender sobre los problemas  y tendencias en sus industrias y cómo aplicar tus capacidades (productos y servicios) para abordarlos.
 
-- Get better by learning about issues in their industries and how to apply your capabilities (products & services) to address them.
+- Mantente al día sobre nuevas tendencias, tecnología y oportunidades que puedan marcar la diferencia para sus clientes. Así es como les aportas valor.
 
-- Keep learning about new trends, technology and opportunities that could make a difference for your customers. That is how you bring value to them.
+Un buen vendedor es el que ayuda a sus clientes a lograr el éxito y tener un gran impacto en sus organizaciones.
+¿Qué puede ser más gratificante que eso?
 
-That is meaningful work, as you help your clients achieve success and have a big  impact in their organizations.
-What can be more rewarding than that?
+Sigue aprendiendo, "educa" a tus clientes y marcarás la diferencia.
 
-Keep learning, teach your customers and make a difference.
+
 
 

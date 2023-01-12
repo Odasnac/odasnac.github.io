@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b37ed70344068740",
+        "id": "055337bb9089c1a3",
         "type": "tabs",
         "children": [
           {
-            "id": "23ef161eab009965",
+            "id": "1a4947c64098b022",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "en/posts/template.md",
+                "file": "en/posts/4th-industrial-revolution.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "en/posts/template.md",
+                "file": "en/posts/4th-industrial-revolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "en/posts/template.md",
+                "file": "en/posts/4th-industrial-revolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "en/posts/template.md"
+                "file": "en/posts/4th-industrial-revolution.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23ef161eab009965",
+  "active": "1a4947c64098b022",
   "lastOpenFiles": [
-    "es/posts/4th-industrial-revolution.es.md",
-    "es/posts/tu-trabajo-va-a-desaparecer.es.md",
-    "en/posts/4th-industrial-revolution.md",
     "en/posts/ai-at-work-draft.md",
-    "en/posts/building-a-second-brain.md",
-    "en/posts/sales-is-about-teaching.md",
+    "en/posts/tu-trabajo-va-a-desaparecer.md",
+    "en/posts/4th-industrial-revolution.md",
     "en/posts/curiosity.md",
+    "es/posts/curiosity.es.md",
+    "img/curiosidad.jpg.md",
     "en/posts/leadership-moving-others.md",
-    "en/posts/logotheraphy.md",
-    "en/posts/serenity-prayer.md"
+    "en/posts/serenity-prayer.md",
+    "en/posts/building-a-second-brain.md",
+    "en/posts/logotheraphy.md"
   ]
 }

@@ -1,53 +1,65 @@
 ---
 title: What makes humans unique versus machines
 date: 2023–01-01
+weight: 192
 draft: false
 tags: [“FutureOfWork”]
 cover:
- image: img/curioso-einstein.jpg
+ image: img/curious-einstein.jpg
  alt: ‘Cover image’
 ---
 
-Si hay una actividad que sea humana y difícil de substituir por máquinas es la innovación.
+_I have no special talent. I am only passionately curious._
+_- Albert Einstein_
 
-Crear algo nuevo requiere de una serie de habilidades que no son fáciles de sustituir por máquinas. Constituyen el **Factor Humano** que permite entender lo racional y lo irracional de nuestros comportamientos y necesidades, que permite identificar problemas y conectarlos con nuevas formas para resolverlos.
+If there is an activity that is uniquely human and difficult to replace by machines, it is innovation. The creation and implementation of new ideas will remain a genuinely human activity for some time. While artificial intelligence and big data processing find ways to optimize production, it is the understanding of human needs and wants is still required to innovate.
 
-Estas habilidades que nos diferencian de los robots y que serán clave para el futuro del trabajo son:
+Although automation may replace some jobs, innovation will continue to be driven by humans. New waves of innovation might actually drive new waves of employment, despite of a new kind.
 
-**Curiosidad**: Internet y Google ponen al alcance de cualquiera un volumen de información sin precedentes. El simple hecho de tener una inquietud e investigar un tema es lo que nos lleva a conocerlo. El acceso a la información ha dejado de ser una limitación al alcance de unos pocos, y cada vez más el límite a tu conocimiento lo pones tú mismo. Es tu curiosidad e inquietud por algo la clave principal para aprenderlo. **Las preguntas que te haces comienzan a ser más importantes que las respuestas que ya tienes** en un mundo profesional cambiante.
+Innovating requires a set of skills that conform the Human Factor. Those are the qualities required to fully grasp the rational and irrational needs of people, make sense of their behaviors, find ways to connect ideas and act upon them to address society's problems. 
 
-Estamos expuestos a una cantidad de información y mensajes que nos bombardean, y además nuestro tiempo sí es limitado. Nuestra curiosidad combinada con nuestra capacidad para filtrar aquello que nos es relevante es lo que va a marcar lo que aprendemos y lo que no. Una mente abierta receptiva a tal volumen de información, con capacidad de interpretarla desde distintas perspectivas y hacerse nuevas preguntas en función de ella van a ser cualidades determinantes.
+The elements that constitute the Human Factor are:
 
-**Empatía**: Conectar con otras personas, entender sus sentimientos, sus miedos y anhelos, ponernos en la piel de otros, son clave para entender la necesidades de los clientes, y para generar sentimientos de confianza o simpatía. La irracionalidad del ser humano es uno de los aspectos más difíciles de interpretar y predecir por algoritmos de big data. Si Henry Ford hubiera preguntado a sus clientes qué querían, le hubieran dicho que un caballo más rápido. Anticipar las necesidades y las preferencias irracionales humanas es una capacidad aún difícilmente reemplazable por una máquina.
+**Curiosity**: It is the desire to learn and explore new things. It is characterized by a questioning mindset and a drive to seek out information and knowledge. Curiosity can involve asking questions, trying out new things, and seeking out new experiences. It is an important quality that helps us grow and develop, both personally and professionally. Curiosity is often associated with traits such as open-mindedness, critical thinking, and the ability to analyze and synthesize information. It is a key component of innovation, as it drives us to explore new ideas.
 
-**Imaginación**: Concebir ideas, visualizar lo que no se ha visto, trabajar con conceptos abstractos, generar visiones y establecer objetivos y planes para conseguirlos.
+Google Search have made an unprecedented amount of information available to all of us, yet only the curious person that queries and queries again, is able to distill that ocean of data into  drops of knowledge. Learning is no longer limited by access to information, but by our own ability be curious and seek answers.  In a changing professional world, the questions we ask ourselves are becoming more important than the answers we already have.
 
-La capacidad de visualizar en la mente lo que antes no se ha visto es clave para innovar. Es la habilidad que nos permite imaginar un futuro diferente y mejor que el presente.
+We are constantly bombarded with a vast amount of information and messages. Our curiosity combined with our ability to filter what is relevant to us determines what we learn and what we do not.
 
-**Creatividad**: unir cabos, conectar ideas y personas, pensar diferente, ver puntos de vista con nuevos ángulos, identificar oportunidades, crear soluciones y propuestas de valor. 
 
-Es el pensamiento no lineal, o pensamiento lateral. La capacidad de ver las cosas desde un punto de vista distinto, de ver más allá de lo evidente y conectarlo con otras ideas que creen valor. Si la imaginación nos permite visualizar en la mente y conceptualizar aquello que no existe o no se puede ver, la creatividad nos permite construir algo con ello.
+**Empathy**: the ability to understand needs, sensitivities, emotions, and to build relationships and connections with others. Connecting with people, understanding their feelings, fears, and desires, and putting ourselves in their shoes are key to understanding customer needs and generating trust and sympathy. The irrationality of human beings is one of the most difficult aspects for algorithms to interpret and predict. Anticipating irrational human needs and preferences is still a capacity that is difficult for machines to replicate.
 
-**Comunicación**: La capacidad de comunicar una idea, de hacer ver otro punto de vista, de persuadir, de suscitar emociones en otros.
+**Imagination**: the ability to conceive ideas, visualize what has not been seen before, work with abstract concepts, generate visions, and establish goals and plans to achieve them. The ability to visualize in the mind what has not been seen before is crucial for innovation. It allows us to imagine a future that is different and better than the present.
 
-Es la habilidad que nos hace influir en los demás. Hacer llegar el mensaje de forma clara, concisa y relevante para el receptor para conseguir la reacción deseada. En cualquiera de sus formas, verbal, escrita o visual, es un elemento clave en una economía donde la atención sí es un bien escaso.
+**Creativity**: the ability to connect dots, connect ideas and people, think differently, see things from new angles, identify opportunities, and create solutions and value propositions. Creativity is about non-linear thinking or lateral thinking. It allows us to see things from a different perspective, to see beyond the obvious, and to connect ideas in a way that creates value. While imagination allows us to visualize and conceptualize what does not yet exist or cannot be seen, creativity allows us to build something with it.
 
-**Liderazgo**: La capacidad de movilizar, inspirar y motivar a otros a actuar con un determinado fin o por una determinada causa es posiblemente la más valorada de todas las habilidades en el mundo de la empresa. Requiere de todas las anteriores, además de otras cualidades más sutiles como la capacidad de generar confianza, de motivar, de entusiasmar, de tomar la iniciativa, de perseverar o de mostrar determinación por conseguir los objetivos.
 
-![Cover](/img/curiosidad.jpg)
+**Communication**: the ability to clearly and concisely communicate an idea, show another point of view, persuade, and evoke emotions in others. Communication is key to influencing others. Delivering a message in a clear, concise, and relevant way to the receiver in order to elicit the desired reaction requires the ability to adapt the message to the audience by listening and understanding them. In any form - verbal, written, or visual - effective communication is a decisive element in an economy where attention is a scarce commodity.
 
-De todos los elementos del Factor Humano que nos diferencia de las máquinas, la **curiosidad** está en el centro y conecta con cada uno de los otros.
+**Leadership**: the ability to mobilize, inspire, and motivate others to act for a certain purpose or cause is possibly the most valued skill in the business world. It requires all of the above skills, as well as more subtle qualities such as the ability to build trust, motivate, excite, take initiative, persevere, and show determination to achieve goals.
 
-- curiosidad por lo humano -> Empatía
-- curiosidad por las ideas -> Imaginación
-- curiosidad por las soluciones -> Creatividad
-- curiosidad por influir en los demás -> Comunicación
-- curiosidad por el resultado a través de la acción-> Liderazgo
+Of all these elements that conform the Human Factor, it is  Curiosity the one that glues it all, because:
 
-Todos ellos son factores intrínsecos a la innovación, a imaginar y poner en marcha soluciones que conecten con las necesidades y los problemas de las personas.
+It is Curiosity for emotions that drives Empathy,
+It is Curiosity for ideas that drives Imagination
+It is Curiosity for solutions that drives Creativity
+It is Curiosity for influencing others that drives Communication
+It is Curiosity for results through action that drives Leadership
 
-Emprender, tomar la iniciativa para cambiar el mundo y hacerlo mejor con la ayuda de la tecnología y los “robots” es aún una labor que solo las personas pueden hacer.
+![Cover](/img/human-factor.jpg)
 
-La automatización va a destruir empleo, pero innovar va a seguir necesitando de humanos.
+All of them are intrinsic factors in innovating, in imagining and implementing solutions that connect with people's needs and problems. We can foresee three areas in which the Human Factor will be crucial:
 
-*Extraído del libro “Tu Trabajo va a desaparecer: Para qué futuro se preparan tus hijos”*
+**Technological innovation**. Using scientific and technical advances to solve big problems.
+
+**Social innovation**. Developing solutions that not only promote economic progress but also create a more just society in which there is room for everyone.
+
+**Artistic innovation**. Culture is going to play a very important role in creating common elements and building bridges in a world that is increasingly easy to polarize and radicalise. Given the excess of information, extremes are gaining ground because they "over-simplify" what is difficult to understand. Art plays a fundamental role in understanding and communicating the essence of the complex.
+
+These three areas are not independent but rather overlap and influence each other. For example, the democratization of audiovisual production tools through platforms like YouTube has enabled new artistic creators to have greater freedom and autonomy. Understanding technology, its capabilities, and implications will be a requirement across all three areas, as robots and artificial intelligence will be protagonists in all of them.
+
+The activities connected with innovation are the ones that have the greatest opportunity to generate wealth and at the same time present less risk of being automated. It is the abilities of leadership, of imagining solutions, communicating them and involving others to implement them that will continue to be genuinely human.
+
+Entrepreneurship, taking the initiative to change the world and make it better with the help of technology and AI is still a task that only people can do.
+
+*Extracted from 'AI at Work'

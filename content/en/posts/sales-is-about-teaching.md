@@ -5,14 +5,14 @@ weight: 194
 draft: false
 tags: [“leadership”, “sales”]
 cover:
- image: img/sales-teaching.png
+ image: img/sales-teaching.jpg
  alt: ‘Cover image’
 
 ---
 
 Great sales people teach their clients a different way to think about their issues.
 
-A research asked thousands of customers about what is it that they valued most from their suppliers. The results showed that **what sets the best sales reps apart is the value of their insights in how to make the customer make or save money in ways they did not know were possible**. 
+A research (by [CEB](https://en.wikipedia.org/wiki/CEB_Inc.)) asked thousands of customers about what is it that they valued most from their suppliers. The results showed that **what sets the best sales reps apart is the value of their insights in how to make the customer make or save money in ways they did not know were possible**. 
 
 Customers loves salespeople who teach and discover new ways for them to succeed.
 
