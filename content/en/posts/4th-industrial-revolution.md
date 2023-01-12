@@ -5,19 +5,19 @@ draft: false
 weight: 199
 ---
 
-In 1990, the top three automakers in Detroit had combined:
-- market capitalization of 36 trillion dollars (“US trillion” of 1,000 million)
-- revenue of 250,000 million dollars
-- 1.2 million employees, with around 5% of them dedicated to innovation
+In 1990, the top 3 automakers in Detroit had a combined:
+- market capitalization of 36 billion dollars 
+- revenue of $250 billion 
+- 1.2 million employees, out of which 5% worked in innovation
 
-In 2014, the three main companies in Silicon Valley add between them:
-- **30 times capitalization**: more than 1,000 trillion dollars!
-- virtually **same revenue**: $247 billion
-- **10 times fewer employees**: 137,000, with more than 80% of them dedicated to innovation
+In 2014, the top 3  companies in Silicon Valley had a combined:
+- **market capitalization 30 times bigger**: more than 1,000 billion dollars!
+- **same level of revenue**: $247 billion
+- **10 times fewer employees**: 137,000, with more than 80% of them working in innovation
 
-In the Digital Age, ideas, and not material goods, become the main asset for generating wealth. In today's economy, far fewer workers are needed to generate the same income, and the value of the wealth generated multiplies.
+In the Digital Age, ideas, and not material goods, become the main source of wealth. In today's economy, far fewer workers are needed to generate the same income, and the value of the wealth generated multiplies.
 
-In the world we are heading to, Innovation is going to play a key role in generating employment and wealth.
+In the world we are heading to, Innovation drives the creation of employment and wealth.
 
 Companies based on technological innovation already top the rankings of the largest companies in the world by capitalization: Google (Alphabet), Apple, Microsoft, Amazon, Facebook, etc. The technological sector, or one with a strong technology component, is the main engine for the creation of new companies that seek to create cataclysms that reconfigure the industries they transform. **Fintech, Insurtech, Edtech, HealthTech** are just some of the buzzwords that push a good number of startups that intend to completely re-invent sectors such as finance, insurance, education or health through technology.
 

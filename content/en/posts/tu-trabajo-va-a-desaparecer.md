@@ -17,5 +17,5 @@ cover:
 
 ![Cover](/img/ttvd-cover-188x300.jpg)
 
-[**Tu trabajo va a desaparecer**](https://www.amazon.es/dp/B072L6FP5H/) is a book published in 2017 in Spanish which proovides answers, thoughts and new perspective on the future of work.
+[**Tu trabajo va a desaparecer**](https://www.amazon.es/dp/B072L6FP5H/) is a book published in 2017 in Spanish which provides answers to those questions and new perspectives on the future of work.
 
