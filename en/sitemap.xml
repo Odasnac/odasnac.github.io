@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.odasnac.com/posts/curiosity/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.odasnac.com/es/posts/curiosity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.odasnac.com/posts/curiosity/"
+                />
+  </url><url>
     <loc>https://www.odasnac.com/posts/sales-is-about-teaching/</loc>
     <xhtml:link
                 rel="alternate"
@@ -235,17 +247,5 @@
                 />
   </url><url>
     <loc>https://www.odasnac.com/ai-at-work/</loc>
-  </url><url>
-    <loc>https://www.odasnac.com/posts/curiosity/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.odasnac.com/es/posts/curiosity/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.odasnac.com/posts/curiosity/"
-                />
   </url>
 </urlset>
