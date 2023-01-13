@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "es/posts/tu-trabajo-va-a-desaparecer.es.md",
+                "file": "es/posts/building-a-second-brain.es.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "es/posts/tu-trabajo-va-a-desaparecer.es.md",
+                "file": "es/posts/building-a-second-brain.es.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "es/posts/tu-trabajo-va-a-desaparecer.es.md",
+                "file": "es/posts/building-a-second-brain.es.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "es/posts/tu-trabajo-va-a-desaparecer.es.md"
+                "file": "es/posts/building-a-second-brain.es.md"
               }
             }
           }
@@ -148,13 +148,13 @@
   },
   "active": "1a4947c64098b022",
   "lastOpenFiles": [
-    "es/posts/serenity-prayer.es.md",
-    "es/posts/template.es.md",
-    "es/posts/sales-is-about-teaching.es.md",
-    "es/posts/leadership-moving-others.es.md",
     "es/posts/curiosity.es.md",
-    "es/posts/ai-at-work-draft.es.md",
+    "en/posts/curiosity.md",
     "es/posts/4th-industrial-revolution.es.md",
+    "es/posts/tu-trabajo-va-a-desaparecer.es.md",
+    "en/posts/leadership-moving-others.md",
+    "en/posts/logotheraphy.md",
+    "en/posts/sales-is-about-teaching.md",
     "en/posts/serenity-prayer.md",
     "en/posts/tu-trabajo-va-a-desaparecer.md",
     "en/posts/4th-industrial-revolution.md"
