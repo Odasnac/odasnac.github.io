@@ -10,6 +10,8 @@ cover:
 
 ---
 
+![Cover](/img/ai-at-work-paper.jpg)
+
 Everyone talks about ChatGPT and how it is going to change everything. There are thousands of YouTube videos explaining how ChatGPT can be used to generate content, software or do your homework. There are all sorts of clickbait posts alerting on how AI will leave you jobless and without future.
 
 If you want to make sense out of the hype, why not asking ChatGPT for help?
@@ -28,5 +30,5 @@ Post any feedback to:
 [Twitter](https://twitter.com/odasnac)   
 [LinkedIn](https://www.linkedin.com/in/odasnac/)
 
-
+*You can also get the 'AI at Work' paperback copy from [Amazon](https://www.amazon.com/dp/B0BRNFPPD7/)*
 

@@ -8,31 +8,31 @@ cover:
  alt: ‘Cover image’
 
 ---
-The Serenity Prayer in bullets:
+La Oración de la Serenidad en *bullets*:
 
-> *God, grant me the* 
-> - ***serenity** to accept the things I cannot change,*  
-> - ***courage** to change the things I can,  and* 
-> - ***wisdom** to know the difference.*
+> *Dios, concédeme*
+> - ***serenidad** para aceptar las cosas que no puedo cambiar,*
+> - ***coraje** para cambiar las cosas que puedo, y*
+> - ***sabiduría** para saber la diferencia.*
 
-This prayer combines so well with these words in the *I Ching* (translation of [Brian Browne Walker](https://brianbrownewalker.com/2022/01/25/ebb-and-flow/)):
+Esta oración combina muy bien con estas palabras en el *I Ching* :
 
-> *Ebb and flow are inherent in the nature of life.* 
-> *When difficulties arise, accept this and hold firmly to what is correct.* 
-> *Good fortune returns to those that remain calm and detached.*
+> *Los altos y bajos son inherentes a la naturaleza de la vida.*
+> *Cuando surjan dificultades, acéptalo y aférrate firmemente a lo que es correcto.*
+> *La buena fortuna vuelve a los que se mantienen en calma y desapego*
 
-Both prayers have in common: 
-- Acceptance of what you can not change. 
-- Seeking virtue by having the courage to hold firmly to what is correct. 
-- Wisdom is best found in calmness and detachment.
+Ambas oraciones tienen en común:
+- Aceptación de lo que no se puede cambiar.
+- Buscar la virtud teniendo el coraje de aferrarse firmemente a lo que es correcto.
+- La sabiduría se encuentra mejor en la calma y el desapego.
 
-Serenity is the best way to tame your emotions as you accept what can't be changed, seek virtue by holding to what is correct, and find wisdom in the serene detachment from the situation.
+La serenidad es la mejor manera de domar tus emociones mientras aceptas lo que no se puede cambiar, buscas la virtud aferrándote a lo que es correcto y encuentras sabiduría en el sereno desapego de la situación.
 
-Serenity brings clarity.
+La serenidad trae claridad.
 
 
-> *God, grant me the serenity to accept the things I cannot change, courage to change the things I can, and wisdom to know the difference.*
+> *Dios, concédeme la serenidad para aceptar las cosas que no puedo cambiar, valor para cambiar las cosas que puedo y sabiduría para reconocer la diferencia.*
 
-It is attributed to Reinhold Niebuhr, an American theologian in the 1930s.
+Se atribuye a Reinhold Niebuhr, un teólogo estadounidense de la década de 1930.
 
-One precursor to this prayer can be found in the words of the Stoics and in Epictetus.
+Un precursor de esta oración se puede encontrar en las palabras de los estoicos y en Epicteto.

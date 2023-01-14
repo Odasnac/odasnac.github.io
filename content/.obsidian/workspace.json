@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "es/posts/building-a-second-brain.es.md",
+                "file": "es/posts/serenity-prayer.es.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "es/posts/building-a-second-brain.es.md",
+                "file": "es/posts/serenity-prayer.es.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "es/posts/building-a-second-brain.es.md",
+                "file": "es/posts/serenity-prayer.es.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "es/posts/building-a-second-brain.es.md"
+                "file": "es/posts/serenity-prayer.es.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "1a4947c64098b022",
   "lastOpenFiles": [
-    "es/posts/curiosity.es.md",
-    "en/posts/curiosity.md",
-    "es/posts/4th-industrial-revolution.es.md",
-    "es/posts/tu-trabajo-va-a-desaparecer.es.md",
-    "en/posts/leadership-moving-others.md",
-    "en/posts/logotheraphy.md",
-    "en/posts/sales-is-about-teaching.md",
+    "es/posts/sales-is-about-teaching.es.md",
+    "es/posts/serenity-prayer.es.md",
+    "es/posts/leadership-moving-others.es.md",
+    "es/posts/building-a-second-brain.es.md",
     "en/posts/serenity-prayer.md",
-    "en/posts/tu-trabajo-va-a-desaparecer.md",
-    "en/posts/4th-industrial-revolution.md"
+    "es/posts/ai-at-work-draft.es.md",
+    "en/posts/ai-at-work-draft.md",
+    "en/ai-at-work/index.md",
+    "en/posts/4th-industrial-revolution.md",
+    "img/AI_at_Work-cover-188x300.jpg.md"
   ]
 }

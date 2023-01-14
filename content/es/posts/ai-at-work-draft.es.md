@@ -1,30 +1,33 @@
 ---
 title: Qué piensa ChatGPT de como la IA impactará en nuestros trabajos
 date: 2023-01-03T08:08:00+01:00
+weight: 192
 draft: false
 tags: [“FutureOfWork”]
 cover:
  image: img/ai-office.jpg
  alt: ‘Cover image’
 ---
+![Cover](/img/ai-at-work-paper.jpg)
 
-Everyone talks about ChatGPT and how it is going to change everything. There are thousands of YouTube videos explaining how ChatGPT can be used to generate content, software or do your homework. There are all sorts of clickbait posts alerting on how AI will leave you jobless and without future.
+Todo el mundo habla de ChatGPT y de cómo va a cambiarlo todo. 
 
-If you want to make sense out of the hype, why not asking ChatGPT for help?
-You can directly ask the famous AI or just read **"AI at Work: The Impact of Artificial Intelligence on the Future of Employment."** 
+Hay miles de videos de YouTube que explican cómo se puede usar ChatGPT para generar contenido, software o hacer su tarea. Hay todo tipo de publicaciones que alertan sobre cómo la IA te dejará sin trabajo y sin futuro.
 
-This book compiles the **insights and predictions of ChatGPT**, a leading *expert* in the field of artificial intelligence, on how AI will shape the future of work. If you're curious about how AI will impact your job and career, this book is a must-read.
+Si quieres saber que piensa ChatGPT al respecto, lo puedes leer en **"IA en el trabajo: el impacto de la inteligencia artificial en el futuro del empleo".**
 
-You can download a preview of the book here. 
+El libro recopila los **conocimientos y predicciones de ChatGPT**, un *experto* líder en el campo de la inteligencia artificial, sobre cómo la IA cambiará nuestros trabajos.
+
+Puedes descargar una el libro gratis aquí:
 
 **AI at Work** Draft 1 ([PDF](https://www.odasnac.com/free/AI_at_Work-230103-Draft.pdf))  
 **AI at Work** Draft 1 ([ePub](https://www.odasnac.com/free/AI_at_Work-230102-Draft.epub)) 
 
-Don't miss out on this opportunity to stay informed and stay ahead of the curve on the future of work. Stay curious and download your preview copy now!
+Está en Inglés, para que puedas practicar ;)
 
 Post any feedback to: 
 [Twitter](https://twitter.com/odasnac)   
 [LinkedIn](https://www.linkedin.com/in/odasnac/)
 
-
+*You can also get the 'AI at Work' paperback copy from [Amazon](https://www.amazon.es/dp/B0BRNFPPD7/)*
 
