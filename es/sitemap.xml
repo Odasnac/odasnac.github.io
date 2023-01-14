@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.odasnac.com/es/posts/ai-at-work-draft/</loc>
+    <lastmod>2023-01-03T08:08:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.odasnac.com/posts/ai-at-work-draft/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.odasnac.com/es/posts/ai-at-work-draft/"
+                />
+  </url><url>
     <loc>https://www.odasnac.com/es/posts/curiosity/</loc>
     <xhtml:link
                 rel="alternate"
@@ -87,19 +100,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://www.odasnac.com/es/posts/"
-                />
-  </url><url>
-    <loc>https://www.odasnac.com/es/posts/ai-at-work-draft/</loc>
-    <lastmod>2023-01-03T08:08:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.odasnac.com/posts/ai-at-work-draft/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.odasnac.com/es/posts/ai-at-work-draft/"
                 />
   </url><url>
     <loc>https://www.odasnac.com/es/tags/</loc>
