@@ -111,8 +111,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Espressamente \U00002615"
-    Content: "Victor Odåsnac \U0001F44B"
+    Title: "Meaningful Work"      # "Espressamente \U00002615"
+    Content: "Victor Odåsnac"     # \U0001F44B
 
   socialIcons:
     - name: twitter
