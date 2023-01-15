@@ -10,22 +10,22 @@ cover:
 
 ---
 
+Building a second brain is about creating a system to process the vast amounts of information we consume and transform it into actionable knowledge.
+
 [Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential](https://www.amazon.com/dp/B09MDNDYYF/), by Tiago Forte is one of the books of 2022.
 
 The underlying philosophy is very similar to that of [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten). Tiago Forte’s method is a pragmatic update to this note-taking system, which is popular in the academic world.
 
-Building a second brain is about creating a system to process the vast amounts of information we consume and transform it into actionable knowledge.
-
 Notes are the building blocks for your second brain. Notes are bits of info that you collect and recall when needed.
 
-Use the **CODE** method to process your notes. The key is to make each step as easy and effective as possible:
+Forte proposes the **CODE** method to process your notes. The key is to make each step as easy and effective as possible:
 
 - **Capture** and collect ideas, info, bits of knowledge into notes you can later use
 - **Organize** the notes so that they are easy to find when you need them
-- **Distill** the essence of what is relevant to you and your projects
-- **Express** and *ship* your knowledge into deliverables for your projects
+- **Distill** the essence of what is relevant to you and your projects (add your context and your unique point of view)
+- **Express** your knowledge into deliverables for your projects
 
-Use note-taking apps such as Keep, OneNote, Notion, Evernote, Apple Notes, Obsidian (my favorite) or any other that makes all four steps easy.
+A note-taking apps such as Keep, OneNote, Notion, Evernote, Apple Notes, Obsidian (my favorite) or any other that makes all four steps easy, is the main tool to host your second brain.
 
 The key to make knowledge actionable is to organize it in a way that notes ‘find’ you when you need them. Tiago suggests to organize your notes within four PARA buckets:
 
@@ -46,9 +46,11 @@ That is, organize your notes from the most fresh and actionable ones (in *Projec
 
 PARA is a frame less liquid than Zettelkasten that adds order, clarity and intention to your note system.
 
-The method proposed by Forte to distill knowledge is Progressive Summarization. The idea is to add your context to your notes so that it ends up becoming knowledge of what is truly relevant for your brain.
+---
+*Note:* 
+*The method proposed by Forte to distill knowledge is Progressive Summarization. The idea is to add your context to your notes so that it ends up becoming knowledge of what is truly relevant for your brain.*
 
-There is an [interesting visual summary](https://www.scribd.com/document/480453126/Building-a-Second-Brain-The-Illustrated-Notes) of the book by maggieappleton.com
+*There is an [interesting visual summary](https://www.scribd.com/document/480453126/Building-a-Second-Brain-The-Illustrated-Notes) of the book by maggieappleton.com*
 
 
 

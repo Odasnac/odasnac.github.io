@@ -1,6 +1,7 @@
 ---
 title: Mover, motivar, emocionar
 date: 2022–08-31
+weight: 195
 draft: false
 tags: [“leadership”]
 cover:
@@ -9,25 +10,25 @@ cover:
 
 ---
 
-It was striking to see in Benjamin Zander's Ted talk his capacity to "move" people. Note how he delivers his talk, how he brings attention and accent to different parts of it, how he uses stories, how he makes it so inspiring and emotional. 
+Fue sorprendente ver en la charla TED de Benjamin Zander su capacidad para "conmover" al público. Es interesante fijarse en cómo llama la atención y enfatiza las ciertas partes, y cómo usa las historias para hacer la charla inspiradora y emotiva.
 
-His stories were meant to make people emotional, so that the impact is far greater.
+Sus historias están destinadas a emocionar a la audiencia, lo que hace que su impacto sea mucho mayor.
 
-At the end it shows how leadership is about moving others to action. 
-And nothing works better than appealing to emotions with stories and with a vividly intense delivery that bring attention to the important messages.
+Es una muestra de cómo el liderazgo se trata de *mover* a otros a que actúen.
+Para ello, nada funciona mejor que apelar a las emociones con historias y comunicar de una forma vívida e intensa que enfatice sobre los mensajes importantes.
 
-"Move" them in order to get them to move and act. 
-"Move" them so that they gain a new perspective and can see new possibilities.
-"Move" them because emotions make things memorable and [[Contagious]].
+"(Con)muévelos" para que se muevan y actúen.
+"Muévelos" para que adquieran una nueva perspectiva que les permita ver nuevas posibilidades.
+"Muévelos" porque las emociones hacen que las ideas sean memorables y contagiosas.
 
-Coming from a musician, from a conductor, it is really inspiring, because artists are about that, about "moving" people, about creating emotions that change perspectives and transform how audiences see the World. 
+Es realmente inspirador que el mensaje venga de un director de orquesta. Porque los artistas justo tratan de eso:  de "mover" a la gente, de crear emociones que cambien las perspectivas y transformen la forma en que el público ve el mundo.
 
-That is the immense power of Arts. Stories, music, paintings, photos, films, even TED-talks, all of them can have profound effects in society by *touching* people and altering the way they perceive an issue or a reality.
+Ese es el inmenso poder de las Artes. Historias, música, pinturas, fotos, películas, incluso charlas TED, todos ellos pueden tener efectos profundos en la sociedad cuando *tocan* a las personas y alteran la forma en que percibe un problema o una realidad.
 
-Art can uncover new perspectives by bringing attention to inadvertent details, to those subtle differences that turn out to make the difference. 
+El arte descubre nuevas perspectivas cuando lleva nuestra atención a descubrir determinados detalles inadvertidos, o a apreciar esas diferencias sutiles que resulta marcan la diferencia.
 
-How do you know if you are moving them? You can see that in their shining eyes.
+¿Cómo sabes si los estás *moviendo*? Puedes verlo en sus ojos brillantes.
 
-"Who am I being that my children's eyes are not shining?" says Benjamin Zander in his [TED talk in 2008](https://www.youtube.com/watch?v=r9LCwI5iErE)
+"¿Quién soy yo para que los ojos de mis hijos no brillen?" dice Benjamin Zander en su [TED talk in 2008](https://www.youtube.com/watch?v=r9LCwI5iErE)
 
 

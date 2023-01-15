@@ -2,6 +2,7 @@
 title: Tu segundo cerebro
 date: 2022–12-08T08:08:00+01:00
 draft: false
+weight: 196
 tags: [“BookSummary”]
 cover:
  image: img/second-brain.jpg
@@ -9,45 +10,44 @@ cover:
 
 ---
 
-[Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential](https://www.amazon.com/dp/B09MDNDYYF/), by Tiago Forte is one of the books of 2022.
+Construir un segundo cerebro se trata de crear un sistema para procesar la gran cantidad de información que consumimos para transformarla en conocimiento *accionable*.
 
-The underlying philosophy is very similar to that of [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten). Tiago Forte’s method is a pragmatic update to this note-taking system, which is popular in the academic world.
+[Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential](https://www.amazon.es/dp/B09MDNDYYF/), de Tiago Forte es uno de los libros destacados de 2022.
 
-Building a second brain is about creating a system to process the vast amounts of information we consume and transform it into actionable knowledge.
+La filosofía subyacente es muy similar a la de [Zettelkasten](https://es.wikipedia.org/wiki/Zettelkasten). El método de Tiago Forte es una actualización pragmática de este sistema de toma de notas, que es popular en el mundo académico.
 
-Notes are the building blocks for your second brain. Notes are bits of info that you collect and recall when needed.
+Las notas son los componentes básicos de tu segundo cerebro. Las notas son fragmentos de información que recopilas y recuerdas cuando es necesario.
 
-Use the **CODE** method to process your notes. The key is to make each step as easy and effective as possible:
+Forte propone el método **CODE** para procesar tus notas. Consiste en cuatro pasos:
 
-- **Capture** and collect ideas, info, bits of knowledge into notes you can later use
-- **Organize** the notes so that they are easy to find when you need them
-- **Distill** the essence of what is relevant to you and your projects
-- **Express** and *ship* your knowledge into deliverables for your projects
+- **Captura** y recopila ideas, información, fragmentos de conocimiento en notas que puedas usar más adelante
+- **Organiza** las notas para que sean fáciles de encontrar cuando las necesites
+- **Destila** la esencia de lo que es relevante para ti y tus proyectos; dótalas de contexto y añádeles tu punto de vista
+- **Expresa** tu conocimiento incorporándolo en tus proyectos
 
-Use note-taking apps such as Keep, OneNote, Notion, Evernote, Apple Notes, Obsidian (my favorite) or any other that makes all four steps easy.
+Las aplicaciones de notas como Keep, OneNote, Notion, Evernote, Apple Notes, Obsidian (mi favorita) o cualquier otra que facilite los cuatro pasos, son las que dan sustento a tu segundo cerebro.
 
-The key to make knowledge actionable is to organize it in a way that notes ‘find’ you when you need them. Tiago suggests to organize your notes within four PARA buckets:
+La clave para hacer que el conocimiento sea *accionable* es organizarlo de manera que te sea fácil *encontrarte* con las notas cuando lo necesites. 
 
-- **Projects**
-- **Areas**
-- **Resources**
-- **Archive**
+Para ello Tiago sugiere organizar sus notas dentro de cuatro cubos *PARA*:
 
-That is, organize your notes from the most fresh and actionable ones (in *Projects*) all the way down to those that you want to get out of sight and *Archive*.
+- **Proyectos**
+- **Áreas**
+- **Recursos**
+- **Archivo**
 
-**Projects** are meant to produce an outcome. That is what makes notes actionable, as they become part of a project with a goal in mind, e.g.: writing a book, a proposal, a presentation, a video script, etc. Projects are the way to transmute Notes into an Asset that can be shared.
+Es decir, organice sus notas desde las más recientes y accionables (en *Proyectos*) hasta aquellas que desea ocultar y *Archivar*.
 
-**Areas** are great to collect and accumulate knowledge that you can  nurture and grow. Areas can develop into a project or just feed content for specific needs.
+**Los proyectos** están destinados a producir un resultado. Eso es lo que hace que las notas sean *accionables*, ya que se vuelven parte de un proyecto con un objetivo en mente, por ejemplo: escribir un libro, una propuesta, una presentación, un guión de video, etc. Los proyectos son la forma de transmutar las Notas en un Activo que puede ser compartido.
 
-**Resources** are meant to be kept for reference for a future use.
+Las **áreas** son excelentes para recopilar y acumular conocimientos que puedes cultivar y hacer crecer. Las áreas pueden convertirse en un proyecto o simplemente alimentar contenido para necesidades específicas.
 
-**Archive** to declutter your note space from those finished projects or perishable notes that are not valuable anymore.
+Los **recursos** están destinados a conservarse como referencia para un uso futuro.
 
-PARA is a frame less liquid than Zettelkasten that adds order, clarity and intention to your note system.
+**Archive** para despejar su espacio de notas de esos proyectos terminados o de notas perecederas que ya no son valiosas.
 
-The method proposed by Forte to distill knowledge is Progressive Summarization. The idea is to add your context to your notes so that it ends up becoming knowledge of what is truly relevant for your brain.
+PARA es un marco menos *líquido* que Zettelkasten que añade orden, claridad e intención a su sistema de notas.
 
-There is an [interesting visual summary](https://www.scribd.com/document/480453126/Building-a-Second-Brain-The-Illustrated-Notes) of the book by maggieappleton.com
 
 
 
