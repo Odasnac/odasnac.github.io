@@ -1,6 +1,7 @@
 ---
 title: Oración de la Serenidad
 date: 2022–08-31T08:08:00+01:00
+weight: 201
 draft: false
 tags: [“growth”]
 cover:
@@ -29,7 +30,6 @@ Ambas oraciones tienen en común:
 La serenidad es la mejor manera de domar tus emociones mientras aceptas lo que no se puede cambiar, buscas la virtud aferrándote a lo que es correcto y encuentras sabiduría en el sereno desapego de la situación.
 
 La serenidad trae claridad.
-
 
 > *Dios, concédeme la serenidad para aceptar las cosas que no puedo cambiar, valor para cambiar las cosas que puedo y sabiduría para reconocer la diferencia.*
 

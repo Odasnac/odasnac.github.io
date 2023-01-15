@@ -8,13 +8,14 @@ cover:
  image: img/ai-office.jpg
  alt: ‘Cover image’
 ---
-![Cover](/img/ai-at-work-paper.jpg)
 
 Todo el mundo habla de ChatGPT y de cómo va a cambiarlo todo. 
 
 Hay miles de videos de YouTube que explican cómo se puede usar ChatGPT para generar contenido, software o hacer su tarea. Hay todo tipo de publicaciones que alertan sobre cómo la IA te dejará sin trabajo y sin futuro.
 
 Si quieres saber que piensa ChatGPT al respecto, lo puedes leer en **"IA en el trabajo: el impacto de la inteligencia artificial en el futuro del empleo".**
+
+![Cover](/img/ai-at-work-paper.jpg)
 
 El libro recopila los **conocimientos y predicciones de ChatGPT**, un *experto* líder en el campo de la inteligencia artificial, sobre cómo la IA cambiará nuestros trabajos.
 

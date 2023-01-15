@@ -1,25 +1,28 @@
 ---
 title: Logoterapia
 date: 2022–05-27T08:08:00+01:00
+weight: 198
 draft: false
 tags: [“BookSummary”]
 
 ---
 
-Viktor Frankl wrote his experience to endure and survive four concentration camps between 1942 and 1945.
+Viktor Frankl escribió su experiencia para soportar y sobrevivir a cuatro campos de concentración entre 1942 y 1945.
 
-The viennese psychiatrist wrote  "Man's Search for Meaning" in just 9 days and intended to publish it anonymously. He was surprised by its success as an international bestseller, and saw in it the symptom of the "mass neurosis of modern times" since the title promised to deal with the question of life's meaningfulness.
+El psiquiatra vienés escribió "El hombre en busca de sentido" en solo 9 días y tenía la intención de publicarlo de forma anónima. Le sorprendió su éxito como éxito de ventas internacional. Puesto que el título prometía abordar la cuestión del significado de la vida, Frankl vió el éxito del libro como un síntoma de la *neurosis de masas* que sufirmos en los tiempos modernos.
 
-The first part of the book recounts his experience in dealing with the worst and cruelest conditions a human being can think of, and how still some of them managed to survived. It was those who had a reason to live, who saw a meaning in their life, who were able to endure the utmost suffering a person can imagine.
+La primera parte del libro relata su experiencia al enfrentarse a las peores y más crueles condiciones que un ser humano pueda imaginar, y cómo aun así algunos de ellos lograron sobrevivir. 
 
-Frankl had developed logotherapy as a third psychological current, different from Freud and Adler. Logotherapy is based on the desire to find a meaning a life and free will.
+Fueron aquellos que tenían una razón para vivir, que vieron un sentido en su vida, los que fueron capaces de soportar el mayor sufrimiento que una persona pueda imaginar.
 
-The primary techniques used by Frankl are:
-- **Paradoxical intention**, to fight anxiety and anticipatory fear. It translates into self distancing, humorous exaggeration, or just wishing for what your fear, just to prevent it
-- **Dereflection**: drawing attention away form their symptoms, as hyper-reflection can lead to worsening the symptoms
-- **Socratic dialogue and attitude modification**, to help a client find and pursue a self-defined meaning in life
+Frankl desarrolló la Logoterapia como una tercera corriente psicológica, diferente a Freud y Adler. La Logoterapia se basa en el deseo de encontrar un sentido a la vida y el libre albedrío.
 
-"He who has a why to live for can bear almost any how"
-–Friedrich Nietzsche
+Las principales técnicas utilizadas por Frankl son:
+- **Intención paradójica**, para combatir la ansiedad y el miedo anticipatorio. Se traduce en distanciamiento propio, exageración humorística o simplemente desear lo que temes, solo para evitarlo.
+- **Desreflexión**: desviar la atención de sus síntomas, ya que la hiperreflexión puede empeorar los síntomas
+- **Diálogo socrático y modificación de actitudes**, para ayudar a un cliente a encontrar y buscar un significado autodefinido en la vida
 
-Frankl reinforces the _will to meaning_ as the fundamental motivation, in contrast to previous schools that put the emphasis on the _will to pleasure_ or the _will to power_.
+“Quien tiene un porqué para vivir, puede soportar casi cualquier cómo”
+-Friedrich Nietzsche
+
+Frankl refuerza la _voluntad de sentido_ como motivación fundamental, a diferencia de escuelas anteriores que ponían el énfasis en la _voluntad de placer_ o la _voluntad de poder_.

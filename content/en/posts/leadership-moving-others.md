@@ -19,7 +19,7 @@ And nothing works better than appealing to emotions with stories and with a vivi
 
 "Move" them in order to get them to move and act. 
 "Move" them so that they gain a new perspective and can see new possibilities.
-"Move" them because emotions make things memorable and [[Contagious]].
+"Move" them because emotions make things memorable and contagious.
 
 Coming from a musician, from a conductor, it is really inspiring, because artists are about that, about "moving" people, about creating emotions that change perspectives and transform how audiences see the World. 
 
