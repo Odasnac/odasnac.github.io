@@ -39,6 +39,30 @@
                 href="https://www.odasnac.com/es/posts/sales-is-about-teaching/"
                 />
   </url><url>
+    <loc>https://www.odasnac.com/es/posts/leadership-moving-others/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.odasnac.com/posts/leadership-moving-others/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.odasnac.com/es/posts/leadership-moving-others/"
+                />
+  </url><url>
+    <loc>https://www.odasnac.com/es/posts/building-a-second-brain/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.odasnac.com/posts/building-a-second-brain/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.odasnac.com/es/posts/building-a-second-brain/"
+                />
+  </url><url>
     <loc>https://www.odasnac.com/es/posts/logotheraphy/</loc>
     <xhtml:link
                 rel="alternate"
@@ -229,31 +253,7 @@
   </url><url>
     <loc>https://www.odasnac.com/es/cuentos/</loc>
   </url><url>
-    <loc>https://www.odasnac.com/es/posts/leadership-moving-others/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.odasnac.com/posts/leadership-moving-others/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.odasnac.com/es/posts/leadership-moving-others/"
-                />
-  </url><url>
     <loc>https://www.odasnac.com/es/todo-sobresaliente/</loc>
-  </url><url>
-    <loc>https://www.odasnac.com/es/posts/building-a-second-brain/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.odasnac.com/posts/building-a-second-brain/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.odasnac.com/es/posts/building-a-second-brain/"
-                />
   </url><url>
     <loc>https://www.odasnac.com/es/tu-trabajo/</loc>
   </url>
