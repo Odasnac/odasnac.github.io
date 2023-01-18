@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "00ac7c3ccd9ba98c",
+        "id": "a853cd4987cbe310",
         "type": "tabs",
         "children": [
           {
-            "id": "158730843fb95a09",
+            "id": "993b9322a3704020",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "es/posts/leadership-moving-others.es.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "es/posts/leadership-moving-others.es.md",
+                "file": "en/posts/curiosity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "es/posts/leadership-moving-others.es.md",
+                "file": "en/posts/curiosity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "es/posts/leadership-moving-others.es.md"
+                "file": "en/posts/curiosity.md"
               }
             }
           }
@@ -146,10 +142,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "158730843fb95a09",
+  "active": "62d58894c95ecbd1",
   "lastOpenFiles": [
-    "en/posts/leadership-moving-others.md",
     "es/posts/leadership-moving-others.es.md",
+    "en/posts/leadership-moving-others.md",
     "es/posts/template.es.md",
     "es/posts/logotheraphy.md",
     "en/posts/building-a-second-brain.md",

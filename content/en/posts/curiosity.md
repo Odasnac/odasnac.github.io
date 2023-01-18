@@ -9,9 +9,6 @@ cover:
  alt: ‘Cover image’
 ---
 
-_I have no special talent. I am only passionately curious._
-_- Albert Einstein_
-
 If there is an activity that is uniquely human and difficult to replace by machines, it is innovation. The creation and implementation of new ideas will remain a genuinely human activity for some time. While artificial intelligence and big data processing find ways to optimize production, it is the understanding of human needs and wants is still required to innovate.
 
 Although automation may replace some jobs, innovation will continue to be driven by humans. New waves of innovation might actually drive new waves of employment, despite of a new kind.
@@ -62,4 +59,4 @@ The activities connected with innovation are the ones that have the greatest opp
 
 Entrepreneurship, taking the initiative to change the world and make it better with the help of technology and AI is still a task that only people can do.
 
-*Extracted from 'AI at Work'
+*Extracted from '[AI at Work](https://www.odasnac.com/ai-at-work/)'*
