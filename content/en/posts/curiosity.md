@@ -9,9 +9,11 @@ cover:
  alt: ‘Cover image’
 ---
 
-If there is an activity that is uniquely human and difficult to replace by machines, it is innovation. The creation and implementation of new ideas will remain a genuinely human activity for some time. While artificial intelligence and big data processing find ways to optimize production, it is the understanding of human needs and wants is still required to innovate.
+If there is an activity that is uniquely human and difficult to replace by machines, it is innovation.
 
-Although automation may replace some jobs, innovation will continue to be driven by humans. New waves of innovation might actually drive new waves of employment, despite of a new kind.
+The creation and implementation of new ideas will remain a genuinely human activity for some time. As long as we think of innovation as the activity that seeks to fulfill human needs in a new better way, we will need humans to drive it.
+
+Although automation will replace some jobs, new waves of innovation will drive new waves of employment, despite of a new kind.
 
 Innovating requires a set of skills that conform the Human Factor. Those are the qualities required to fully grasp the rational and irrational needs of people, make sense of their behaviors, find ways to connect ideas and act upon them to address society's problems. 
 

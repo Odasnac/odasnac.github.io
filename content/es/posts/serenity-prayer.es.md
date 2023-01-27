@@ -14,13 +14,13 @@ La Oración de la Serenidad en *bullets*:
 > *Dios, concédeme*
 > - ***serenidad** para aceptar las cosas que no puedo cambiar,*
 > - ***coraje** para cambiar las cosas que puedo, y*
-> - ***sabiduría** para saber la diferencia.*
+> - ***sabiduría** para apreciar la diferencia.*
 
 Esta oración combina muy bien con estas palabras en el *I Ching* :
 
 > *Los altos y bajos son inherentes a la naturaleza de la vida.*
 > *Cuando surjan dificultades, acéptalo y aférrate firmemente a lo que es correcto.*
-> *La buena fortuna vuelve a los que se mantienen en calma y desapego*
+> *La buena fortuna vuelve a los que se mantienen en calma y desapego*.
 
 Ambas oraciones tienen en común:
 - Aceptación de lo que no se puede cambiar.

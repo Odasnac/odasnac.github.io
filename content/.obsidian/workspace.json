@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a853cd4987cbe310",
+        "id": "2fbd44d74bb3ce69",
         "type": "tabs",
         "children": [
           {
-            "id": "993b9322a3704020",
+            "id": "5b9280fd46f3484c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "en/posts/curiosity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "en/posts/curiosity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "en/posts/curiosity.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -142,8 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62d58894c95ecbd1",
+  "active": "5b9280fd46f3484c",
   "lastOpenFiles": [
+    "en/posts/curiosity.md",
+    "es/posts/serenity-prayer.es.md",
     "es/posts/leadership-moving-others.es.md",
     "en/posts/leadership-moving-others.md",
     "es/posts/template.es.md",
@@ -151,8 +149,6 @@
     "en/posts/building-a-second-brain.md",
     "es/posts/building-a-second-brain.es.md",
     "es/posts/sales-is-about-teaching.es.md",
-    "es/posts/serenity-prayer.es.md",
-    "en/posts/logotheraphy.md",
-    "es/posts/curiosity.es.md"
+    "en/posts/logotheraphy.md"
   ]
 }
