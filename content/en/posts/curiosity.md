@@ -39,11 +39,12 @@ We are constantly bombarded with a vast amount of information and messages. Our 
 
 Of all these elements that conform the Human Factor, it is  Curiosity the one that glues it all, because:
 
-It is Curiosity for emotions that drives Empathy,
-It is Curiosity for ideas that drives Imagination
-It is Curiosity for solutions that drives Creativity
-It is Curiosity for influencing others that drives Communication
-It is Curiosity for results through action that drives Leadership
+It is Curiosity for needs and emotions that drives Empathy. 
+It is Curiosity for ideas that drives Imagination. 
+It is Curiosity for solutions that drives Creativity. 
+It is Curiosity for influencing others that drives Communication. 
+It is Curiosity for results through action that drives Leadership.
+
 
 ![Cover](/img/human-factor.jpg)
 

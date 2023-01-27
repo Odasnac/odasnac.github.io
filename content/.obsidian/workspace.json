@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2fbd44d74bb3ce69",
+        "id": "f10661c93bcfade3",
         "type": "tabs",
         "children": [
           {
-            "id": "5b9280fd46f3484c",
+            "id": "91fa0205f45737a3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b9280fd46f3484c",
+  "active": "91fa0205f45737a3",
   "lastOpenFiles": [
     "en/posts/curiosity.md",
     "es/posts/serenity-prayer.es.md",
