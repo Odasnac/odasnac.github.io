@@ -38,6 +38,18 @@
                 href="https://www.odasnac.com/posts/sales-is-about-teaching/"
                 />
   </url><url>
+    <loc>https://www.odasnac.com/posts/the-grand-prix-of-gumption/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.odasnac.com/es/posts/the-grand-prix-of-gumption/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.odasnac.com/posts/the-grand-prix-of-gumption/"
+                />
+  </url><url>
     <loc>https://www.odasnac.com/posts/leadership-moving-others/</loc>
     <xhtml:link
                 rel="alternate"
@@ -196,6 +208,30 @@
                 href="https://www.odasnac.com/tags/sales/"
                 />
   </url><url>
+    <loc>https://www.odasnac.com/tags/aitor/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.odasnac.com/es/tags/aitor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.odasnac.com/tags/aitor/"
+                />
+  </url><url>
+    <loc>https://www.odasnac.com/tags/buildinpublic/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.odasnac.com/es/tags/buildinpublic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.odasnac.com/tags/buildinpublic/"
+                />
+  </url><url>
     <loc>https://www.odasnac.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -206,6 +242,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.odasnac.com/categories/"
+                />
+  </url><url>
+    <loc>https://www.odasnac.com/tags/diary/</loc>
+  </url><url>
+    <loc>https://www.odasnac.com/tags/f1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.odasnac.com/es/tags/f1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.odasnac.com/tags/f1/"
                 />
   </url><url>
     <loc>https://www.odasnac.com/</loc>

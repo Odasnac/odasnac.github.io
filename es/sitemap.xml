@@ -163,6 +163,18 @@
                 href="https://www.odasnac.com/es/tags/"
                 />
   </url><url>
+    <loc>https://www.odasnac.com/es/posts/the-grand-prix-of-gumption/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.odasnac.com/posts/the-grand-prix-of-gumption/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.odasnac.com/es/posts/the-grand-prix-of-gumption/"
+                />
+  </url><url>
     <loc>https://www.odasnac.com/es/tags/booksummary/</loc>
     <xhtml:link
                 rel="alternate"
@@ -239,6 +251,30 @@
                 href="https://www.odasnac.com/es/tags/sales/"
                 />
   </url><url>
+    <loc>https://www.odasnac.com/es/tags/aitor/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.odasnac.com/tags/aitor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.odasnac.com/es/tags/aitor/"
+                />
+  </url><url>
+    <loc>https://www.odasnac.com/es/tags/buildinpublic/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.odasnac.com/tags/buildinpublic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.odasnac.com/es/tags/buildinpublic/"
+                />
+  </url><url>
     <loc>https://www.odasnac.com/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -252,6 +288,20 @@
                 />
   </url><url>
     <loc>https://www.odasnac.com/es/cuentos/</loc>
+  </url><url>
+    <loc>https://www.odasnac.com/es/tags/diario/</loc>
+  </url><url>
+    <loc>https://www.odasnac.com/es/tags/f1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.odasnac.com/tags/f1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.odasnac.com/es/tags/f1/"
+                />
   </url><url>
     <loc>https://www.odasnac.com/es/todo-sobresaliente/</loc>
   </url><url>
