@@ -163,17 +163,7 @@
                 href="https://www.odasnac.com/es/tags/"
                 />
   </url><url>
-    <loc>https://www.odasnac.com/es/posts/the-grand-prix-of-gumption/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.odasnac.com/posts/the-grand-prix-of-gumption/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.odasnac.com/es/posts/the-grand-prix-of-gumption/"
-                />
+    <loc>https://www.odasnac.com/es/posts/tu-camino-o-el-de-otros/</loc>
   </url><url>
     <loc>https://www.odasnac.com/es/tags/booksummary/</loc>
     <xhtml:link
@@ -290,6 +280,20 @@
     <loc>https://www.odasnac.com/es/cuentos/</loc>
   </url><url>
     <loc>https://www.odasnac.com/es/tags/diario/</loc>
+  </url><url>
+    <loc>https://www.odasnac.com/es/tags/dilemas/</loc>
+  </url><url>
+    <loc>https://www.odasnac.com/es/posts/the-grand-prix-of-gumption/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.odasnac.com/posts/the-grand-prix-of-gumption/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.odasnac.com/es/posts/the-grand-prix-of-gumption/"
+                />
   </url><url>
     <loc>https://www.odasnac.com/es/tags/f1/</loc>
     <xhtml:link
