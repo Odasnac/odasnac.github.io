@@ -283,6 +283,8 @@
   </url><url>
     <loc>https://www.odasnac.com/es/tags/dilemas/</loc>
   </url><url>
+    <loc>https://www.odasnac.com/es/posts/linkedinverso/</loc>
+  </url><url>
     <loc>https://www.odasnac.com/es/posts/the-grand-prix-of-gumption/</loc>
     <xhtml:link
                 rel="alternate"
@@ -307,8 +309,12 @@
                 href="https://www.odasnac.com/es/tags/f1/"
                 />
   </url><url>
+    <loc>https://www.odasnac.com/es/tags/linkedin/</loc>
+  </url><url>
     <loc>https://www.odasnac.com/es/todo-sobresaliente/</loc>
   </url><url>
     <loc>https://www.odasnac.com/es/tu-trabajo/</loc>
+  </url><url>
+    <loc>https://www.odasnac.com/es/posts/workaholic-reformado/</loc>
   </url>
 </urlset>
