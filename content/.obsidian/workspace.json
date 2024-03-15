@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "es/posts/cenutria.es.md",
+                "file": "es/posts/cenutria2.es.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "es/posts/cenutria.es.md",
+                "file": "es/posts/cenutria2.es.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "es/posts/cenutria.es.md",
+                "file": "es/posts/cenutria2.es.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "es/posts/cenutria.es.md"
+                "file": "es/posts/cenutria2.es.md"
               }
             }
           }
@@ -154,11 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62d58894c95ecbd1",
+  "active": "c86b8ad4846e5ac6",
   "lastOpenFiles": [
+    "es/posts/cenutria.es.md",
+    "es/posts/cenutria2.es.md",
     "es/posts/workaholic-reformado.es.md",
     "es/posts/tu-trabajo-va-a-desaparecer.es.md",
-    "es/posts/cenutria.es.md",
     "es/posts/LinkedInverso.es.md",
     "es/posts/Tu camino o el de otros.es.md",
     "es/posts/The Grand Prix of Gumption.es.md",
