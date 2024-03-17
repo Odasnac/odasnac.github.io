@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7ab0fd0091c261bf",
+        "id": "099a7249b5263df1",
         "type": "tabs",
         "children": [
           {
-            "id": "c86b8ad4846e5ac6",
+            "id": "1aabf6c60361411b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "es/posts/cenutria2.es.md",
+                "file": "en/posts/simple-joys.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "es/posts/cenutria2.es.md",
+                "file": "en/posts/simple-joys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "es/posts/cenutria2.es.md",
+                "file": "en/posts/simple-joys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "es/posts/cenutria2.es.md"
+                "file": "en/posts/simple-joys.md"
               }
             }
           }
@@ -154,33 +154,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c86b8ad4846e5ac6",
+  "active": "1aabf6c60361411b",
   "lastOpenFiles": [
-    "es/posts/cenutria.es.md",
+    "en/posts/sales-is-about-teaching.md",
+    "en/posts/logotheraphy.md",
+    "en/posts/serenity-prayer.md",
+    "en/posts/template.md",
+    "en/posts/The Grand Prix of Gumption.md",
+    "en/posts/tu-trabajo-va-a-desaparecer.md",
+    "en/posts/simple-joys.md",
+    "en/posts/building-a-second-brain.md",
+    "en/posts/ai-at-work-draft.md",
+    "en/posts/4th-industrial-revolution.md",
+    "en/posts/leadership-moving-others.md",
     "es/posts/cenutria2.es.md",
+    "es/posts/cenutria.es.md",
     "es/posts/workaholic-reformado.es.md",
     "es/posts/tu-trabajo-va-a-desaparecer.es.md",
     "es/posts/LinkedInverso.es.md",
     "es/posts/Tu camino o el de otros.es.md",
     "es/posts/The Grand Prix of Gumption.es.md",
-    "en/posts/The Grand Prix of Gumption.md",
-    "en/posts/serenity-prayer.md",
     "img/curiosidad.jpg.md",
     "img/AI_at_Work-cover-188x300.jpg.md",
     "es/posts/template.es.md",
-    "en/posts/sales-is-about-teaching.md",
-    "en/posts/tu-trabajo-va-a-desaparecer.md",
-    "en/posts/template.md",
-    "en/posts/ai-at-work-draft.md",
-    "en/posts/logotheraphy.md",
     "en/ai-at-work/index.md",
     "en/posts/curiosity.md",
     "es/posts/serenity-prayer.es.md",
     "es/posts/leadership-moving-others.es.md",
-    "en/posts/leadership-moving-others.md",
-    "es/posts/logotheraphy.md",
-    "en/posts/building-a-second-brain.md",
-    "es/posts/building-a-second-brain.es.md",
-    "es/posts/sales-is-about-teaching.es.md"
+    "es/posts/logotheraphy.md"
   ]
 }
