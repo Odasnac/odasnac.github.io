@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "207295f25a3bf7d4",
+        "id": "248cd5f1aa2a631d",
         "type": "tabs",
         "children": [
           {
-            "id": "d20aaa366908e790",
+            "id": "68b7782dafb92ae7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "es/posts/prados-verdes.es.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "es/posts/prados-verdes.es.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "es/posts/prados-verdes.es.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "es/posts/prados-verdes.es.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,16 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d20aaa366908e790",
+  "active": "68b7782dafb92ae7",
   "lastOpenFiles": [
-    "es/posts/template.es.md",
+    "en/posts/one-brick.md",
+    "en/posts/template.md",
     "es/posts/prados-verdes.es.md",
+    "es/posts/template.es.md",
     "es/posts/serenity-prayer.es.md",
     "en/posts/simple-joys.md",
     "en/posts/sales-is-about-teaching.md",
     "en/posts/logotheraphy.md",
     "en/posts/serenity-prayer.md",
-    "en/posts/template.md",
     "en/posts/The Grand Prix of Gumption.md",
     "en/posts/tu-trabajo-va-a-desaparecer.md",
     "en/posts/building-a-second-brain.md",
@@ -180,7 +173,6 @@
     "img/curiosidad.jpg.md",
     "img/AI_at_Work-cover-188x300.jpg.md",
     "en/ai-at-work/index.md",
-    "en/posts/curiosity.md",
-    "es/posts/leadership-moving-others.es.md"
+    "en/posts/curiosity.md"
   ]
 }

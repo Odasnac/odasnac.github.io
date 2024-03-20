@@ -1,13 +1,14 @@
 ---
 title: 
-date: 2023–01-10T08:08:00+01:00
+date: 2024-03-20T08:08:00+01:00
 weight: 194
 draft: true
-tags: [“growth”, "sales"]
+tags:
+  - Diary
+  - Productivity
 cover:
- image: img/ .jpg
- alt: ‘Cover image’
-
+  image: img/ .jpg
+  alt: ‘Cover image’
 ---
 
 Your text goes here
