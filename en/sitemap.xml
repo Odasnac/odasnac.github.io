@@ -26,6 +26,9 @@
                 href="https://www.odasnac.com/posts/curiosity/"
                 />
   </url><url>
+    <loc>https://www.odasnac.com/posts/one-brick/</loc>
+    <lastmod>2024-03-20T08:08:00+01:00</lastmod>
+  </url><url>
     <loc>https://www.odasnac.com/posts/simple-joys/</loc>
   </url><url>
     <loc>https://www.odasnac.com/posts/sales-is-about-teaching/</loc>
@@ -122,6 +125,51 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.odasnac.com/posts/serenity-prayer/"
+                />
+  </url><url>
+    <loc>https://www.odasnac.com/tags/diary/</loc>
+    <lastmod>2024-03-20T08:08:00+01:00</lastmod>
+  </url><url>
+    <loc>https://www.odasnac.com/</loc>
+    <lastmod>2024-03-20T08:08:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.odasnac.com/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.odasnac.com/"
+                />
+  </url><url>
+    <loc>https://www.odasnac.com/posts/</loc>
+    <lastmod>2024-03-20T08:08:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.odasnac.com/es/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.odasnac.com/posts/"
+                />
+  </url><url>
+    <loc>https://www.odasnac.com/tags/productivity/</loc>
+    <lastmod>2024-03-20T08:08:00+01:00</lastmod>
+  </url><url>
+    <loc>https://www.odasnac.com/tags/</loc>
+    <lastmod>2024-03-20T08:08:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.odasnac.com/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.odasnac.com/tags/"
                 />
   </url><url>
     <loc>https://www.odasnac.com/tags/booksummary/</loc>
@@ -246,8 +294,6 @@
                 href="https://www.odasnac.com/categories/"
                 />
   </url><url>
-    <loc>https://www.odasnac.com/tags/diary/</loc>
-  </url><url>
     <loc>https://www.odasnac.com/tags/f1/</loc>
     <xhtml:link
                 rel="alternate"
@@ -258,44 +304,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.odasnac.com/tags/f1/"
-                />
-  </url><url>
-    <loc>https://www.odasnac.com/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.odasnac.com/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.odasnac.com/"
-                />
-  </url><url>
-    <loc>https://www.odasnac.com/posts/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.odasnac.com/es/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.odasnac.com/posts/"
-                />
-  </url><url>
-    <loc>https://www.odasnac.com/tags/productivity/</loc>
-  </url><url>
-    <loc>https://www.odasnac.com/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.odasnac.com/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.odasnac.com/tags/"
                 />
   </url><url>
     <loc>https://www.odasnac.com/ai-at-work/</loc>
