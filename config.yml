@@ -87,7 +87,7 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
-  noTimes: true
+  
 
   assets:
     # disableHLJS: true # to disable highlight.js
