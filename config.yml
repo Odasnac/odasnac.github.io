@@ -1,7 +1,7 @@
 baseURL: "https://www.odasnac.com/"
 title: Odåsnac
 theme: PaperMod
-defaultContentLanguage: en
+defaultContentLanguage: es
 
 languages:
   en:
@@ -83,7 +83,7 @@ params:
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: false
-  hidemeta: false
+  hidemeta: true
   hideSummary: false
   showtoc: false
   tocopen: false
