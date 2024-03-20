@@ -1,7 +1,6 @@
 ---
 title: Logotherapy
 date: 2022–05-27T08:08:00+01:00
-weight: 194
 draft: false
 tags:
   - “BookSummary”.
