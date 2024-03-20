@@ -1,12 +1,13 @@
 ---
 title: What makes humans unique versus machines
 date: 2023–01-01
-weight: 193
+weight: 194
 draft: false
-tags: [“FutureOfWork”]
+tags:
+  - “FutureOfWork”
 cover:
- image: img/curious-einstein.jpg
- alt: ‘Cover image’
+  image: img/curious-einstein.jpg
+  alt: ‘Cover image’
 ---
 
 If there is an activity that is uniquely human and difficult to replace by machines, it is innovation.

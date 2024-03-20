@@ -1,12 +1,12 @@
 ---
 title: Qué piensa ChatGPT de como la IA impactará en nuestros trabajos
 date: 2023-01-03T08:08:00+01:00
-weight: 192
 draft: false
-tags: [“FutureOfWork”]
+tags:
+  - “FutureOfWork”
 cover:
- image: img/ai-office.jpg
- alt: ‘Cover image’
+  image: img/ai-office.jpg
+  alt: ‘Cover image’
 ---
 
 Todo el mundo habla de ChatGPT y de cómo va a cambiarlo todo. 

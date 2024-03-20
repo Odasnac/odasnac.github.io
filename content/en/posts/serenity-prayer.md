@@ -1,13 +1,13 @@
 ---
 title: Serenity Prayer
 date: 2022–08-31T08:08:00+01:00
-weight: 201
+weight: 194
 draft: false
-tags: [“growth”]
+tags:
+  - “growth”
 cover:
- image: img/serenity.jpg
- alt: ‘Cover image’
-
+  image: img/serenity.jpg
+  alt: ‘Cover image’
 ---
 The Serenity Prayer in bullets:
 

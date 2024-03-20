@@ -2,12 +2,13 @@
 title: Building a Second Brain
 date: 2022–12-08T08:08:00+01:00
 draft: false
-weight: 196
-tags: [“BookSummary”, "Productivity"]
+weight: 194
+tags:
+  - “BookSummary”
+  - Productivity
 cover:
- image: img/second-brain.jpg
- alt: ‘Cover image’
-
+  image: img/second-brain.jpg
+  alt: ‘Cover image’
 ---
 
 Building a second brain is about creating a system to process the vast amounts of information we consume and transform it into actionable knowledge.

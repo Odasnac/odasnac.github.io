@@ -1,13 +1,12 @@
 ---
 title: Mover, motivar, emocionar
 date: 2022–08-31
-weight: 195
 draft: false
-tags: [“leadership”]
+tags:
+  - “leadership”
 cover:
- image: img/conductor.jpg
- alt: ‘Cover image’
-
+  image: img/conductor.jpg
+  alt: ‘Cover image’
 ---
 
 Fue sorprendente ver en la charla TED de Benjamin Zander su capacidad para "conmover" al público. Es interesante fijarse en cómo llama la atención y enfatiza las ciertas partes, y cómo usa las historias para hacer la charla inspiradora y emotiva.

@@ -1,10 +1,9 @@
 ---
 title: Logoterapia
 date: 2022–05-27T08:08:00+01:00
-weight: 198
 draft: false
-tags: [“BookSummary”]
-
+tags:
+  - “BookSummary”
 ---
 
 Viktor Frankl escribió su experiencia para soportar y sobrevivir a cuatro campos de concentración entre 1942 y 1945.

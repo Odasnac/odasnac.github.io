@@ -1,13 +1,12 @@
 ---
 title: Oración de la Serenidad
 date: 2022–08-31T08:08:00+01:00
-weight: 201
 draft: false
-tags: [“growth”]
+tags:
+  - “growth”
 cover:
- image: img/serenity.jpg
- alt: ‘Cover image’
-
+  image: img/serenity.jpg
+  alt: ‘Cover image’
 ---
 La Oración de la Serenidad en *bullets*:
 

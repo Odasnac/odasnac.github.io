@@ -2,7 +2,7 @@
 title: The Fourth Industrial Revolution or the Innovation Economy
 date: 2017–04-30
 draft: false
-weight: 199
+weight: 194
 ---
 
 In 1990, the top 3 automakers in Detroit had a combined:

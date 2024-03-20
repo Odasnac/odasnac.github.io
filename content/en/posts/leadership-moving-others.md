@@ -1,13 +1,13 @@
 ---
 title: Leadership is about moving others
 date: 2022–08-31T08:08:00+01:00
-weight: 195
+weight: 194
 draft: false
-tags: [“leadership”]
+tags:
+  - “leadership”
 cover:
- image: img/conductor.jpg
- alt: ‘Cover image’
-
+  image: img/conductor.jpg
+  alt: ‘Cover image’
 ---
 
 It was striking to see in Benjamin Zander's Ted talk his capacity to "move" people. Note how he delivers his talk, how he brings attention and accent to different parts of it, how he uses stories, how he makes it so inspiring and emotional. 

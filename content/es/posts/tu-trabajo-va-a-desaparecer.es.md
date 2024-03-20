@@ -1,12 +1,10 @@
 ---
 title: Tu Trabajo va a desaparecer
 date: 2017–04-30T10:13:41+01:00
-weight: 200
 draft: false
 cover:
- image: img/odasnac-blog-cover.jpg
- alt: ‘Cover image’
- 
+  image: img/odasnac-blog-cover.jpg
+  alt: ‘Cover image’
 ---
 
 - ¿La tecnología crea o destruye empleos?

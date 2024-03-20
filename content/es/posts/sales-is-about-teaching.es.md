@@ -1,13 +1,13 @@
 ---
 title: Vender es también educar
 date: 2023–01-10T08:08:00+01:00
-weight: 194
 draft: false
-tags: [“leadership”, “sales”]
+tags:
+  - “leadership”
+  - “sales”
 cover:
- image: img/sales-teaching.jpg
- alt: ‘Cover image’
-
+  image: img/sales-teaching.jpg
+  alt: ‘Cover image’
 ---
 Los mejores vendedores son aquellos que descubren a sus clientes a forma distinta de pensar sobre sus problemas para resolverlos.
 

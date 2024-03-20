@@ -1,10 +1,11 @@
 ---
 title: Logotherapy
 date: 2022–05-27T08:08:00+01:00
-weight: 198
+weight: 194
 draft: false
-tags: [“BookSummary”. "Growth"]
-
+tags:
+  - “BookSummary”.
+  - '"Growth"'
 ---
 
 Viktor Frankl wrote his experience to endure and survive four concentration camps between 1942 and 1945.

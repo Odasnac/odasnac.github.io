@@ -2,12 +2,11 @@
 title: Tu segundo cerebro
 date: 2022–12-08T08:08:00+01:00
 draft: false
-weight: 196
-tags: [“BookSummary”]
+tags:
+  - “BookSummary”
 cover:
- image: img/second-brain.jpg
- alt: ‘Cover image’
-
+  image: img/second-brain.jpg
+  alt: ‘Cover image’
 ---
 
 Construir un segundo cerebro se trata de crear un sistema para procesar la gran cantidad de información que consumimos para transformarla en conocimiento *accionable*.

@@ -1,13 +1,12 @@
 ---
 title: El trabajo del futuro. Qué nos diferencia de los robots
 date: 2018–05-04
-weight: 193
 draft: false
-tags: [“FutureOfWork”]
+tags:
+  - “FutureOfWork”
 cover:
- image: img/curioso-einstein.jpg
- alt: ‘Cover image’
-
+  image: img/curioso-einstein.jpg
+  alt: ‘Cover image’
 ---
 
 Si hay una actividad que sea humana y difícil de substituir por máquinas es la innovación.
