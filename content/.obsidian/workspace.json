@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "es/posts/workaholic-reformado.es.md",
+                "file": "es/posts/cenutria.es.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "es/posts/workaholic-reformado.es.md",
+                "file": "es/posts/cenutria.es.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "es/posts/workaholic-reformado.es.md",
+                "file": "es/posts/cenutria.es.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "es/posts/workaholic-reformado.es.md"
+                "file": "es/posts/cenutria.es.md"
               }
             }
           }
@@ -156,31 +156,31 @@
   },
   "active": "54b16d16a4be9e4f",
   "lastOpenFiles": [
-    "es/posts/tu-trabajo-va-a-desaparecer.es.md",
+    "es/posts/curiosity.es.md",
+    "es/posts/prados-verdes.es.md",
     "es/posts/Tu camino o el de otros.es.md",
+    "en/posts/one-brick.md",
+    "en/posts/logotheraphy.md",
+    "en/posts/leadership-moving-others.md",
+    "en/posts/ai-at-work-draft.md",
+    "en/posts/4th-industrial-revolution.md",
+    "en/posts/curiosity.md",
+    "en/posts/tu-trabajo-va-a-desaparecer.md",
+    "en/posts/The Grand Prix of Gumption.md",
+    "en/posts/template.md",
+    "en/posts/serenity-prayer.md",
+    "en/posts/simple-joys.md",
+    "es/posts/workaholic-reformado.es.md",
+    "es/posts/tu-trabajo-va-a-desaparecer.es.md",
     "es/posts/The Grand Prix of Gumption.es.md",
     "es/posts/template.es.md",
     "es/posts/serenity-prayer.es.md",
-    "es/posts/prados-verdes.es.md",
     "es/posts/LinkedInverso.es.md",
     "es/posts/leadership-moving-others.es.md",
     "es/posts/cenutria2.es.md",
     "es/posts/cenutria.es.md",
     "es/posts/building-a-second-brain.es.md",
     "es/posts/4th-industrial-revolution.es.md",
-    "es/posts/ai-at-work-draft.es.md",
-    "en/posts/serenity-prayer.md",
-    "en/posts/sales-is-about-teaching.md",
-    "en/posts/one-brick.md",
-    "en/posts/logotheraphy.md",
-    "en/posts/leadership-moving-others.md",
-    "en/posts/curiosity.md",
-    "en/posts/4th-industrial-revolution.md",
-    "en/posts/ai-at-work-draft.md",
-    "en/posts/template.md",
-    "en/posts/The Grand Prix of Gumption.md",
-    "en/posts/tu-trabajo-va-a-desaparecer.md",
-    "es/posts/curiosity.es.md",
-    "es/posts/logotheraphy.md"
+    "es/posts/ai-at-work-draft.es.md"
   ]
 }

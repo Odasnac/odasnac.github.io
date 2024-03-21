@@ -1,6 +1,7 @@
 ---
 title: What makes humans unique versus machines
 date: 2023–01-01T08:08:00+01:00
+weight: -230101
 draft: false
 tags:
   - “FutureOfWork”

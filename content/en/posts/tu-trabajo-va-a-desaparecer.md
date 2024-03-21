@@ -2,7 +2,7 @@
 title: Tu Trabajo va a desaparecer
 date: 2017–04-30T10:13:41+01:00
 draft: false
-weight: 194
+weight: -170431
 cover:
   image: img/odasnac-blog-cover.jpg
   alt: ‘Cover image’

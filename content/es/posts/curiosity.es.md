@@ -1,6 +1,7 @@
 ---
 title: El trabajo del futuro. Qué nos diferencia de los robots
 date: 2018–05-04
+weight: -180504
 draft: false
 tags:
   - “FutureOfWork”

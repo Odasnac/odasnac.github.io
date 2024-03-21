@@ -1,7 +1,7 @@
 ---
 title: "The Grand Prix of Gumption: Launch Day Lament"
 date: 2024–03-01T19:08:00+01:00
-weight: 194
+weight: -240301
 draft: false
 tags:
   - F1

@@ -1,7 +1,7 @@
 ---
 title: A Symphony of Simple Joys
 date: 2024–03-17T08:08:00+01:00
-weight: 194
+weight: -240317
 draft: false
 tags:
   - Diary
