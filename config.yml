@@ -2,6 +2,7 @@ baseURL: "https://www.odasnac.com/"
 title: Odåsnac
 theme: Anubis
 defaultContentLanguage: es
+themesDir: "themes"
 
 languages:
   en:
