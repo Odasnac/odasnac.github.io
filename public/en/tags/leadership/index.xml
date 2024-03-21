@@ -1,33 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>“leadership” on Odåsnac</title>
-    <link>https://odasnac.com/en/tags/leadership/</link>
-    <description>Recent content in “leadership” on Odåsnac</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://odasnac.com/en/tags/leadership/index.xml" rel="self" type="application/rss+xml" />
+    <title>“Leadership” on Odåsnac</title>
+    <link>http://localhost:1313/en/tags/leadership/</link>
+    <description>Recent content in “Leadership” on Odåsnac</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/en/tags/leadership/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Leadership is about moving others</title>
-      <link>https://odasnac.com/en/en/posts/leadership-moving-others/</link>
+      <link>http://localhost:1313/en/posts/leadership-moving-others/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://odasnac.com/en/en/posts/leadership-moving-others/</guid>
+      <guid>http://localhost:1313/en/posts/leadership-moving-others/</guid>
       <description>It was striking to see in Benjamin Zander&amp;rsquo;s Ted talk his capacity to &amp;ldquo;move&amp;rdquo; people. Note how he delivers his talk, how he brings attention and accent to different parts of it, how he uses stories, how he makes it so inspiring and emotional.
 His stories were meant to make people emotional, so that the impact is far greater.
 At the end it shows how leadership is about moving others to action.</description>
     </item>
-    
     <item>
       <title>Sales is about teaching</title>
-      <link>https://odasnac.com/en/en/posts/sales-is-about-teaching/</link>
+      <link>http://localhost:1313/en/posts/sales-is-about-teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://odasnac.com/en/en/posts/sales-is-about-teaching/</guid>
+      <guid>http://localhost:1313/en/posts/sales-is-about-teaching/</guid>
       <description>Great sales people teach their clients a different way to think about their issues.
-Teach your clients on new approaches to succeed in their business.
-Get better by learning about issues in their industries and how to apply your capabilities (products &amp;amp; services) to address them.
-Keep learning about data, technology, new trends and how to apply those for your customers. That is how you bring value to them.
-That is meaningful work, as you help your clients achieve success by having a big positive impact in their organizations.</description>
+A research (by CEB) asked thousands of customers about what is it that they valued most from their suppliers. The results showed that what sets the best sales reps apart is the value of their insights in how to make the customer make or save money in ways they did not know were possible.
+Customers loves salespeople who teach and discover new ways for them to succeed.</description>
     </item>
-    
   </channel>
 </rss>

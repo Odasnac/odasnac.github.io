@@ -2,35 +2,109 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Odåsnac</title>
-    <link>https://odasnac.com/en/tags/</link>
+    <link>http://localhost:1313/en/tags/</link>
     <description>Recent content in Tags on Odåsnac</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://odasnac.com/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Mar 2024 08:08:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diary</title>
+      <link>http://localhost:1313/en/tags/diary/</link>
+      <pubDate>Wed, 20 Mar 2024 08:08:00 +0100</pubDate>
+      <guid>http://localhost:1313/en/tags/diary/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Productivity</title>
+      <link>http://localhost:1313/en/tags/productivity/</link>
+      <pubDate>Wed, 20 Mar 2024 08:08:00 +0100</pubDate>
+      <guid>http://localhost:1313/en/tags/productivity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>&#34;Growth&#34;</title>
+      <link>http://localhost:1313/en/tags/growth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/growth/</guid>
+      <description></description>
+    </item>
     <item>
       <title>“BookSummary”</title>
-      <link>https://odasnac.com/en/tags/booksummary/</link>
+      <link>http://localhost:1313/en/tags/booksummary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://odasnac.com/en/tags/booksummary/</guid>
+      <guid>http://localhost:1313/en/tags/booksummary/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>“leadership”</title>
-      <link>https://odasnac.com/en/tags/leadership/</link>
+      <title>“BookSummary”.</title>
+      <link>http://localhost:1313/en/tags/booksummary./</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://odasnac.com/en/tags/leadership/</guid>
+      <guid>http://localhost:1313/en/tags/booksummary./</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>“sales”</title>
-      <link>https://odasnac.com/en/tags/sales/</link>
+      <title>“Ebook”</title>
+      <link>http://localhost:1313/en/tags/ebook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://odasnac.com/en/tags/sales/</guid>
+      <guid>http://localhost:1313/en/tags/ebook/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>“FutureOfWork”</title>
+      <link>http://localhost:1313/en/tags/futureofwork/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/futureofwork/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>“Growth”</title>
+      <link>http://localhost:1313/en/tags/growth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/growth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>“Leadership”</title>
+      <link>http://localhost:1313/en/tags/leadership/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/leadership/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>“Libro”</title>
+      <link>http://localhost:1313/en/tags/libro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/libro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>“Sales”</title>
+      <link>http://localhost:1313/en/tags/sales/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/sales/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aitor</title>
+      <link>http://localhost:1313/en/tags/aitor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/aitor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BuildInPublic</title>
+      <link>http://localhost:1313/en/tags/buildinpublic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/buildinpublic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>F1</title>
+      <link>http://localhost:1313/en/tags/f1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/f1/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

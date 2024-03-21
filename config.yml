@@ -1,6 +1,6 @@
 baseURL: "https://www.odasnac.com/"
 title: Odåsnac
-theme: anubis2
+theme: papermod
 defaultContentLanguage: es
 themesDir: "themes"
 
