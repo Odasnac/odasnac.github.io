@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2351ec0bcb396652",
+        "id": "f45fd334ab66e4a1",
         "type": "tabs",
         "children": [
           {
-            "id": "54b16d16a4be9e4f",
+            "id": "901aad2fd9057594",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "es/posts/4th-industrial-revolution.es.md",
+                "file": "es/posts/procrastinating.es.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "es/posts/4th-industrial-revolution.es.md",
+                "file": "es/posts/procrastinating.es.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "es/posts/4th-industrial-revolution.es.md",
+                "file": "es/posts/procrastinating.es.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "es/posts/4th-industrial-revolution.es.md"
+                "file": "es/posts/procrastinating.es.md"
               }
             }
           }
@@ -154,8 +154,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54b16d16a4be9e4f",
+  "active": "901aad2fd9057594",
   "lastOpenFiles": [
+    "en/posts/procrastinating.md",
+    "en/posts/one-brick.md",
+    "es/posts/prados-verdes.es.md",
+    "es/posts/procrastinating.es.md",
+    "es/posts/template.es.md",
+    "en/posts/curiosity.md",
+    "en/posts/4th-industrial-revolution.md",
+    "en/posts/template.md",
+    "es/posts/4th-industrial-revolution.es.md",
     "es/posts/ai-at-work-draft.es.md",
     "es/posts/building-a-second-brain.es.md",
     "es/posts/cenutria.es.md",
@@ -164,23 +173,14 @@
     "es/posts/leadership-moving-others.es.md",
     "es/posts/LinkedInverso.es.md",
     "es/posts/logotheraphy.md",
-    "es/posts/prados-verdes.es.md",
     "es/posts/sales-is-about-teaching.es.md",
     "es/posts/serenity-prayer.es.md",
-    "es/posts/template.es.md",
     "es/posts/The Grand Prix of Gumption.es.md",
     "es/posts/Tu camino o el de otros.es.md",
     "es/posts/tu-trabajo-va-a-desaparecer.es.md",
     "es/posts/workaholic-reformado.es.md",
-    "es/posts/4th-industrial-revolution.es.md",
     "en/posts/tu-trabajo-va-a-desaparecer.md",
     "en/posts/The Grand Prix of Gumption.md",
-    "en/posts/template.md",
-    "en/posts/simple-joys.md",
-    "en/posts/serenity-prayer.md",
-    "en/posts/sales-is-about-teaching.md",
-    "en/posts/one-brick.md",
-    "en/posts/leadership-moving-others.md",
-    "en/posts/curiosity.md"
+    "en/posts/simple-joys.md"
   ]
 }

@@ -1,7 +1,7 @@
 ---
 title: One brick at a time
 date: 2024-03-20T08:08:00+01:00
-weight: -240320
+weight: -240319
 draft: false
 tags:
   - Diary
@@ -10,8 +10,6 @@ cover:
   image: img/brick-waltz.jpg
   alt: ‘Cover image’
 ---
-
-20 March 2024 
 
 Dear Diary,
 
