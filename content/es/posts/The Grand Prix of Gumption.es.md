@@ -1,6 +1,7 @@
 ---
 title: "El Gran Premio de la Determinación: Lamento del Día de Lanzamiento"
 date: 2024–03-01T19:08:00+01:00
+weight: -240301
 draft: false
 tags:
   - F1

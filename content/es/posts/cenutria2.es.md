@@ -1,6 +1,7 @@
 ---
 title: Qué IA queremos para nuestros hijos
 date: 2024–03-16T08:08:00+01:00
+weight: -240316
 draft: false
 tags:
   - Aitor

@@ -1,6 +1,7 @@
 ---
 title: El "LinkedInverso" o el esplendoroso mundo de LinkedIn
 date: 2024–03-08T19:08:00+01:00
+weight: -240308
 draft: false
 tags:
   - Aitor

@@ -1,6 +1,7 @@
 ---
 title: Los peligros de una IA ochentera
 date: 2024–03-12T08:08:00+01:00
+weight: -240312
 draft: false
 tags:
   - Aitor

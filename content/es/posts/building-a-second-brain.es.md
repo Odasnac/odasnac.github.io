@@ -1,6 +1,7 @@
 ---
 title: Tu segundo cerebro
 date: 2022–12-08T08:08:00+01:00
+weight: -221208
 draft: false
 tags:
   - “BookSummary”

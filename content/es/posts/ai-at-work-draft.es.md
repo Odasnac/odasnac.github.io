@@ -1,6 +1,7 @@
 ---
 title: Qué piensa ChatGPT de como la IA impactará en nuestros trabajos
 date: 2023-01-03T08:08:00+01:00
+weight: -230103
 draft: false
 tags:
   - “FutureOfWork”

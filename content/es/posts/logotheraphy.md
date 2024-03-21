@@ -1,6 +1,7 @@
 ---
 title: Logoterapia
 date: 2022–05-27T08:08:00+01:00
+weight: -220527
 draft: false
 tags:
   - “BookSummary”
