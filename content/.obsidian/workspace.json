@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f45fd334ab66e4a1",
+        "id": "c8f878fe707bd35b",
         "type": "tabs",
         "children": [
           {
-            "id": "901aad2fd9057594",
+            "id": "37e6e03f8acfb714",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "es/posts/procrastinating.es.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "es/posts/procrastinating.es.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "es/posts/procrastinating.es.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "es/posts/procrastinating.es.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,12 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "901aad2fd9057594",
+  "active": "37e6e03f8acfb714",
   "lastOpenFiles": [
+    "es/posts/tu-trabajo-va-a-desaparecer.es.md",
+    "en/posts/tu-trabajo-va-a-desaparecer.md",
+    "es/posts/procrastinating.es.md",
     "en/posts/procrastinating.md",
     "en/posts/one-brick.md",
     "es/posts/prados-verdes.es.md",
-    "es/posts/procrastinating.es.md",
     "es/posts/template.es.md",
     "en/posts/curiosity.md",
     "en/posts/4th-industrial-revolution.md",
@@ -177,9 +171,7 @@
     "es/posts/serenity-prayer.es.md",
     "es/posts/The Grand Prix of Gumption.es.md",
     "es/posts/Tu camino o el de otros.es.md",
-    "es/posts/tu-trabajo-va-a-desaparecer.es.md",
     "es/posts/workaholic-reformado.es.md",
-    "en/posts/tu-trabajo-va-a-desaparecer.md",
     "en/posts/The Grand Prix of Gumption.md",
     "en/posts/simple-joys.md"
   ]

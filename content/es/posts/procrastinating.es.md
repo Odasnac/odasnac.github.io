@@ -8,7 +8,7 @@ tags:
   - Dilemas
   - Productividad
 cover:
-  image: img/procastinator.jpg
+  image: img/procrastinator.jpg
   alt: ‘Cover image’
 ---
 
