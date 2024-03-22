@@ -11,8 +11,12 @@
             "id": "37e6e03f8acfb714",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "en/posts/storm.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "en/posts/storm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "en/posts/storm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "en/posts/storm.md"
+              }
             }
           }
         ]
@@ -146,15 +154,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37e6e03f8acfb714",
+  "active": "62d58894c95ecbd1",
   "lastOpenFiles": [
+    "es/posts/storm.es.md",
+    "en/posts/storm.md",
+    "es/posts/procrastinating.es.md",
+    "es/posts/sales-is-about-teaching.es.md",
+    "es/posts/serenity-prayer.es.md",
+    "es/posts/template.es.md",
     "es/posts/tu-trabajo-va-a-desaparecer.es.md",
     "en/posts/tu-trabajo-va-a-desaparecer.md",
-    "es/posts/procrastinating.es.md",
     "en/posts/procrastinating.md",
     "en/posts/one-brick.md",
     "es/posts/prados-verdes.es.md",
-    "es/posts/template.es.md",
     "en/posts/curiosity.md",
     "en/posts/4th-industrial-revolution.md",
     "en/posts/template.md",
@@ -167,12 +179,8 @@
     "es/posts/leadership-moving-others.es.md",
     "es/posts/LinkedInverso.es.md",
     "es/posts/logotheraphy.md",
-    "es/posts/sales-is-about-teaching.es.md",
-    "es/posts/serenity-prayer.es.md",
     "es/posts/The Grand Prix of Gumption.es.md",
     "es/posts/Tu camino o el de otros.es.md",
-    "es/posts/workaholic-reformado.es.md",
-    "en/posts/The Grand Prix of Gumption.md",
-    "en/posts/simple-joys.md"
+    "es/posts/workaholic-reformado.es.md"
   ]
 }
