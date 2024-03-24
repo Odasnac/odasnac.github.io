@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "en/posts/storm.md",
+                "file": "es/posts/fewer-options.es.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "en/posts/storm.md",
+                "file": "es/posts/fewer-options.es.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "en/posts/storm.md",
+                "file": "es/posts/fewer-options.es.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "en/posts/storm.md"
+                "file": "es/posts/fewer-options.es.md"
               }
             }
           }
@@ -156,8 +156,11 @@
   },
   "active": "62d58894c95ecbd1",
   "lastOpenFiles": [
-    "es/posts/storm.es.md",
+    "en/posts/fewer-options.md",
+    "es/posts/fewer-options.es.md",
     "en/posts/storm.md",
+    "en/posts/template.md",
+    "es/posts/storm.es.md",
     "es/posts/procrastinating.es.md",
     "es/posts/sales-is-about-teaching.es.md",
     "es/posts/serenity-prayer.es.md",
@@ -169,7 +172,6 @@
     "es/posts/prados-verdes.es.md",
     "en/posts/curiosity.md",
     "en/posts/4th-industrial-revolution.md",
-    "en/posts/template.md",
     "es/posts/4th-industrial-revolution.es.md",
     "es/posts/ai-at-work-draft.es.md",
     "es/posts/building-a-second-brain.es.md",
@@ -179,8 +181,6 @@
     "es/posts/leadership-moving-others.es.md",
     "es/posts/LinkedInverso.es.md",
     "es/posts/logotheraphy.md",
-    "es/posts/The Grand Prix of Gumption.es.md",
-    "es/posts/Tu camino o el de otros.es.md",
-    "es/posts/workaholic-reformado.es.md"
+    "es/posts/The Grand Prix of Gumption.es.md"
   ]
 }
