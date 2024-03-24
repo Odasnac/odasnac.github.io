@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c8f878fe707bd35b",
+        "id": "a53f6890288bd971",
         "type": "tabs",
         "children": [
           {
-            "id": "37e6e03f8acfb714",
+            "id": "5e71015d854c6c45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "es/posts/fewer-options.es.md",
+                "file": "es/posts/enrich.es.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "es/posts/fewer-options.es.md",
+                "file": "es/posts/enrich.es.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "es/posts/fewer-options.es.md",
+                "file": "es/posts/enrich.es.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "es/posts/fewer-options.es.md"
+                "file": "es/posts/enrich.es.md"
               }
             }
           }
@@ -156,9 +156,13 @@
   },
   "active": "62d58894c95ecbd1",
   "lastOpenFiles": [
+    "en/posts/enrich.md",
+    "es/posts/enrich.es.md",
     "en/posts/fewer-options.md",
-    "es/posts/fewer-options.es.md",
+    "en/posts/curiosity.md",
     "en/posts/storm.md",
+    "en/posts/simple-joys.md",
+    "es/posts/fewer-options.es.md",
     "en/posts/template.md",
     "es/posts/storm.es.md",
     "es/posts/procrastinating.es.md",
@@ -170,7 +174,6 @@
     "en/posts/procrastinating.md",
     "en/posts/one-brick.md",
     "es/posts/prados-verdes.es.md",
-    "en/posts/curiosity.md",
     "en/posts/4th-industrial-revolution.md",
     "es/posts/4th-industrial-revolution.es.md",
     "es/posts/ai-at-work-draft.es.md",
@@ -178,9 +181,6 @@
     "es/posts/cenutria.es.md",
     "es/posts/cenutria2.es.md",
     "es/posts/curiosity.es.md",
-    "es/posts/leadership-moving-others.es.md",
-    "es/posts/LinkedInverso.es.md",
-    "es/posts/logotheraphy.md",
-    "es/posts/The Grand Prix of Gumption.es.md"
+    "es/posts/leadership-moving-others.es.md"
   ]
 }

@@ -1,5 +1,5 @@
 ---
-title: The liberation of fewer options
+title: Cuando tener menos opciones te libera
 date: 2024–03-23T08:08:00+01:00
 weight: -240323
 draft: false
