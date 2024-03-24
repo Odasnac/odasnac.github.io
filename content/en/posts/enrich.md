@@ -1,5 +1,5 @@
 ---
-title: The Art of Enrichment: A Dance Among Hues
+title: The Art of Enrichment
 date: 2024–03-2408:08:00+01:00
 weight: -240324
 draft: false
