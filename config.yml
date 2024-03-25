@@ -55,7 +55,9 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-380000254-1
+services:
+  googleAnalytics:
+    ID: G-LH7KFL5B17
 
 minify:
   disableXML: true
