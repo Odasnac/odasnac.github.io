@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4c0ef49f47cce1f2",
+        "id": "4a289ca239703142",
         "type": "tabs",
         "children": [
           {
-            "id": "8776a33278be4b28",
+            "id": "89025738b7f45f56",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,14 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8776a33278be4b28",
+  "active": "89025738b7f45f56",
   "lastOpenFiles": [
+    "es/posts/conversations.es.md",
+    "en/posts/conversations.md",
     "en/posts/enrich.md",
+    "en/posts/simple-joys.md",
+    "es/posts/prados-verdes.es.md",
     "es/posts/enrich.es.md",
     "en/posts/fewer-options.md",
     "en/posts/curiosity.md",
     "en/posts/storm.md",
-    "en/posts/simple-joys.md",
     "es/posts/fewer-options.es.md",
     "en/posts/template.md",
     "es/posts/storm.es.md",
@@ -165,14 +168,11 @@
     "en/posts/tu-trabajo-va-a-desaparecer.md",
     "en/posts/procrastinating.md",
     "en/posts/one-brick.md",
-    "es/posts/prados-verdes.es.md",
     "en/posts/4th-industrial-revolution.md",
     "es/posts/4th-industrial-revolution.es.md",
     "es/posts/ai-at-work-draft.es.md",
     "es/posts/building-a-second-brain.es.md",
     "es/posts/cenutria.es.md",
-    "es/posts/cenutria2.es.md",
-    "es/posts/curiosity.es.md",
-    "es/posts/leadership-moving-others.es.md"
+    "es/posts/cenutria2.es.md"
   ]
 }
