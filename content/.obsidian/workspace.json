@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4a289ca239703142",
+        "id": "7ea2a8e728ac5178",
         "type": "tabs",
         "children": [
           {
-            "id": "89025738b7f45f56",
+            "id": "4ffb5e8b953d0be6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89025738b7f45f56",
+  "active": "4ffb5e8b953d0be6",
   "lastOpenFiles": [
+    "es/posts/electric.es.md",
+    "en/posts/electric.md",
     "es/posts/conversations.es.md",
     "en/posts/conversations.md",
     "en/posts/enrich.md",
@@ -171,8 +173,6 @@
     "en/posts/4th-industrial-revolution.md",
     "es/posts/4th-industrial-revolution.es.md",
     "es/posts/ai-at-work-draft.es.md",
-    "es/posts/building-a-second-brain.es.md",
-    "es/posts/cenutria.es.md",
-    "es/posts/cenutria2.es.md"
+    "es/posts/building-a-second-brain.es.md"
   ]
 }
