@@ -29,3 +29,6 @@ With a sigh, I close this chapter, dreaming of a future where the electric promi
 
 Until the next adventure,
 Victor
+
+![Cover](/img/electricsunset.jpg)
+*The radiant illusion of an electric future*

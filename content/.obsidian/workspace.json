@@ -11,8 +11,12 @@
             "id": "4ffb5e8b953d0be6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "en/posts/electric.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "en/posts/electric.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "en/posts/electric.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "en/posts/electric.md"
+              }
             }
           }
         ]
@@ -149,6 +157,9 @@
   "active": "4ffb5e8b953d0be6",
   "lastOpenFiles": [
     "es/posts/electric.es.md",
+    "es/posts/tu-trabajo-va-a-desaparecer.es.md",
+    "es/cuentos/index.md",
+    "en/ai-at-work/index.md",
     "en/posts/electric.md",
     "es/posts/conversations.es.md",
     "en/posts/conversations.md",
@@ -166,13 +177,10 @@
     "es/posts/sales-is-about-teaching.es.md",
     "es/posts/serenity-prayer.es.md",
     "es/posts/template.es.md",
-    "es/posts/tu-trabajo-va-a-desaparecer.es.md",
     "en/posts/tu-trabajo-va-a-desaparecer.md",
     "en/posts/procrastinating.md",
     "en/posts/one-brick.md",
     "en/posts/4th-industrial-revolution.md",
-    "es/posts/4th-industrial-revolution.es.md",
-    "es/posts/ai-at-work-draft.es.md",
-    "es/posts/building-a-second-brain.es.md"
+    "es/posts/4th-industrial-revolution.es.md"
   ]
 }

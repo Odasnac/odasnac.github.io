@@ -28,3 +28,6 @@ Con un suspiro, cierro este capítulo, soñando con un futuro donde la promesa e
 
 Hasta la próxima aventura,  
 Victor
+
+![Cover](/img/electricsunset.jpg)
+*El soñado futuro eléctrico*
