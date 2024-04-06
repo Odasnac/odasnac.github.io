@@ -4,8 +4,7 @@ date: 2024–04-01T08:08:00+01:00
 weight: -240401
 draft: false
 tags:
-  - Diario
-  - Dilemas
+  - Diary
 cover:
   image: img/cola.jpg
   alt: ‘Cover image’
@@ -31,4 +30,4 @@ Until the next adventure,
 Victor
 
 ![Cover](/img/electricsunset.jpg)
-*The radiant illusion of an electric future*
+*The radiant illusion of an electric future* in contrast with the reality of a disastrous charging infrastructure.
