@@ -30,4 +30,4 @@ Hasta la próxima aventura,
 Victor
 
 ![Cover](/img/electricsunset.jpg)
-*El soñado futuro eléctrico* en contraste con la dura realidad de una desastrosa infraestructura de carga en las carreteras españolas.
+*El soñado futuro eléctrico que no fue.*

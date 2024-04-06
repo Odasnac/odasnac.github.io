@@ -30,4 +30,4 @@ Until the next adventure,
 Victor
 
 ![Cover](/img/electricsunset.jpg)
-*The radiant illusion of an electric future* in contrast with the reality of a disastrous charging infrastructure.
+*The radiant illusion of and electric future that was not.* 

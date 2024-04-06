@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "16a9371740f43dd6",
+        "id": "9035d652d0f27a1f",
         "type": "tabs",
         "children": [
           {
-            "id": "26004edc3141ae82",
+            "id": "43586044d811374a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,13 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26004edc3141ae82",
+  "active": "43586044d811374a",
   "lastOpenFiles": [
-    "en/posts/magnetism.es.md",
+    "es/posts/magnetism.es.md",
     "en/posts/magnetism.md",
-    "en/posts/enrich.md",
-    "en/posts/electric.md",
+    "es/posts/fewer-options.es.md",
+    "es/posts/enrich.es.md",
     "es/posts/electric.es.md",
+    "en/posts/electric.md",
+    "en/posts/enrich.md",
     "es/posts/tu-trabajo-va-a-desaparecer.es.md",
     "es/cuentos/index.md",
     "en/ai-at-work/index.md",
@@ -160,11 +162,9 @@
     "en/posts/conversations.md",
     "en/posts/simple-joys.md",
     "es/posts/prados-verdes.es.md",
-    "es/posts/enrich.es.md",
     "en/posts/fewer-options.md",
     "en/posts/curiosity.md",
     "en/posts/storm.md",
-    "es/posts/fewer-options.es.md",
     "en/posts/template.md",
     "es/posts/storm.es.md",
     "es/posts/procrastinating.es.md",
