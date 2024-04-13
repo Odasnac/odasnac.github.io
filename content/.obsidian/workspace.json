@@ -11,8 +11,12 @@
             "id": "43586044d811374a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "es/posts/dessert.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "es/posts/dessert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "es/posts/dessert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "es/posts/dessert.md"
+              }
             }
           }
         ]
@@ -148,7 +156,11 @@
   },
   "active": "43586044d811374a",
   "lastOpenFiles": [
+    "es/posts/dessert.es.md",
+    "es/posts/dessert.md",
     "es/posts/magnetism.es.md",
+    "en/posts/one-brick.md",
+    "en/posts/storm.md",
     "en/posts/magnetism.md",
     "es/posts/fewer-options.es.md",
     "es/posts/enrich.es.md",
@@ -164,15 +176,11 @@
     "es/posts/prados-verdes.es.md",
     "en/posts/fewer-options.md",
     "en/posts/curiosity.md",
-    "en/posts/storm.md",
     "en/posts/template.md",
     "es/posts/storm.es.md",
     "es/posts/procrastinating.es.md",
     "es/posts/sales-is-about-teaching.es.md",
     "es/posts/serenity-prayer.es.md",
-    "es/posts/template.es.md",
-    "en/posts/tu-trabajo-va-a-desaparecer.md",
-    "en/posts/procrastinating.md",
-    "en/posts/one-brick.md"
+    "es/posts/template.es.md"
   ]
 }
