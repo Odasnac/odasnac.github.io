@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "es/posts/dessert.md",
+                "file": "en/posts/dessert.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "es/posts/dessert.md",
+                "file": "en/posts/dessert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "es/posts/dessert.md",
+                "file": "en/posts/dessert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "es/posts/dessert.md"
+                "file": "en/posts/dessert.md"
               }
             }
           }
@@ -157,7 +157,7 @@
   "active": "43586044d811374a",
   "lastOpenFiles": [
     "es/posts/dessert.es.md",
-    "es/posts/dessert.md",
+    "en/posts/dessert.md",
     "es/posts/magnetism.es.md",
     "en/posts/one-brick.md",
     "en/posts/storm.md",

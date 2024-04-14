@@ -17,4 +17,4 @@ Today, as if caught in a wicked tale of enchanted desserts, I once again succumb
 
 The dessert menu, so innocent and appealing, omits these side effects that seem to warrant a pharmaceutical warning. I envision a disclaimer at the bottom of the page: "Caution: May induce drowsiness, heaviness, and profound regret." Wouldn’t that be courteous?
 
-So here I am, dear diary, declaring my resolve to break free from my cheesecake addiction. I yearn for days of mental clarity and light digestions, rather than naps forced by gastronomic battles. Let this entry serve as a reminder: sometimes, the sweet finish isn't worth the tumultuous means.
+So here I am, dear diary, declaring my resolve to break free from my cheesecake addiction. I yearn for days of mental clarity and light digestions, rather than naps forced by gastronomic battles. Let this entry serve as a reminder: sometimes, the sweet finish isn't worth the bitter consequences.
