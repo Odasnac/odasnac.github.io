@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9035d652d0f27a1f",
+        "id": "fa030d9fe9d691c7",
         "type": "tabs",
         "children": [
           {
-            "id": "43586044d811374a",
+            "id": "0ef902b2538549f7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "en/posts/dessert.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "en/posts/dessert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "en/posts/dessert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "en/posts/dessert.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,18 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43586044d811374a",
+  "active": "0ef902b2538549f7",
   "lastOpenFiles": [
     "es/posts/dessert.es.md",
     "en/posts/dessert.md",
+    "en/posts/electric.md",
+    "en/posts/magnetism.md",
     "es/posts/magnetism.es.md",
     "en/posts/one-brick.md",
     "en/posts/storm.md",
-    "en/posts/magnetism.md",
     "es/posts/fewer-options.es.md",
     "es/posts/enrich.es.md",
     "es/posts/electric.es.md",
-    "en/posts/electric.md",
     "en/posts/enrich.md",
     "es/posts/tu-trabajo-va-a-desaparecer.es.md",
     "es/cuentos/index.md",

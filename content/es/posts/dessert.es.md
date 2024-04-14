@@ -18,3 +18,7 @@ Hoy, como en un cuento malvado de postres encantados, sucumbí una vez más a la
 La carta de postres, tan inocente y atractiva, omite estos efectos secundarios que parecen requerir una advertencia farmacéutica. Imagino una etiqueta al pie de la página: "Precaución: puede inducir somnolencia, pesadez y arrepentimiento profundo". ¿No sería eso un acto de cortesía?
 
 Así que aquí estoy, diario mío, proclamando mi resolución de romper con mi adicción a la tarta de queso. Anhelo días de claridad mental y digestiones ligeras, en lugar de siestas forzadas por combates gastronómicos. Que este testimonio sirva de recordatorio: a veces, el final dulce tiene consecuencias amargas.
+
+
+![Cover](/img/therealcheesecake.jpg)
+*No, ésta no será mi última tarta de queso* 
