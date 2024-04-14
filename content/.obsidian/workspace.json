@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fa030d9fe9d691c7",
+        "id": "30cad7e43706cf88",
         "type": "tabs",
         "children": [
           {
-            "id": "0ef902b2538549f7",
+            "id": "cd0e755a0d0506aa",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ef902b2538549f7",
+  "active": "cd0e755a0d0506aa",
   "lastOpenFiles": [
     "es/posts/dessert.es.md",
     "en/posts/dessert.md",
