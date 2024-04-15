@@ -1,5 +1,5 @@
 ---
-title: Beyond Paleo: the Monkey Liefstyle
+title: Beyond Paleo – The Monkey Liefstyle
 date: 2024–04-15T08:08:00+01:00
 weight: -240415
 draft: false
