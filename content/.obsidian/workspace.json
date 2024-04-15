@@ -11,8 +11,12 @@
             "id": "cd0e755a0d0506aa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "en/posts/monkeydiet.es.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "en/posts/monkeydiet.es.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "en/posts/monkeydiet.es.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "en/posts/monkeydiet.es.md"
+              }
             }
           }
         ]
@@ -148,13 +156,15 @@
   },
   "active": "cd0e755a0d0506aa",
   "lastOpenFiles": [
+    "en/posts/monkeydiet.md",
+    "en/posts/monkeydiet.es.md",
+    "en/posts/magnetism.md",
+    "en/posts/storm.md",
     "es/posts/dessert.es.md",
     "en/posts/dessert.md",
     "en/posts/electric.md",
-    "en/posts/magnetism.md",
     "es/posts/magnetism.es.md",
     "en/posts/one-brick.md",
-    "en/posts/storm.md",
     "es/posts/fewer-options.es.md",
     "es/posts/enrich.es.md",
     "es/posts/electric.es.md",
@@ -171,8 +181,6 @@
     "en/posts/template.md",
     "es/posts/storm.es.md",
     "es/posts/procrastinating.es.md",
-    "es/posts/sales-is-about-teaching.es.md",
-    "es/posts/serenity-prayer.es.md",
-    "es/posts/template.es.md"
+    "es/posts/sales-is-about-teaching.es.md"
   ]
 }
