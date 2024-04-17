@@ -11,8 +11,12 @@
             "id": "c69059604678a9f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "en/posts/monkeydiet.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "en/posts/monkeydiet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "en/posts/monkeydiet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "en/posts/monkeydiet.md"
+              }
             }
           }
         ]
@@ -148,8 +156,8 @@
   },
   "active": "c69059604678a9f5",
   "lastOpenFiles": [
-    "en/posts/monkeydiet.md",
     "es/posts/monkeydiet.es.md",
+    "en/posts/monkeydiet.md",
     "en/posts/magnetism.md",
     "en/posts/storm.md",
     "es/posts/dessert.es.md",
