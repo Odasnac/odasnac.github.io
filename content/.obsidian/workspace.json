@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0472020a7ba9cfe7",
+        "id": "f4116275371d5f2c",
         "type": "tabs",
         "children": [
           {
-            "id": "836b3acaf8881839",
+            "id": "4bf035676342db54",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,10 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "836b3acaf8881839",
+  "active": "4bf035676342db54",
   "lastOpenFiles": [
+    "es/posts/victory.es.md",
+    "en/posts/victory.md",
     "es/posts/monkeydiet.es.md",
     "en/posts/monkeydiet.md",
+    "en/posts/enrich.md",
     "en/posts/magnetism.md",
     "en/posts/storm.md",
     "es/posts/dessert.es.md",
@@ -160,7 +163,6 @@
     "es/posts/fewer-options.es.md",
     "es/posts/enrich.es.md",
     "es/posts/electric.es.md",
-    "en/posts/enrich.md",
     "es/posts/tu-trabajo-va-a-desaparecer.es.md",
     "es/cuentos/index.md",
     "en/ai-at-work/index.md",
@@ -171,8 +173,6 @@
     "en/posts/fewer-options.md",
     "en/posts/curiosity.md",
     "en/posts/template.md",
-    "es/posts/storm.es.md",
-    "es/posts/procrastinating.es.md",
-    "es/posts/sales-is-about-teaching.es.md"
+    "es/posts/storm.es.md"
   ]
 }
