@@ -2,7 +2,7 @@
 title: The new ayatollah
 date: 2024–04-26T16:08:00+01:00
 weight: -240427
-draft: true
+draft: false
 tags:
   - Diary
   - Findings

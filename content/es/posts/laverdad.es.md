@@ -17,7 +17,7 @@ Hoy me he puesto nostálgico recordando aquellos días en los que desayunaba con
 
 Pero, ¡ay, cómo han cambiado los tiempos! La revolución digital ha pintado el panorama informativo de colores tan estridentes que uno casi necesita gafas de sol para mirar. Ahora, al leer elDiario.es y OKDiario (o los mismísimos El País y El Mundo), me encuentro con dos realidades tan diametralmente opuestas que parecen sacadas de universos paralelos. Uno habla de un paraíso en la tierra, mientras que el otro describe el apocalipsis inminente.
 
-Nos fuerzan a "elegir" la verdad, antes de que podamos crearnos nuestra propia opinión. Esa polarización simplificadora nos hace súbditos de la realidad que mejor se acomoda a nuestro gusto. Y en este buffet de hechos y opiniones, parece que los hechos son solo un color a elegir.
+**Nos fuerzan a "elegir" la verdad, antes de que podamos crearnos nuestra propia opinión**. Esa polarización simplificadora nos hace súbditos de la realidad que mejor se acomoda a nuestro gusto. Y en este buffet de hechos y opiniones, parece que los hechos son solo un color a elegir.
 
 Reflexionando sobre todo esto, recuerdo aquella frase de un político americano que una vez dijo: "Tienes derecho a tus propias opiniones, pero no a tus propios hechos." Hoy más que nunca, esas palabras resuenan con una verdad amarga, en un mundo donde las opiniones se disfrazan de hechos para servir a los intereses de unos pocos.
 
