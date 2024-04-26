@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "es/posts/kant.es.md",
+                "file": "es/posts/laverdad.es.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "es/posts/kant.es.md",
+                "file": "es/posts/laverdad.es.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "es/posts/kant.es.md",
+                "file": "es/posts/laverdad.es.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "es/posts/kant.es.md"
+                "file": "es/posts/laverdad.es.md"
               }
             }
           }
@@ -157,6 +157,9 @@
   "active": "4bf035676342db54",
   "lastOpenFiles": [
     "en/posts/kant.md",
+    "es/posts/kant.es.md",
+    "es/posts/laverdad.es.md",
+    "es/posts/victory.es.md",
     "en/posts/victory.md",
     "en/posts/template.md",
     "en/posts/tu-trabajo-va-a-desaparecer.md",
@@ -170,17 +173,14 @@
     "es/posts/enrich.es.md",
     "es/posts/electric.es.md",
     "es/posts/curiosity.es.md",
-    "es/posts/kant.es.md",
     "es/posts/storm.es.md",
     "es/posts/logotheraphy.es.md",
-    "es/posts/victory.es.md",
     "es/posts/monkeydiet.es.md",
     "en/posts/monkeydiet.md",
     "en/posts/magnetism.md",
     "es/posts/dessert.es.md",
     "en/posts/dessert.md",
     "en/posts/electric.md",
-    "es/posts/magnetism.es.md",
-    "en/posts/one-brick.md"
+    "es/posts/magnetism.es.md"
   ]
 }

@@ -5,7 +5,7 @@ weight: -240417
 draft: false
 tags:
   - Diario
-  - Descubrimientos
+  - Observaciones
 cover:
   image: img/victory.jpg
   alt: ‘Cover image’
