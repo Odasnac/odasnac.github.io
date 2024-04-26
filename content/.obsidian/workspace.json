@@ -156,9 +156,11 @@
   },
   "active": "4bf035676342db54",
   "lastOpenFiles": [
+    "es/posts/ayatollah.es.md",
+    "en/posts/ayatollah.md",
     "en/posts/kant.md",
-    "es/posts/kant.es.md",
     "es/posts/laverdad.es.md",
+    "es/posts/kant.es.md",
     "es/posts/victory.es.md",
     "en/posts/victory.md",
     "en/posts/template.md",
@@ -179,8 +181,6 @@
     "en/posts/monkeydiet.md",
     "en/posts/magnetism.md",
     "es/posts/dessert.es.md",
-    "en/posts/dessert.md",
-    "en/posts/electric.md",
-    "es/posts/magnetism.es.md"
+    "en/posts/dessert.md"
   ]
 }

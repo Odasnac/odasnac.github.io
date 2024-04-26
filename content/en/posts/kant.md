@@ -22,4 +22,5 @@ Kant, from his grave, might crack a smile, seeing how his legacy prompts the ind
 This, I think, would be the most sublime of tributes: a silent revolution of awakening minds, a tribute not of words, but of acts of thought. Because, after all, what better way to honor Kant than by living out his imperative to think for oneself?
 
 With a cup of tea in hand and a wish for more intellectual daring, 
+
 Victor

@@ -22,4 +22,5 @@ Kant, desde su tumba, quizás esbozaría una sonrisa, viendo cómo su legado inc
 Este sería, pienso yo, el más sublime de los homenajes: una revolución silenciosa de mentes que despiertan, un tributo no de palabras, sino de actos de pensamiento. Porque, después de todo, ¿qué mejor manera de honrar a Kant que viviendo su imperativo de pensar por uno mismo?
 
 Con una taza de té en mano y un deseo de más atrevimiento intelectual,
+
 Victor

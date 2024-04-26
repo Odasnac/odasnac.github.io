@@ -28,4 +28,5 @@ En estos días se cumplen los 300 años del nacimiento de Kant, fundador del pen
 Tan sólo hay una esperanza: ¿podrían los medios volver a ser los notarios de la realidad en su escrutinio de la vida pública, en lugar de meros panfletos sectarios genocidas de la Verdad?
 
 Con agradecimiento anticipado a la profesión periodística por una anhelada metaformosis,
+
 Víctor
