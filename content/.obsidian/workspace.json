@@ -11,8 +11,12 @@
             "id": "4bf035676342db54",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "es/posts/kant.es.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "es/posts/kant.es.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "es/posts/kant.es.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "es/posts/kant.es.md"
+              }
             }
           }
         ]
@@ -148,31 +156,31 @@
   },
   "active": "4bf035676342db54",
   "lastOpenFiles": [
-    "es/posts/victory.es.md",
+    "en/posts/kant.md",
     "en/posts/victory.md",
+    "en/posts/template.md",
+    "en/posts/tu-trabajo-va-a-desaparecer.md",
+    "en/posts/The Grand Prix of Gumption.md",
+    "en/posts/storm.md",
+    "en/posts/serenity-prayer.md",
+    "en/posts/simple-joys.md",
+    "en/posts/procrastinating.md",
+    "en/posts/enrich.md",
+    "en/posts/fewer-options.md",
+    "es/posts/enrich.es.md",
+    "es/posts/electric.es.md",
+    "es/posts/curiosity.es.md",
+    "es/posts/kant.es.md",
+    "es/posts/storm.es.md",
+    "es/posts/logotheraphy.es.md",
+    "es/posts/victory.es.md",
     "es/posts/monkeydiet.es.md",
     "en/posts/monkeydiet.md",
-    "en/posts/enrich.md",
     "en/posts/magnetism.md",
-    "en/posts/storm.md",
     "es/posts/dessert.es.md",
     "en/posts/dessert.md",
     "en/posts/electric.md",
     "es/posts/magnetism.es.md",
-    "en/posts/one-brick.md",
-    "es/posts/fewer-options.es.md",
-    "es/posts/enrich.es.md",
-    "es/posts/electric.es.md",
-    "es/posts/tu-trabajo-va-a-desaparecer.es.md",
-    "es/cuentos/index.md",
-    "en/ai-at-work/index.md",
-    "es/posts/conversations.es.md",
-    "en/posts/conversations.md",
-    "en/posts/simple-joys.md",
-    "es/posts/prados-verdes.es.md",
-    "en/posts/fewer-options.md",
-    "en/posts/curiosity.md",
-    "en/posts/template.md",
-    "es/posts/storm.es.md"
+    "en/posts/one-brick.md"
   ]
 }
