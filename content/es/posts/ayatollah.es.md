@@ -13,6 +13,8 @@ cover:
 
 Querido Diario:
 
+Quién nos iba a decir que los años 20 del siglo XXI nos traerían un nuevo auge del Fundamentalismo, esta vez no religioso sino ideológico. 
+
 Hoy he estado reflexionando sobre cómo ciertos líderes modernos, a quienes he decidido apodar los 'nuevos ayatolás', no toleran la crítica y exigen ser tratados como dioses infalibles. Quien se atreva a cuestionarlos o disentir de su línea es rápidamente tachado de fascista, ultraderechista, o antidemocrático. Resulta irónico cómo se autoproclaman defensores de la democracia, mientras promueven un pensamiento único y exigen una lealtad absoluta al líder supremo.
 
 Me recuerda a la "República Democrática Alemana", precisamente esa donde la democracia era inexistente. Este juego de palabras y realidades invertidas me lleva a pensar: "Dime de qué presumes y te diré de qué careces..." 

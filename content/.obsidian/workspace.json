@@ -11,8 +11,12 @@
             "id": "04fd979ee0090bd7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "en/posts/ayatollah.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "en/posts/ayatollah.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "en/posts/ayatollah.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "en/posts/ayatollah.md"
+              }
             }
           }
         ]
@@ -148,8 +156,8 @@
   },
   "active": "04fd979ee0090bd7",
   "lastOpenFiles": [
-    "en/posts/ayatollah.md",
     "es/posts/ayatollah.es.md",
+    "en/posts/ayatollah.md",
     "es/posts/laverdad.es.md",
     "en/posts/laverdad.md",
     "en/posts/kant.md",
