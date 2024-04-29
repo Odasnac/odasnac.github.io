@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cbf1460047c81cfb",
+        "id": "e48710527d4d77c2",
         "type": "tabs",
         "children": [
           {
-            "id": "04fd979ee0090bd7",
+            "id": "dac26df52f109f59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "en/posts/ayatollah.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "en/posts/ayatollah.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "en/posts/ayatollah.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "en/posts/ayatollah.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,9 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04fd979ee0090bd7",
+  "active": "dac26df52f109f59",
   "lastOpenFiles": [
+    "es/posts/manipulation .es.md",
     "es/posts/ayatollah.es.md",
+    "en/posts/manipulation.md",
     "en/posts/ayatollah.md",
     "es/posts/laverdad.es.md",
     "en/posts/laverdad.md",
@@ -179,8 +173,6 @@
     "es/posts/storm.es.md",
     "es/posts/logotheraphy.es.md",
     "es/posts/monkeydiet.es.md",
-    "en/posts/monkeydiet.md",
-    "en/posts/magnetism.md",
-    "es/posts/dessert.es.md"
+    "en/posts/monkeydiet.md"
   ]
 }
