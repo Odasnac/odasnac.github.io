@@ -11,8 +11,12 @@
             "id": "dac26df52f109f59",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "en/posts/kant.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "en/posts/kant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "en/posts/kant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "en/posts/kant.md"
+              }
             }
           }
         ]
@@ -148,6 +156,7 @@
   },
   "active": "dac26df52f109f59",
   "lastOpenFiles": [
+    "es/posts/kant.es.md",
     "es/posts/manipulation .es.md",
     "es/posts/ayatollah.es.md",
     "en/posts/manipulation.md",
@@ -155,7 +164,6 @@
     "es/posts/laverdad.es.md",
     "en/posts/laverdad.md",
     "en/posts/kant.md",
-    "es/posts/kant.es.md",
     "es/posts/victory.es.md",
     "en/posts/victory.md",
     "en/posts/template.md",

@@ -15,7 +15,7 @@ Querido Diario:
 
 Hoy, mientras el mundo conmemora los 300 años del natalicio de Immanuel Kant, ese coloso del pensamiento crítico, me he encontrado reflexionando sobre un homenaje un tanto peculiar. Imagina, querido diario, si aquellos que usualmente se mueven en rebaños, guiados por **zanahorias ideológicas**, decidieran tomar una pausa en sus marchas acríticas. ¿Y si, solo por hoy, decidieran ejercitar sus conexiones neuronales de manera autónoma y crítica?
 
-Sería un espectáculo digno de ver: **hordas de antes borregos y apesebrados, ahora transformados en pensadores autónomos, cuestionando dogmas y mandatos del amado líder** con la misma vehemencia con la que antes los defendían. ¿Podrías imaginarlo? Personas de pie en plazas y cafés, repentinamente golpeados por la iluminación kantiana, **preguntándose no solo qué pensar, sino cómo pensar.**
+Sería un espectáculo digno de ver: **hordas de antes borregos y apesebrados, ahora transformados en pensadores autónomos, cuestionando dogmas y mandatos del amado líder** con la misma vehemencia con la que antes los defendían. ¿Podrías imaginarlo? Personas en plazas y cafés, repentinamente golpeados por la iluminación kantiana, **preguntándose no solo qué pensar, sino cómo pensar.**
 
 Kant, desde su tumba, quizás esbozaría una sonrisa, viendo cómo su legado incita a la independencia del pensamiento, más allá de las fronteras de la academia. **"Sapere aude"**, atreverse a saber, se convertiría no solo en un eco de la Ilustración, sino en un grito de guerra contra la complacencia mental de nuestra era.
 

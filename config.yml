@@ -82,6 +82,7 @@ params:
   ShowCodeCopyButtons: false
   ShowWordCount: false
   ShowRssButtonInSectionTermList: true
+  ShowFullTextinRSS: true
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
@@ -123,7 +124,8 @@ params:
       url: "https://twitter.com/odasnac"
     - name: linkedin
       url: "https://www.linkedin.com/in/odasnac/"
-    
+    - name: "rss"
+      url: "https://odasnac.com/index.xml"
 
 
 
