@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "en/posts/kant.md",
+                "file": "es/posts/epistola.es.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "en/posts/kant.md",
+                "file": "es/posts/epistola.es.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "en/posts/kant.md",
+                "file": "es/posts/epistola.es.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "en/posts/kant.md"
+                "file": "es/posts/epistola.es.md"
               }
             }
           }
@@ -154,8 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dac26df52f109f59",
+  "active": "62d58894c95ecbd1",
   "lastOpenFiles": [
+    "en/posts/epistola.md",
+    "es/posts/epistola.es.md",
+    "en/posts/kant.md",
     "es/posts/kant.es.md",
     "es/posts/manipulation .es.md",
     "es/posts/ayatollah.es.md",
@@ -163,7 +166,6 @@
     "en/posts/ayatollah.md",
     "es/posts/laverdad.es.md",
     "en/posts/laverdad.md",
-    "en/posts/kant.md",
     "es/posts/victory.es.md",
     "en/posts/victory.md",
     "en/posts/template.md",
@@ -179,8 +181,6 @@
     "es/posts/electric.es.md",
     "es/posts/curiosity.es.md",
     "es/posts/storm.es.md",
-    "es/posts/logotheraphy.es.md",
-    "es/posts/monkeydiet.es.md",
-    "en/posts/monkeydiet.md"
+    "es/posts/logotheraphy.es.md"
   ]
 }
