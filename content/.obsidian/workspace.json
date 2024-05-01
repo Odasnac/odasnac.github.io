@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "en/posts/epistola.md",
+                "file": "en/posts/rituals.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "en/posts/epistola.md",
+                "file": "en/posts/rituals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "en/posts/epistola.md",
+                "file": "en/posts/rituals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "en/posts/epistola.md"
+                "file": "en/posts/rituals.md"
               }
             }
           }
@@ -156,8 +156,10 @@
   },
   "active": "dac26df52f109f59",
   "lastOpenFiles": [
-    "es/posts/epistola.es.md",
+    "es/posts/rituals.es.md",
+    "en/posts/rituals.md",
     "en/posts/epistola.md",
+    "es/posts/epistola.es.md",
     "en/posts/kant.md",
     "es/posts/kant.es.md",
     "es/posts/manipulation .es.md",
@@ -179,8 +181,6 @@
     "en/posts/fewer-options.md",
     "es/posts/enrich.es.md",
     "es/posts/electric.es.md",
-    "es/posts/curiosity.es.md",
-    "es/posts/storm.es.md",
-    "es/posts/logotheraphy.es.md"
+    "es/posts/curiosity.es.md"
   ]
 }
