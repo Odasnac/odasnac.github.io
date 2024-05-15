@@ -19,6 +19,6 @@ First, a musical escape! The Beatles seems the obvious choice in *times of troub
 
 Next, I unfurl the pages of my ever-faithful diary. Ah, the humble notebook—my silent confidant. Here, **words flow like a river**, carrying away worries and woes, leaving behind a sandy shore of calm. It's magic, how mere ink can heal the heart!
 
-And lastly, when the modern world's maze bewilders me, I reach for the ancient wisdom of the [**I Ching**](https://en.wikipedia.org/wiki/I_Ching), *The Book of Changes*. With one flip to a random page, the old sage speaks, its echoes timeless. In the chaos of life's orchestra, it conducts a symphony of serenity, proving once again that sometimes, the oldest remedies are the truest.
+And lastly, when the modern world's maze bewilders me, I reach for the ancient wisdom of the [**I Ching**](https://odasnac.com/i-ching), *The Book of Changes*. With one flip to a random page, the old sage speaks, its echoes timeless. In the chaos of life's orchestra, it conducts a symphony of serenity, proving once again that sometimes, the oldest remedies are the truest.
 
 These practices, seasoned by countless generations, remain steadfast lighthouses in my sea of change. How curious and comforting, the power of tradition in our fast-spinning world.
