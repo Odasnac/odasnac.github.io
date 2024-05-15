@@ -19,6 +19,6 @@ Comienzo con la **ópera**, esa explosión de dramatismo y pasión que me sumerg
 
 Mi segundo ritual es **escribir** en mi diario. Aquí, libero un torrente de pensamientos, que al ser plasmados en el papel, dejan atrás la confusión para dar paso a la paz. Cada palabra escrita actúa como un filtro purificador, destilando claridad de la turbulencia cotidiana.
 
-Finalmente, en los momentos más desafiantes, recurro al [**I Ching**](https://odasnac.com/es/i-ching). Cada consulta a este antiguo texto es un encuentro con la sabiduría milenaria. Al abrirlo al azar, sus páginas me guían, ofreciendo perspectivas y consuelo, mostrándome cómo navegar a través del tumulto con serenidad y propósito.
+Finalmente, en los momentos más desafiantes, recurro al [**I Ching**](https://odasnac.com/es/posts/i-ching/). Cada consulta a este antiguo texto es un encuentro con la sabiduría milenaria. Al abrirlo al azar, sus páginas me guían, ofreciendo perspectivas y consuelo, mostrándome cómo navegar a través del tumulto con serenidad y propósito.
 
 Estos tres rituales, templados por el tiempo y la tradición, se han convertido en mis faros de guía. En la complejidad de nuestra era, encuentro en estas prácticas ancestrales las claves para enfrentar los desafíos con equilibrio y certeza.
