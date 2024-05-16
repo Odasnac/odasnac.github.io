@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "es/posts/ancient-wisdom.es.md",
+                "file": "en/posts/ancient-wisdom.md",
                 "mode": "source",
                 "source": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "es/posts/ancient-wisdom.es.md",
+                "file": "en/posts/ancient-wisdom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "es/posts/ancient-wisdom.es.md",
+                "file": "en/posts/ancient-wisdom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "es/posts/ancient-wisdom.es.md"
+                "file": "en/posts/ancient-wisdom.md"
               }
             }
           }
@@ -172,10 +172,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a24c5f3027e4614d",
+  "active": "084b29b556e841f9",
   "lastOpenFiles": [
-    "en/posts/ancient-wisdom.md",
     "es/posts/ancient-wisdom.es.md",
+    "en/posts/ancient-wisdom.md",
     "en/posts/rituals.md",
     "es/posts/i-ching.es.md",
     "es/posts/rituals.es.md",

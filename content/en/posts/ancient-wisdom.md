@@ -16,9 +16,11 @@ May 15, 2024
 Today I read a research that points to the three most important elements in happiness and mental wellness:
 - Friends
 - Family
-- Faith 
+- **Faith** 
 
 In a world bustling with the noise of the new, it seems we are urged to return to these ancient harbors of human connection and belief.
+
+Maybe, it is a lack of something to believe in, the root cause behind the current mental health crisis in the youth.
 
 Imagine, then, a modern exodus back to the philosophies of old—Taoism with its serene acceptance of life's flow, the Stoics with their unflappable resilience, and the embracing warmth of Tantra's loving side. Could these venerable views, tried and tested by time, offer the youth of today a new (or is it old?) path to mental fortitude?
 
