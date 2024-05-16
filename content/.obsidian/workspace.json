@@ -4,37 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "24c3de046eead535",
+        "id": "c795a93af2521026",
         "type": "tabs",
         "children": [
           {
-            "id": "084b29b556e841f9",
+            "id": "43edf4b99d26d044",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "en/posts/ancient-wisdom.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "30cfb0ad678b5163",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a24c5f3027e4614d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "es/posts/ancient-wisdom.es.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -111,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "en/posts/ancient-wisdom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "en/posts/ancient-wisdom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "en/posts/ancient-wisdom.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -172,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "084b29b556e841f9",
+  "active": "43edf4b99d26d044",
   "lastOpenFiles": [
-    "es/posts/ancient-wisdom.es.md",
     "en/posts/ancient-wisdom.md",
+    "es/posts/ancient-wisdom.es.md",
     "en/posts/rituals.md",
     "es/posts/i-ching.es.md",
     "es/posts/rituals.es.md",
