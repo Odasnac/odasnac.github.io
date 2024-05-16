@@ -11,8 +11,30 @@
             "id": "43edf4b99d26d044",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "es/posts/ancient-wisdom.es.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "21eb0e785eb99efa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c1073157503d407",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "en/posts/ancient-wisdom.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "en/posts/ancient-wisdom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "en/posts/ancient-wisdom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "en/posts/ancient-wisdom.md"
+              }
             }
           }
         ]
@@ -146,10 +172,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43edf4b99d26d044",
+  "active": "2c1073157503d407",
   "lastOpenFiles": [
-    "en/posts/ancient-wisdom.md",
     "es/posts/ancient-wisdom.es.md",
+    "en/posts/ancient-wisdom.md",
     "en/posts/rituals.md",
     "es/posts/i-ching.es.md",
     "es/posts/rituals.es.md",
