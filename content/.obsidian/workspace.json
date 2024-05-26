@@ -13,27 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "es/posts/ancient-wisdom.es.md",
+                "file": "es/posts/felipe.es.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "21eb0e785eb99efa",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2c1073157503d407",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "en/posts/ancient-wisdom.md",
-                "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -111,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "en/posts/ancient-wisdom.md",
+                "file": "es/posts/felipe.es.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "en/posts/ancient-wisdom.md",
+                "file": "es/posts/felipe.es.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "en/posts/ancient-wisdom.md"
+                "file": "es/posts/felipe.es.md"
               }
             }
           }
@@ -172,9 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c1073157503d407",
+  "active": "43edf4b99d26d044",
   "lastOpenFiles": [
     "es/posts/ancient-wisdom.es.md",
+    "es/posts/felipe.es.md",
+    "es/posts/enrich.es.md",
     "en/posts/ancient-wisdom.md",
     "en/posts/rituals.md",
     "es/posts/i-ching.es.md",
@@ -197,8 +181,6 @@
     "en/posts/victory.md",
     "en/posts/template.md",
     "en/posts/tu-trabajo-va-a-desaparecer.md",
-    "en/posts/The Grand Prix of Gumption.md",
-    "en/posts/storm.md",
-    "en/posts/serenity-prayer.md"
+    "en/posts/The Grand Prix of Gumption.md"
   ]
 }
