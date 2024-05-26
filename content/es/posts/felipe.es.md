@@ -1,5 +1,5 @@
 ---
-title: Sabiduría Antigua en la Era Digital – Redescubriendo la Serenidad y la Fortaleza
+title: ¿Lealtad al líder o a los principios?
 date: 2024–05-25T08:08:00+01:00
 weight: -240525
 draft: false

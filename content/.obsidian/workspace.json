@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c795a93af2521026",
+        "id": "e93ab090cde6b418",
         "type": "tabs",
         "children": [
           {
-            "id": "43edf4b99d26d044",
+            "id": "4524d38744a01060",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "es/posts/felipe.es.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "es/posts/felipe.es.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "es/posts/felipe.es.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "es/posts/felipe.es.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43edf4b99d26d044",
+  "active": "4524d38744a01060",
   "lastOpenFiles": [
-    "es/posts/ancient-wisdom.es.md",
     "es/posts/felipe.es.md",
+    "es/posts/ancient-wisdom.es.md",
     "es/posts/enrich.es.md",
     "en/posts/ancient-wisdom.md",
     "en/posts/rituals.md",
