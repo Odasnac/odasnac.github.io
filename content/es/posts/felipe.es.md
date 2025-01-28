@@ -1,7 +1,7 @@
 ---
 title: ¿Lealtad al líder o a los principios?
 date: 2024–05-25T08:08:00+01:00
-weight: -240525
+weight: -230525
 draft: false
 tags:
   - Diario

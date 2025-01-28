@@ -11,8 +11,14 @@
             "id": "4524d38744a01060",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "en/posts/kant 1.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "kant 1"
             }
           }
         ]
@@ -35,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -50,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -66,7 +78,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -89,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "en/posts/curiosity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +111,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for curiosity"
             }
           },
           {
@@ -105,9 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "en/posts/curiosity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from curiosity"
             }
           },
           {
@@ -118,7 +138,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,7 +148,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "en/posts/curiosity.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of curiosity"
             }
           }
         ]
@@ -148,6 +174,14 @@
   },
   "active": "4524d38744a01060",
   "lastOpenFiles": [
+    "en/posts/curiosity.md",
+    "en/posts/kant 1.md",
+    "en/posts/monkeydiet.md",
+    "en/posts/logotheraphy.md",
+    "en/posts/magnetism.md",
+    "en/posts/manipulation.md",
+    "en/ai-at-work/index.md",
+    "es/posts/epistola.es.md",
     "es/posts/felipe.es.md",
     "es/posts/ancient-wisdom.es.md",
     "es/posts/enrich.es.md",
@@ -161,18 +195,10 @@
     "en/posts/fewer-options.md",
     "en/posts/epistola.md",
     "en/posts/kant.md",
-    "es/posts/epistola.es.md",
     "es/posts/kant.es.md",
     "es/posts/manipulation .es.md",
     "es/posts/ayatollah.es.md",
-    "en/posts/manipulation.md",
     "en/posts/ayatollah.md",
-    "es/posts/laverdad.es.md",
-    "en/posts/laverdad.md",
-    "es/posts/victory.es.md",
-    "en/posts/victory.md",
-    "en/posts/template.md",
-    "en/posts/tu-trabajo-va-a-desaparecer.md",
-    "en/posts/The Grand Prix of Gumption.md"
+    "es/posts/laverdad.es.md"
   ]
 }
