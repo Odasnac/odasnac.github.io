@@ -35,7 +35,7 @@ Your story isn’t just part of your brand—it **is** your brand. If you’re n
 
 Are you ready to stand out? **Start telling your story today.**
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MWmHtDmVS6Y?si=ga-kzxeKFUe5M4tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Interested? Want to know more? Read: [Your Story Makes You Unique: The Solopreneur’s Guide to Influence and Growth](https://a.co/d/88ZwDjH)
 
