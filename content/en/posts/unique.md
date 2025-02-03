@@ -1,5 +1,5 @@
 ---
-title:Your Story Makes You Unique
+title: Your Story Makes You Unique
 date: 2025–02-02T08:08:00+01:00
 weight: -250202
 draft: false

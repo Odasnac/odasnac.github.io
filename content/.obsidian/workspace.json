@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "en/posts/unique.md",
+                "file": "en/posts/serenity-prayer.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "unique"
+              "title": "serenity-prayer"
             }
           }
         ]
@@ -174,8 +174,12 @@
   },
   "active": "4524d38744a01060",
   "lastOpenFiles": [
-    "en/posts/messinformation.md",
+    "en/posts/storm.md",
+    "en/posts/template.md",
     "en/posts/unique.md",
+    "en/posts/tu-trabajo-va-a-desaparecer.md",
+    "en/posts/victory.md",
+    "en/posts/messinformation.md",
     "en/posts/epistola.md",
     "en/posts/curiosity.md",
     "en/posts/monkeydiet.md",
@@ -195,10 +199,6 @@
     "es/posts/storm.es.md",
     "es/posts/tu-trabajo-va-a-desaparecer.es.md",
     "en/posts/fewer-options.md",
-    "en/posts/kant.md",
-    "es/posts/kant.es.md",
-    "es/posts/manipulation .es.md",
-    "es/posts/ayatollah.es.md",
-    "en/posts/ayatollah.md"
+    "en/posts/kant.md"
   ]
 }
