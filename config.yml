@@ -1,5 +1,5 @@
 baseURL: "https://www.odasnac.com/"
-# title: Odasnac
+title: Odåsnac
 theme: papermod2
 defaultContentLanguage: en
 themesDir: "themes"
