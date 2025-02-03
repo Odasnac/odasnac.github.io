@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "en/posts/kant 1.md",
+                "file": "en/posts/unique.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "kant 1"
+              "title": "unique"
             }
           }
         ]
@@ -174,8 +174,10 @@
   },
   "active": "4524d38744a01060",
   "lastOpenFiles": [
+    "en/posts/messinformation.md",
+    "en/posts/unique.md",
+    "en/posts/epistola.md",
     "en/posts/curiosity.md",
-    "en/posts/kant 1.md",
     "en/posts/monkeydiet.md",
     "en/posts/logotheraphy.md",
     "en/posts/magnetism.md",
@@ -193,12 +195,10 @@
     "es/posts/storm.es.md",
     "es/posts/tu-trabajo-va-a-desaparecer.es.md",
     "en/posts/fewer-options.md",
-    "en/posts/epistola.md",
     "en/posts/kant.md",
     "es/posts/kant.es.md",
     "es/posts/manipulation .es.md",
     "es/posts/ayatollah.es.md",
-    "en/posts/ayatollah.md",
-    "es/posts/laverdad.es.md"
+    "en/posts/ayatollah.md"
   ]
 }
