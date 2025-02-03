@@ -7,7 +7,7 @@ tags:
   - Findings
   - Book
 cover:
-  image: img/unique.png
+  image: img/unique.jpg
   alt: ‘Cover image’
 ---
 
