@@ -11,9 +11,6 @@ cover:
   alt: ‘Cover image’
 ---
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MWmHtDmVS6Y?si=M7fb5U2mqVKUHWZd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 **Your Story is the Most Powerful Business Tool You’re Not Using**
 
 Every solopreneur faces the same challenge: standing out in a crowded world. You know your work is valuable, but how do you make others see it? How do you get clients, partners, and even yourself to truly believe in your brand? 
