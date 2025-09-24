@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "en/quiet/index.md",
+                "file": "en/ancient-wisdom/index.md",
                 "mode": "source",
                 "source": true
               },
@@ -176,11 +176,12 @@
   },
   "active": "4524d38744a01060",
   "lastOpenFiles": [
-    "en/on-writing/index.md",
-    "en/quiet/index.md",
-    "en/insights/index.md",
-    "en/ancient-wisdom/index.md",
     "en/ai-at-work/index.md",
+    "en/ancient-wisdom/index.md",
+    "es/cuentos/index.md",
+    "en/quiet/index.md",
+    "en/on-writing/index.md",
+    "en/insights/index.md",
     "en/posts/unique.md",
     "en/insights",
     "en/quiet",
@@ -204,7 +205,6 @@
     "es/posts/enrich.es.md",
     "en/posts/ancient-wisdom.md",
     "en/posts/rituals.md",
-    "es/posts/i-ching.es.md",
-    "es/posts/rituals.es.md"
+    "es/posts/i-ching.es.md"
   ]
 }
