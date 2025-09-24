@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "en/ancient-wisdom/index.md",
+                "file": "en/ai-at-work/index.md",
                 "mode": "source",
                 "source": true
               },
@@ -176,8 +176,8 @@
   },
   "active": "4524d38744a01060",
   "lastOpenFiles": [
-    "en/ai-at-work/index.md",
     "en/ancient-wisdom/index.md",
+    "en/ai-at-work/index.md",
     "es/cuentos/index.md",
     "en/quiet/index.md",
     "en/on-writing/index.md",
