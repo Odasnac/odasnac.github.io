@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "en/posts/unique.md",
+                "file": "en/quiet/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "unique"
+              "title": "index"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -69,8 +70,8 @@
             "state": {
               "type": "starred",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "starred"
             }
           },
           {
@@ -164,6 +165,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -174,10 +176,19 @@
   },
   "active": "4524d38744a01060",
   "lastOpenFiles": [
+    "en/on-writing/index.md",
+    "en/quiet/index.md",
+    "en/insights/index.md",
+    "en/ancient-wisdom/index.md",
+    "en/ai-at-work/index.md",
+    "en/posts/unique.md",
+    "en/insights",
+    "en/quiet",
+    "en/on-writing",
+    "en/ancient-wisdom",
     "en/posts/serenity-prayer.md",
     "en/posts/storm.md",
     "en/posts/template.md",
-    "en/posts/unique.md",
     "en/posts/tu-trabajo-va-a-desaparecer.md",
     "en/posts/victory.md",
     "en/posts/messinformation.md",
@@ -187,7 +198,6 @@
     "en/posts/logotheraphy.md",
     "en/posts/magnetism.md",
     "en/posts/manipulation.md",
-    "en/ai-at-work/index.md",
     "es/posts/epistola.es.md",
     "es/posts/felipe.es.md",
     "es/posts/ancient-wisdom.es.md",
@@ -195,10 +205,6 @@
     "en/posts/ancient-wisdom.md",
     "en/posts/rituals.md",
     "es/posts/i-ching.es.md",
-    "es/posts/rituals.es.md",
-    "en/posts/i-ching.md",
-    "es/posts/storm.es.md",
-    "es/posts/tu-trabajo-va-a-desaparecer.es.md",
-    "en/posts/fewer-options.md"
+    "es/posts/rituals.es.md"
   ]
 }

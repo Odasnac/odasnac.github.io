@@ -11,10 +11,26 @@ languages:
     weight: 1
     menu:
       main:
+      - identifier: Ancient Wisdom
+        name: Ancient Wisdom
+        url: /ancient-wisdom/
+        weight: 10
+      - identifier: Quiet Skills
+        name: Quiet Skills
+        url: /quiet/
+        weight: 11
+      - identifier: On Writing
+        name: On Writing
+        url: /on-writing/
+        weight: 12
       - identifier: AI at Work
         name: AI at Work
         url: /ai-at-work/
-        weight: 10
+        weight: 13
+      - identifier: Insights
+        name: Insights
+        url: /insights/
+        weight: 14  
       - identifier: tags
         name: tags
         url: /tags/
@@ -116,7 +132,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Meaningful Work"      # "Espressamente \U00002615"
+    Title: "Write Here, Write Now"      # "Espressamente \U00002615"
     Content: "Victor Odåsnac"     # \U0001F44B
 
   socialIcons:
@@ -124,6 +140,8 @@ params:
       url: "https://twitter.com/odasnac"
     - name: linkedin
       url: "https://www.linkedin.com/in/odasnac/"
+    - name: youtube
+      url: "https://www.youtube.com/@Write-Here-Write-Now"
     - name: "rss"
       url: "https://odasnac.com/index.xml"
 
