@@ -42,7 +42,7 @@ _Everyone Has a Story_ is a step-by-step guide to writing your memoir with the h
 
 ---
 
-![Write Now](/bookcovers/write_now.jpg)
+![Write Now](/bookcovers/Write_Now.jpg)
 
 _Write Now_ is an invitation to make writing less of a grind and more of a joyful practice. Blending warmth, wit, and practical tools, it shows how to find creative flow, embrace imperfect drafts, and use words as a mirror for self-discovery and connection. Whether for therapy, creativity, or inspiration, this book makes the blank page feel like home.
 

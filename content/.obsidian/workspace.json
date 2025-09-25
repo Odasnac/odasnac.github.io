@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "img/curiosidad.jpg.md",
+                "file": "en/on-writing/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "curiosidad.jpg"
+              "title": "index"
             }
           }
         ]
@@ -176,11 +176,12 @@
   },
   "active": "4524d38744a01060",
   "lastOpenFiles": [
+    "en/ai-at-work/index.md",
+    "img/curiosidad.jpg.md",
     "en/quiet/index.md",
     "en/on-writing/index.md",
     "en/insights/index.md",
     "en/ancient-wisdom/index.md",
-    "en/ai-at-work/index.md",
     "es/cuentos/index.md",
     "en/posts/unique.md",
     "en/insights",
@@ -204,7 +205,6 @@
     "es/posts/ancient-wisdom.es.md",
     "es/posts/enrich.es.md",
     "en/posts/ancient-wisdom.md",
-    "en/posts/rituals.md",
-    "es/posts/i-ching.es.md"
+    "en/posts/rituals.md"
   ]
 }

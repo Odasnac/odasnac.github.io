@@ -11,19 +11,6 @@ tags: [“AI", “book”, “libro”]
 
 ---
 
-![Cover](/img/ai-at-work-paper.jpg)
-
-Everyone talks about ChatGPT and how it is going to change everything. There are thousands of YouTube videos explaining how ChatGPT can be used to generate content, software or do your homework. There are all sorts of clickbait posts alerting on how AI will leave you jobless and without future.
-
-If you want to make sense out of the hype, why not asking ChatGPT for help?
-You can directly ask the famous AI or just read **"AI at Work: The Impact of Artificial Intelligence on the Future of Employment."** 
-
-This book compiles the **insights and predictions of ChatGPT**, a leading *expert* in the field of artificial intelligence, on how AI will shape the future of work. If you're curious about how AI will impact your job and career, this book is a must-read.
-
-[Amazon](https://www.amazon.com/dp/B0BRNFPPD7/)
-
----
-
 ![The Art of Proper Prompting](/bookcovers/proper_prompting.jpg)
 
 _The Art of Proper Prompting_ is a guide to asking AI the right questions so you get better answers, faster. Using the P.R.O.P.E.R. framework, it shows how clarity, context, and iteration turn vague prompts into powerful tools—helping professionals, students, and creatives alike unlock AI’s full potential.
