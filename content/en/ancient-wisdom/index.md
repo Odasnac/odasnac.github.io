@@ -6,6 +6,8 @@ type: “page”
 tags: [“wisdom”, “book”, “libro”]
 ---
 
+**Ancient Stoics never wrote a sales manual or a “how to finish your novel” guide—so we borrowed their wisdom and did it for them. Here’s a tour of modern books that fuse timeless philosophy with today’s chaos, from boardrooms to blank pages.**
+
 
 ![Daily Stoic Principles](/bookcovers/Daily_Stoic_Principles.jpg)
 
@@ -35,7 +37,7 @@ _Quietly Stoic_ is the ultimate guide for introverts who want to navigate socia
 
 _The Stoic Seller_ is sales training with a soul—teaching you how to crush quotas without getting crushed yourself. By mixing ancient Stoic wisdom with real-world sales tactics, it shows you how to handle rejection, stress, and pressure while building genuine trust with customers. Think less “pushy salesperson,” more “Zen warrior who happens to close deals.”
 
-[Amazon](https://a.co/d/f2onmof")
+[Amazon](https://a.co/d/f2onmof)
 
 ---
 

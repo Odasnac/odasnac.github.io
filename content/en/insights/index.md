@@ -6,44 +6,44 @@ type: “page”
 tags: [“insights”, “book”, “libro”]
 ---
 
-
+**The modern world is a circus of algorithms, distractions, and digital chaos—and we’re all juggling flaming swords blindfolded. These books from _Insights_ pull back the curtain, offering sharp, funny, and practical ways to survive (and maybe even thrive) in the mess.**
 
 ![Messinfo](/bookcovers/messinfo.jpg)
 
-_Daily Stoic Principles: Timeless Wisdom for Work and Life_ bridges ancient philosophy with today’s challenges, offering practical insights from the teachings of Marcus Aurelius, Seneca, and Epictetus. This book is your guide to mastering the art of living, no matter the obstacles you face at work or in your personal life.
+_Mess-information_ is a snarky field guide to surviving the glittery dumpster fire of fake news, conspiracy theories, and human gullibility. Mixing history, humor, and absurd examples, it shows why we keep falling for nonsense—and how to spot the stink before it sticks.
 
-[Amazon](https://a.co/d/aRz1Zem)
+[Amazon](https://a.co/d/eSIPLIz)
 
 ---
 
 ![Age of Mess-Information](/bookcovers/the_age_of_mess-information.jpg)
 
-_The 7 Habits of Stoic Leaders_ is like leadership bootcamp run by Marcus Aurelius and Steve Covey—teaching you how to stay calm in chaos, make decisions with integrity, and inspire others without losing your sanity. It’s not about faking confidence; it’s about building the kind of inner strength that makes people actually want to follow you.
+_The Age of Mess-Information_ is a deep dive into the noisy flood of internet chaos—where truth, lies, and memes all fight for attention. From smartphones to social media echo chambers to AI’s synthetic realities, it explores how we got here, why we’re overwhelmed, and how critical thinking (and a bit of humor) can help us stay afloat.
 
-[Amazon](https://a.co/d/hlpgqkd)
+[Amazon](https://a.co/d/ald43JH)
 
 ---
 
-![Digital Renaissance](/bookcovers/Digital_Renaissance_Odasnac.jpg)
+![Digital Renaissance](/bookcovers/Digital_Renaissance_odasnac.jpg)
 
-_Quietly Stoic_ is the ultimate guide for introverts who want to navigate social situations with confidence, clarity, and calm. Drawing on timeless Stoic principles and modern strategies, this book offers a simple framework, practical habits, and actionable tips to help you master small talk, thrive at networking events, and recharge without guilt. It’s not about being the loudest in the room—it’s about showing up as your authentic, quietly powerful self.
+_Digital Renaissance_ is a techno-thriller where art meets algorithms and rebellion meets corporate greed. Set in Asia during the early AI boom, it follows hackers, artists, and dreamers fighting to keep creativity open-source and free. It’s a fast-paced clash of human spark and machine logic—a manifesto for anyone curious (or terrified) about the future of AI and art.
 
-[Amazon](https://a.co/d/cyeDEhG)
+[Amazon](https://a.co/d/aXYOByr)
 
 ---
 
 ![Attention Architects](/bookcovers/Attention_Architects.jpg)
 
-_The Stoic Seller_ is sales training with a soul—teaching you how to crush quotas without getting crushed yourself. By mixing ancient Stoic wisdom with real-world sales tactics, it shows you how to handle rejection, stress, and pressure while building genuine trust with customers. Think less “pushy salesperson,” more “Zen warrior who happens to close deals.”
+_Attention Architects_ is your guide to surviving the dopamine economy, where every ping and scroll tries to steal your brain. Mixing science, stories, and sharp humor, it shows how to spot traps, reclaim focus, and build small habits that make you present again—without turning into a monk or tossing your phone in a lake.
 
-[Amazon](https://a.co/d/f2onmof")
+[Amazon](https://a.co/d/39h18a2)
 
 ---
 
 ![Digital Guardians](/bookcovers/digital_guardians.jpg)
 
-_The Stoic Writer_ is your battle plan against procrastination, self-doubt, and that loudmouth inner critic. Mixing Stoic wisdom with practical writing strategies, it shows you how to trade perfectionism for progress, writer’s block for resilience, and fear for focus—so you can actually finish the damn book you’ve been dreaming about.
+_Digital Guardians_ is a guide for parents raising kids in the wild west of the internet—teaching how to protect without smothering, monitor without spying, and build trust while tackling cyberbullying, predators, and screen overload. It’s about raising digitally savvy kids who stay safe, independent, and connected in all the right ways.
 
-[Amazon](https://a.co/d/5LRl3ce)
+[Amazon](https://a.co/d/41O8YZD)
 
 ---
