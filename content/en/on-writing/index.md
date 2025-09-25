@@ -8,42 +8,66 @@ tags: [“writing”, “book”, “libro”]
 
 
 
-![Daily Stoic Principles](/bookcovers/Daily_Stoic_Principles.jpg)
+![Words that Move](/bookcovers/words_that_move.jpg)
 
 _Daily Stoic Principles: Timeless Wisdom for Work and Life_ bridges ancient philosophy with today’s challenges, offering practical insights from the teachings of Marcus Aurelius, Seneca, and Epictetus. This book is your guide to mastering the art of living, no matter the obstacles you face at work or in your personal life.
 
-[Amazon](https://a.co/d/aRz1Zem)
+[Amazon]()
 
 ---
 
-![7 Habits of Stoic](/bookcovers/7-Habits-Stoic.jpg)
+![On Rewriting](/bookcovers/On_ReWriting.jpg)
 
 _The 7 Habits of Stoic Leaders_ is like leadership bootcamp run by Marcus Aurelius and Steve Covey—teaching you how to stay calm in chaos, make decisions with integrity, and inspire others without losing your sanity. It’s not about faking confidence; it’s about building the kind of inner strength that makes people actually want to follow you.
 
-[Amazon](https://a.co/d/hlpgqkd)
+[Amazon]()
 
 ---
 
-![Quietly Stoic](/bookcovers/quietly_stoic.jpg)
+![Flowing Words](/bookcovers/flowing_words.jpg)
 
 _Quietly Stoic_ is the ultimate guide for introverts who want to navigate social situations with confidence, clarity, and calm. Drawing on timeless Stoic principles and modern strategies, this book offers a simple framework, practical habits, and actionable tips to help you master small talk, thrive at networking events, and recharge without guilt. It’s not about being the loudest in the room—it’s about showing up as your authentic, quietly powerful self.
 
-[Amazon](https://a.co/d/cyeDEhG)
+[Amazon]()
 
 ---
 
-![Stoic Seller](/bookcovers/Stoic_Seller.jpg)
+![Everyone has a Story](/bookcovers/Everyone_has_a_story.jpg)
 
 _The Stoic Seller_ is sales training with a soul—teaching you how to crush quotas without getting crushed yourself. By mixing ancient Stoic wisdom with real-world sales tactics, it shows you how to handle rejection, stress, and pressure while building genuine trust with customers. Think less “pushy salesperson,” more “Zen warrior who happens to close deals.”
 
-[Amazon](https://a.co/d/f2onmof")
+[Amazon]()
 
 ---
 
-![Stoic Writer](/bookcovers/stoic_writer.jpg)
+![Write Now](/bookcovers/write_now.jpg)
 
 _The Stoic Writer_ is your battle plan against procrastination, self-doubt, and that loudmouth inner critic. Mixing Stoic wisdom with practical writing strategies, it shows you how to trade perfectionism for progress, writer’s block for resilience, and fear for focus—so you can actually finish the damn book you’ve been dreaming about.
 
-[Amazon](https://a.co/d/5LRl3ce)
+[Amazon]()
+
+---
+
+![Extraordinary You](/bookcovers/extraordinary_you.jpg)
+
+_The Stoic Writer_ is your battle plan against procrastination, self-doubt, and that loudmouth inner critic. Mixing Stoic wisdom with practical writing strategies, it shows you how to trade perfectionism for progress, writer’s block for resilience, and fear for focus—so you can actually finish the damn book you’ve been dreaming about.
+
+[Amazon]()
+
+---
+
+![A Book A Week](/bookcovers/A_Book_a_week.jpg)
+
+_The Stoic Writer_ is your battle plan against procrastination, self-doubt, and that loudmouth inner critic. Mixing Stoic wisdom with practical writing strategies, it shows you how to trade perfectionism for progress, writer’s block for resilience, and fear for focus—so you can actually finish the damn book you’ve been dreaming about.
+
+[Amazon]()
+
+---
+
+![Your Story Makes You Unique](/bookcovers/your_story_makes_you_unique.jpg)
+
+_The Stoic Writer_ is your battle plan against procrastination, self-doubt, and that loudmouth inner critic. Mixing Stoic wisdom with practical writing strategies, it shows you how to trade perfectionism for progress, writer’s block for resilience, and fear for focus—so you can actually finish the damn book you’ve been dreaming about.
+
+[Amazon]()
 
 ---

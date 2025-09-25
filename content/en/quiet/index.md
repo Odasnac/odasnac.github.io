@@ -6,7 +6,7 @@ type: “page”
 tags: [“quiet”, “book”, “libro”]
 ---
 
-
+**Quiet skills are the superpowers nobody brags about—storytelling, listening, presence, and influence without the noise. This section shows how introverts and calm minds win big by making impact quietly but deeply.**
 
 ![Applied Storytelling](/bookcovers/applied_storytelling.jpg)
 
