@@ -8,6 +8,8 @@ tags: [“quiet”, “book”, “libro”]
 
 **Quiet skills are the superpowers nobody brags about—storytelling, listening, presence, and influence without the noise. This section shows how introverts and calm minds win big by making impact quietly but deeply.**
 
+---
+
 ![Applied Storytelling](/bookcovers/applied_storytelling.jpg)
 
 _Applied Storytelling_ shows that great storytelling isn’t magic—it’s a skill you can learn. Using a simple formula of _Desire + Conflict = Resolution_, we break down how to craft stories that captivate, whether in meetings, family conversations, or social media posts. Packed with movie examples, practical tools, and even an AI coach, this book helps anyone—from leaders to parents—turn everyday moments into stories that inspire, connect, and stick.

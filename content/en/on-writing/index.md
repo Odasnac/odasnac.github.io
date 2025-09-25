@@ -8,6 +8,7 @@ tags: [“writing”, “book”, “libro”]
 
 **The _On Writing_ section is all about turning ideas, memories, and messy drafts into meaningful books—with a little help from habits, creativity, and even AI. These guides prove that writing isn’t just for “authors”—it’s for anyone with a story, or a strong point of view, worth telling.**
 
+---
 
 ![Words that Move](/bookcovers/Words_that_move.jpg)
 

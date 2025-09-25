@@ -8,6 +8,7 @@ tags: [“wisdom”, “book”, “libro”]
 
 **Ancient Stoics never wrote a sales manual or a “how to finish your novel” guide—so we borrowed their wisdom and did it for them. Here’s a tour of modern books that fuse timeless philosophy with today’s chaos, from boardrooms to blank pages.**
 
+---
 
 ![Daily Stoic Principles](/bookcovers/Daily_Stoic_Principles.jpg)
 

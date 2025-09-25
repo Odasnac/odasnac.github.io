@@ -8,6 +8,8 @@ tags: [“insights”, “book”, “libro”]
 
 **The modern world is a circus of algorithms, distractions, and digital chaos—and we’re all juggling flaming swords blindfolded. These books from _Insights_ pull back the curtain, offering sharp, funny, and practical ways to survive (and maybe even thrive) in the mess.**
 
+---
+
 ![Messinfo](/bookcovers/messinfo.jpg)
 
 _Mess-information_ is a snarky field guide to surviving the glittery dumpster fire of fake news, conspiracy theories, and human gullibility. Mixing history, humor, and absurd examples, it shows why we keep falling for nonsense—and how to spot the stink before it sticks.

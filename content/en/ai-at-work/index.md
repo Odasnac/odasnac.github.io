@@ -6,6 +6,11 @@ type: “page”
 tags: [“AI", “book”, “libro”]
 ---
 
+**The _AI at Work_ section explores how artificial intelligence is reshaping creativity, communication, and careers. From smarter prompting to co-writing books, these guides show how to turn AI from a threat into your most powerful ally.**
+
+
+---
+
 ![Cover](/img/ai-at-work-paper.jpg)
 
 Everyone talks about ChatGPT and how it is going to change everything. There are thousands of YouTube videos explaining how ChatGPT can be used to generate content, software or do your homework. There are all sorts of clickbait posts alerting on how AI will leave you jobless and without future.
@@ -19,42 +24,34 @@ This book compiles the **insights and predictions of ChatGPT**, a leading *exper
 
 ---
 
-![Daily Stoic Principles](/bookcovers/Daily_Stoic_Principles.jpg)
+![The Art of Proper Prompting](/bookcovers/proper_prompting.jpg)
 
-_Daily Stoic Principles: Timeless Wisdom for Work and Life_ bridges ancient philosophy with today’s challenges, offering practical insights from the teachings of Marcus Aurelius, Seneca, and Epictetus. This book is your guide to mastering the art of living, no matter the obstacles you face at work or in your personal life.
+_The Art of Proper Prompting_ is a guide to asking AI the right questions so you get better answers, faster. Using the P.R.O.P.E.R. framework, it shows how clarity, context, and iteration turn vague prompts into powerful tools—helping professionals, students, and creatives alike unlock AI’s full potential.
 
-[Amazon](https://a.co/d/aRz1Zem)
-
----
-
-![7 Habits of Stoic](/bookcovers/7-Habits-Stoic.jpg)
-
-_The 7 Habits of Stoic Leaders_ is like leadership bootcamp run by Marcus Aurelius and Steve Covey—teaching you how to stay calm in chaos, make decisions with integrity, and inspire others without losing your sanity. It’s not about faking confidence; it’s about building the kind of inner strength that makes people actually want to follow you.
-
-[Amazon](https://a.co/d/hlpgqkd)
+[Amazon](https://a.co/d/7aBvnIK)
 
 ---
 
-![Quietly Stoic](/bookcovers/quietly_stoic.jpg)
+![Writer AI Toolkit](/bookcovers/writer_toolkit.jpg)
 
-_Quietly Stoic_ is the ultimate guide for introverts who want to navigate social situations with confidence, clarity, and calm. Drawing on timeless Stoic principles and modern strategies, this book offers a simple framework, practical habits, and actionable tips to help you master small talk, thrive at networking events, and recharge without guilt. It’s not about being the loudest in the room—it’s about showing up as your authentic, quietly powerful self.
+_The Writer’s AI Toolkit_ is a practical guide to using AI as your creative partner, helping you turn blank pages into stories, poems, essays, or marketing copy. With genre-specific prompts, tips for effective collaboration, and strategies to strengthen (not replace) your voice, it’s designed to spark ideas, beat writer’s block, and keep creativity flowing.
 
-[Amazon](https://a.co/d/cyeDEhG)
-
----
-
-![Stoic Seller](/bookcovers/Stoic_Seller.jpg)
-
-_The Stoic Seller_ is sales training with a soul—teaching you how to crush quotas without getting crushed yourself. By mixing ancient Stoic wisdom with real-world sales tactics, it shows you how to handle rejection, stress, and pressure while building genuine trust with customers. Think less “pushy salesperson,” more “Zen warrior who happens to close deals.”
-
-[Amazon](https://a.co/d/f2onmof")
+[Amazon](https://a.co/d/b3zMSQT)
 
 ---
 
-![Stoic Writer](/bookcovers/stoic_writer.jpg)
+![Written with AI](/bookcovers/written_with_ai.jpg)
 
-_The Stoic Writer_ is your battle plan against procrastination, self-doubt, and that loudmouth inner critic. Mixing Stoic wisdom with practical writing strategies, it shows you how to trade perfectionism for progress, writer’s block for resilience, and fear for focus—so you can actually finish the damn book you’ve been dreaming about.
+_Written With AI_ is a practical, no-fluff guide to using AI as a creative partner to finally finish the writing projects you’ve been putting off. From beating writer’s block to sharpening your voice and staying motivated, it shows how to collaborate with AI without losing your originality—so your words stay yours, just turbocharged.
 
-[Amazon](https://a.co/d/5LRl3ce)
+[Amazon](https://a.co/d/dHKslOZ)
+
+---
+
+![Cover](/img/ai-at-work-paper.jpg)
+
+_AI at Work_ cuts through the noise and hype by asking ChatGPT itself how AI will reshape jobs and careers. Blending insights and predictions, it explores the real impact of artificial intelligence on the future of work—without the clickbait panic.
+
+[Amazon](https://www.amazon.com/dp/B0BRNFPPD7/)
 
 ---
