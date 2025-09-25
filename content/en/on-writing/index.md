@@ -10,9 +10,9 @@ tags: [“writing”, “book”, “libro”]
 
 ![Words that Move](/bookcovers/words_that_move.jpg)
 
-_Daily Stoic Principles: Timeless Wisdom for Work and Life_ bridges ancient philosophy with today’s challenges, offering practical insights from the teachings of Marcus Aurelius, Seneca, and Epictetus. This book is your guide to mastering the art of living, no matter the obstacles you face at work or in your personal life.
+_Words That Move_ is part guide, part manifesto for anyone ready to write with purpose. Victor Odasnac shows how to craft books that resonate with the right audience, use writing as a tool for personal brand and connection, and embrace new technologies like AI to make the process smoother. More than selling books, it’s about finding your voice, refining your ideas, and creating something truly useful.
 
-[Amazon]()
+[Amazon](https://a.co/d/8DRS0U7)
 
 ---
 
