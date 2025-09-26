@@ -49,3 +49,11 @@ _The Stoic Writer_ is your battle plan against procrastination, self-doubt, and 
 [Amazon](https://a.co/d/5LRl3ce)
 
 ---
+
+![Daily Tao](/bookcovers/Daily_Tao.jpg)
+
+_Daily Tao_ brings ancient Taoist wisdom into the chaos of modern life, offering simple practices to find flow, balance, and clarity without the mysticism. With practical tips, micro-habits, and fresh takes on the I Ching, it’s a down-to-earth guide for handling stress, decisions, and relationships with more ease.
+
+[Amazon](https://a.co/d/fqeDNkM)
+
+---

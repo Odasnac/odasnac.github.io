@@ -26,7 +26,7 @@ _The Age of Mess-Information_ is a deep dive into the noisy flood of internet ch
 
 ---
 
-![Digital Renaissance](/bookcovers/Digital_Renaissance_odasnac.jpg)
+![Digital Renaissance](/bookcovers/Digital_Renaissance_25.jpg)
 
 _Digital Renaissance_ is a techno-thriller where art meets algorithms and rebellion meets corporate greed. Set in Asia during the early AI boom, it follows hackers, artists, and dreamers fighting to keep creativity open-source and free. It’s a fast-paced clash of human spark and machine logic—a manifesto for anyone curious (or terrified) about the future of AI and art.
 

@@ -11,6 +11,8 @@ cover:
   alt: ‘Cover image’
 ---
 
+_22 April 2024_
+
 Dear Diary,
 
 Today, as the world commemorates the 300th birthday of Immanuel Kant, that colossus of critical thought, I find myself musing over a rather peculiar homage. Imagine, dear diary, if those who usually move in herds, guided by ideological carrots, decided to take a break from their uncritical marches. What if, just for today, they decided to exercise their neuronal connections autonomously and critically?

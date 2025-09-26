@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "en/on-writing/index.md",
+                "file": "es/posts/kant.es.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "kant.es"
             }
           }
         ]
@@ -176,12 +176,14 @@
   },
   "active": "4524d38744a01060",
   "lastOpenFiles": [
+    "en/posts/kant.md",
+    "en/posts/storm.md",
+    "en/ancient-wisdom/index.md",
+    "en/insights/index.md",
+    "en/on-writing/index.md",
     "en/ai-at-work/index.md",
     "img/curiosidad.jpg.md",
     "en/quiet/index.md",
-    "en/on-writing/index.md",
-    "en/insights/index.md",
-    "en/ancient-wisdom/index.md",
     "es/cuentos/index.md",
     "en/posts/unique.md",
     "en/insights",
@@ -189,7 +191,6 @@
     "en/on-writing",
     "en/ancient-wisdom",
     "en/posts/serenity-prayer.md",
-    "en/posts/storm.md",
     "en/posts/template.md",
     "en/posts/tu-trabajo-va-a-desaparecer.md",
     "en/posts/victory.md",
@@ -204,7 +205,6 @@
     "es/posts/felipe.es.md",
     "es/posts/ancient-wisdom.es.md",
     "es/posts/enrich.es.md",
-    "en/posts/ancient-wisdom.md",
-    "en/posts/rituals.md"
+    "en/posts/ancient-wisdom.md"
   ]
 }

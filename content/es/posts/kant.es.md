@@ -11,6 +11,9 @@ cover:
   alt: ‘Cover image’
 ---
 
+
+_22 Abril 2024_
+
 Querido Diario:
 
 Hoy, mientras el mundo conmemora los 300 años del natalicio de Immanuel Kant, ese coloso del pensamiento crítico, me he encontrado reflexionando sobre un homenaje un tanto peculiar. Imagina, querido diario, si aquellos que usualmente se mueven en rebaños, guiados por **zanahorias ideológicas**, decidieran tomar una pausa en sus marchas acríticas. ¿Y si, solo por hoy, decidieran ejercitar sus conexiones neuronales de manera autónoma y crítica?
