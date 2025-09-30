@@ -17,7 +17,7 @@ I’ve always been that person with a head full of ideas—books I wanted to wri
 
 A few years later, I wrote a book in Spanish about the future of work. Same deal: half a year. Then a memoir in 2020. Rinse, repeat. Every book took about six months, give or take. This time I was using Scrivener—great for structure, but kind of heavy and sometimes distracting with too many options.
 
-Then came Wababai. This tool gave me markdown simplicity _plus_ an AI assistant that actually helped. Suddenly, years of notes turned into full books in _weeks_, not months.
+Then came [Wababai](https://wababai.com/). This tool gave me markdown simplicity _plus_ an AI assistant that actually helped. Suddenly, years of notes turned into full books in _weeks_, not months.
 
 Now, I draft faster, stay focused, and explore ideas without drowning in them. What used to take half a year now takes a few weeks, once I know where I’m going.
 

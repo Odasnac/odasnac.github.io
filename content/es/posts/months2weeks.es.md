@@ -19,10 +19,10 @@ Escribí mi primer libro en 2011 titulado  _Digital Renaissance_. La idea era es
 
 Unos años después escribí un libro en español sobre el futuro del trabajo. ¿El patrón? El mismo: tres meses de borrador, tres de edición. En 2020 repetí la fórmula con unas memorias. Medio año por libro, como si fuera una ley natural.
 
-Y entonces apareció Wababai.
+Y entonces apareció [Wababai](https://wababai.com/).
 
-De iA Writer había pasado a Scrivener, que era útil para organizar, pero me resultaba demasiada pesada a veces, con demasiadas opciones que acabn distrayendo de lo fundamental, que es escribir. Wababai, en cambio, me ofrecía justo lo que necesitaba: la ligereza del markdown y la ayuda de una inteligencia artificial que no estorba y que me deja mantener el control total. De repente, todo ese cúmulo de notas e ideas que venía acumulando de muchos años empezaron a tomar forma de libros… en cuestión de semanas.
+De iA Writer había pasado a Scrivener, que era útil para organizar, pero me resultaba pesada, con demasiadas opciones que distraen de lo fundamental: escribir. Wababai, en cambio, me ofrece justo lo que necesitaba: la ligereza del markdown y la ayuda de una inteligencia artificial que no estorba y que me deja mantener el control total sobre el manuscrito. De repente, todo ese cúmulo de notas e ideas que venía acumulando de muchos años empezaron a tomar forma de libros… en cuestión de semanas.
 
-La diferencia es abismal. Lo que antes me tomaba seis meses, ahora lo hacía en pocas semanas, una vez tenía clara la idea para un nuevo proyecto.
+La diferencia es abismal. Lo que antes me tomaba seis meses, ahora lo puedo hacer en pocas semanas, una vez tengo clara la idea para un nuevo proyecto.
 
-Si alguna vez has soñado con escribir un libro pero el tiempo te parece una montaña imposible, te entiendo. Pero te digo algo: hoy las herramientas juegan a tu favor. Nunca ha sido tan fácil convertir tus ideas en libros.
+Si alguna vez has soñado con escribir un libro pero te parecía una inversión de tiempo imposible, te entiendo. Pero te digo algo: hoy las herramientas juegan a tu favor. Nunca ha sido tan fácil convertir tus ideas en libros.

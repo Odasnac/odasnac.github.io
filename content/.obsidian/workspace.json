@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "es/posts/months2weeks.es.md",
+                "file": "en/posts/months2weeks.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "months2weeks.es"
+              "title": "months2weeks"
             }
           }
         ]
@@ -174,10 +174,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62d58894c95ecbd1",
+  "active": "4524d38744a01060",
   "lastOpenFiles": [
-    "es/posts/monkeydiet.es.md",
     "es/posts/months2weeks.es.md",
+    "es/posts/monkeydiet.es.md",
     "en/posts/months2weeks.md",
     "en/posts/monkeydiet.md",
     "en/posts/one-brick.md",
