@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "es/posts/kant.es.md",
+                "file": "es/posts/months2weeks.es.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "kant.es"
+              "title": "months2weeks.es"
             }
           }
         ]
@@ -174,8 +174,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4524d38744a01060",
+  "active": "62d58894c95ecbd1",
   "lastOpenFiles": [
+    "es/posts/monkeydiet.es.md",
+    "es/posts/months2weeks.es.md",
+    "en/posts/months2weeks.md",
+    "en/posts/monkeydiet.md",
+    "en/posts/one-brick.md",
+    "en/posts/conversations.md",
+    "en/posts/curiosity.md",
+    "en/posts/dessert.md",
+    "en/posts/electric.md",
+    "en/posts/enrich.md",
+    "en/posts/epistola.md",
+    "en/posts/fewer-options.md",
+    "en/posts/logotheraphy.md",
+    "en/posts/building-a-second-brain.md",
+    "en/posts/laverdad.md",
+    "es/posts/kant.es.md",
     "en/posts/kant.md",
     "en/posts/storm.md",
     "en/ancient-wisdom/index.md",
@@ -189,22 +205,6 @@
     "en/insights",
     "en/quiet",
     "en/on-writing",
-    "en/ancient-wisdom",
-    "en/posts/serenity-prayer.md",
-    "en/posts/template.md",
-    "en/posts/tu-trabajo-va-a-desaparecer.md",
-    "en/posts/victory.md",
-    "en/posts/messinformation.md",
-    "en/posts/epistola.md",
-    "en/posts/curiosity.md",
-    "en/posts/monkeydiet.md",
-    "en/posts/logotheraphy.md",
-    "en/posts/magnetism.md",
-    "en/posts/manipulation.md",
-    "es/posts/epistola.es.md",
-    "es/posts/felipe.es.md",
-    "es/posts/ancient-wisdom.es.md",
-    "es/posts/enrich.es.md",
-    "en/posts/ancient-wisdom.md"
+    "en/ancient-wisdom"
   ]
 }
