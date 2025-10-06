@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "en/posts/months2weeks.md",
+                "file": "es/posts/writing-method.es.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "months2weeks"
+              "title": "writing-method.es"
             }
           }
         ]
@@ -174,13 +174,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4524d38744a01060",
+  "active": "62d58894c95ecbd1",
   "lastOpenFiles": [
+    "en/posts/writing-method.md",
+    "es/posts/writing-method.es.md",
+    "en/posts/The Grand Prix of Gumption.md",
+    "en/posts/months2weeks.md",
+    "en/on-writing/index.md",
+    "en/posts/kant.md",
+    "en/posts/one-brick.md",
     "es/posts/months2weeks.es.md",
     "es/posts/monkeydiet.es.md",
-    "en/posts/months2weeks.md",
     "en/posts/monkeydiet.md",
-    "en/posts/one-brick.md",
     "en/posts/conversations.md",
     "en/posts/curiosity.md",
     "en/posts/dessert.md",
@@ -192,16 +197,11 @@
     "en/posts/building-a-second-brain.md",
     "en/posts/laverdad.md",
     "es/posts/kant.es.md",
-    "en/posts/kant.md",
     "en/posts/storm.md",
     "en/ancient-wisdom/index.md",
     "en/insights/index.md",
-    "en/on-writing/index.md",
     "en/ai-at-work/index.md",
     "img/curiosidad.jpg.md",
-    "en/quiet/index.md",
-    "es/cuentos/index.md",
-    "en/posts/unique.md",
     "en/insights",
     "en/quiet",
     "en/on-writing",
