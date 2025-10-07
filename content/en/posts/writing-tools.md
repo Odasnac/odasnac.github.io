@@ -52,9 +52,9 @@ Scrivener is a powerful, traditional book writing app favored for its robust out
 
 ## Key Takeaways
 
-- **Wababai** uniquely combines AI-powered nonfiction writing assistance with traditional writing app features, supporting multi-device use (web, iOS), outlining, personalized writing styles, book translation, and social media campaign generation.
+- **Wababai** uniquely combines AI-powered nonfiction writing assistance with traditional writing app features, supporting multi-device use (web, iOS), outlining, personalized writing styles, book translation, and social media campaign generation, all with a flat-fee for unlimited tokens.
 - **Scrivener** remains the gold standard for nonfiction authors seeking deep project organization and outlining without AI, supporting multiple devices on macOS, Windows, and iOS.
-- Other AI tools focus more narrowly on content generation, SEO, or marketing, often lacking multi-device or comprehensive project management features.
+- Other AI tools focus on fiction and stories (with metered tokens) or general purpose like Claude or ChatGPT without an integrated workflow for nonfiction book projects.
 - Traditional apps like **Ulysses**, **Apple Pages**, and **Google Docs** offer multi-device support and basic outlining but do not provide AI-driven writing style customization or promotional tools.
 
 Choosing the right app depends on your priorities: if you want AI assistance with style, translation, and promotion alongside writing, Wababai is a strong choice. For deep project management without AI, Scrivener is unmatched.
