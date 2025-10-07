@@ -1,10 +1,10 @@
 ---
-title: Pasa de “Quiero escribir un libro” a “He escrito uno”
+title: De “Quiero escribir un libro” a “He escrito uno”
 date: 2025–10-0508:08:00+01:00
 weight: -251005
 draft: false
 tags:
-  - Diario
+  - Guías
   - Escritura
 cover:
   image: img/writing-buddy-cafe.png

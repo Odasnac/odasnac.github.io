@@ -4,7 +4,7 @@ date: 2025–10-0508:08:00+01:00
 weight: -251005
 draft: false
 tags:
-  - Diary
+  - Guides
   - Writing
 cover:
   image: img/writing-buddy-cafe.png

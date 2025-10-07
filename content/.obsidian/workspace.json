@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "es/posts/writing-method.es.md",
+                "file": "en/posts/writing-tools.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "writing-method.es"
+              "title": "writing-tools"
             }
           }
         ]
@@ -174,10 +174,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62d58894c95ecbd1",
+  "active": "4524d38744a01060",
   "lastOpenFiles": [
-    "en/posts/writing-method.md",
     "es/posts/writing-method.es.md",
+    "en/posts/writing-method.md",
+    "en/posts/victory.md",
+    "en/posts/writing-tools.md",
+    "en/posts/serenity-prayer.md",
+    "es/posts/workaholic-reformado.es.md",
     "en/posts/The Grand Prix of Gumption.md",
     "en/posts/months2weeks.md",
     "en/on-writing/index.md",
@@ -198,10 +202,6 @@
     "en/posts/laverdad.md",
     "es/posts/kant.es.md",
     "en/posts/storm.md",
-    "en/ancient-wisdom/index.md",
-    "en/insights/index.md",
-    "en/ai-at-work/index.md",
-    "img/curiosidad.jpg.md",
     "en/insights",
     "en/quiet",
     "en/on-writing",
