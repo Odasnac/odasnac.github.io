@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "en/posts/writing-tools.md",
+                "file": "en/posts/finish.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "writing-tools"
+              "title": "finish"
             }
           }
         ]
@@ -176,10 +176,11 @@
   },
   "active": "4524d38744a01060",
   "lastOpenFiles": [
-    "es/posts/writing-method.es.md",
     "en/posts/writing-method.md",
-    "en/posts/victory.md",
+    "en/posts/finish.md",
     "en/posts/writing-tools.md",
+    "es/posts/writing-method.es.md",
+    "en/posts/victory.md",
     "en/posts/serenity-prayer.md",
     "es/posts/workaholic-reformado.es.md",
     "en/posts/The Grand Prix of Gumption.md",
@@ -201,7 +202,6 @@
     "en/posts/building-a-second-brain.md",
     "en/posts/laverdad.md",
     "es/posts/kant.es.md",
-    "en/posts/storm.md",
     "en/insights",
     "en/quiet",
     "en/on-writing",
