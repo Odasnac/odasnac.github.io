@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e93ab090cde6b418",
+        "id": "2bb46b0201c04615",
         "type": "tabs",
         "children": [
           {
-            "id": "4524d38744a01060",
+            "id": "9a768aa89859239f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "en/posts/finish.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "finish"
+              "title": "New tab"
             }
           }
         ]
@@ -174,10 +170,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4524d38744a01060",
+  "active": "9a768aa89859239f",
   "lastOpenFiles": [
-    "en/posts/writing-method.md",
+    "es/posts/music.es.md",
+    "es/posts/kant.es.md",
+    "es/posts/prados-verdes.es.md",
+    "en/posts/music.md",
+    "es/posts/curiosity.es.md",
+    "en/posts/magnetism.md",
+    "en/posts/kant.md",
+    "en/posts/i-ching.md",
     "en/posts/finish.md",
+    "en/posts/writing-method.md",
     "en/posts/writing-tools.md",
     "es/posts/writing-method.es.md",
     "en/posts/victory.md",
@@ -186,7 +190,6 @@
     "en/posts/The Grand Prix of Gumption.md",
     "en/posts/months2weeks.md",
     "en/on-writing/index.md",
-    "en/posts/kant.md",
     "en/posts/one-brick.md",
     "es/posts/months2weeks.es.md",
     "es/posts/monkeydiet.es.md",
@@ -195,13 +198,6 @@
     "en/posts/curiosity.md",
     "en/posts/dessert.md",
     "en/posts/electric.md",
-    "en/posts/enrich.md",
-    "en/posts/epistola.md",
-    "en/posts/fewer-options.md",
-    "en/posts/logotheraphy.md",
-    "en/posts/building-a-second-brain.md",
-    "en/posts/laverdad.md",
-    "es/posts/kant.es.md",
     "en/insights",
     "en/quiet",
     "en/on-writing",
