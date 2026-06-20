@@ -11,10 +11,14 @@
             "id": "9a768aa89859239f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "en/insights/index.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -172,6 +176,14 @@
   },
   "active": "9a768aa89859239f",
   "lastOpenFiles": [
+    "en/posts/LUCK-blog-post.md",
+    "en/ai-at-work/index.md",
+    "en/insights/index.md",
+    "en/posts/the-distracted-blog-post.md",
+    "en/posts/tu-trabajo-va-a-desaparecer.md",
+    "en/posts/finish.md",
+    "en/posts/open?vault=odasnac-content-engine&file=books:.inetloc",
+    "en/posts/4th-industrial-revolution.md",
     "es/posts/music.es.md",
     "es/posts/kant.es.md",
     "es/posts/prados-verdes.es.md",
@@ -180,7 +192,6 @@
     "en/posts/magnetism.md",
     "en/posts/kant.md",
     "en/posts/i-ching.md",
-    "en/posts/finish.md",
     "en/posts/writing-method.md",
     "en/posts/writing-tools.md",
     "es/posts/writing-method.es.md",
@@ -192,12 +203,6 @@
     "en/on-writing/index.md",
     "en/posts/one-brick.md",
     "es/posts/months2weeks.es.md",
-    "es/posts/monkeydiet.es.md",
-    "en/posts/monkeydiet.md",
-    "en/posts/conversations.md",
-    "en/posts/curiosity.md",
-    "en/posts/dessert.md",
-    "en/posts/electric.md",
     "en/insights",
     "en/quiet",
     "en/on-writing",

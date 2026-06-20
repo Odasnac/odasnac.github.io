@@ -10,6 +10,14 @@ tags: [“insights”, “book”, “libro”]
 
 ---
 
+![LUCK: Understand Randomness to Improve Your Odds](/bookcovers/LUCK.jpg)
+
+_LUCK: Understand Randomness to Improve Your Odds_ is a practical guide for people who want more agency without pretending they control everything. Through probability, philosophy, personal stories, and the LUCK framework, it shows how to distinguish genuine randomness from what can be understood, influenced, practiced, prepared for, or accepted.
+
+[Amazon](https://www.amazon.com/dp/B0H66FSJB2)
+
+---
+
 ![Messinfo](/bookcovers/messinfo.jpg)
 
 _Mess-information_ is a snarky field guide to surviving the glittery dumpster fire of fake news, conspiracy theories, and human gullibility. Mixing history, humor, and absurd examples, it shows why we keep falling for nonsense—and how to spot the stink before it sticks.

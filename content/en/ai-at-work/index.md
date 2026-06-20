@@ -11,6 +11,14 @@ tags: [“AI", “book”, “libro”]
 
 ---
 
+![The Distracted](/bookcovers/the-distracted.jpg)
+
+_The Distracted_ explores a quieter danger of artificial intelligence: not machines defeating humanity, but convenience making us softer, easier to steer, and less present in our own lives. Blending philosophy, cultural critique, and practical reflection, the book shows how AI amplifies both human purpose and human drift—and how to use it as a ladder for thought, creativity, and agency rather than a couch for the soul.
+
+[Amazon](https://www.amazon.com/dp/B0H1T948XY)
+
+---
+
 ![The Art of Proper Prompting](/bookcovers/proper_prompting.jpg)
 
 _The Art of Proper Prompting_ is a guide to asking AI the right questions so you get better answers, faster. Using the P.R.O.P.E.R. framework, it shows how clarity, context, and iteration turn vague prompts into powerful tools—helping professionals, students, and creatives alike unlock AI’s full potential.
