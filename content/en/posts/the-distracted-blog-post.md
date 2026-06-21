@@ -1,5 +1,5 @@
 ---
-title: AI Is a Ladder. It Is Also a Couch.
+title: AI is a Ladder. It is Also a Couch.
 date: 2026-05-30T10:00:00+02:00
 weight: -260530
 draft: false

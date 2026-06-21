@@ -1,5 +1,5 @@
 ---
-title: Luck Is Not an Answer
+title: Luck is not an Answer
 date: 2026-06-20T23:05:18+02:00
 weight: -260620
 draft: false

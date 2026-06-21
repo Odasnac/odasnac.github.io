@@ -12,7 +12,13 @@ tags: [“insights”, “book”, “libro”]
 
 ![LUCK: Understand Randomness to Improve Your Odds](/bookcovers/LUCK.jpg)
 
-_LUCK: Understand Randomness to Improve Your Odds_ is a practical guide for people who want more agency without pretending they control everything. Through probability, philosophy, personal stories, and the LUCK framework, it shows how to distinguish genuine randomness from what can be understood, influenced, practiced, prepared for, or accepted.
+**Maybe you’re not unlucky.** Maybe you’ve simply mistaken randomness for destiny.
+
+This thought-provoking and surprisingly practical book explores why some people seem lucky, why others believe they’re cursed, and how our understanding, choices, and skills quietly shape the odds we face every day.
+
+Part psychology, part probability, part philosophy, _LUCK_ will change the way you think about success, failure, and everything in between.
+
+Once you see luck differently, you start playing a different game.
 
 [Amazon](https://www.amazon.com/dp/B0H66FSJB2)
 
