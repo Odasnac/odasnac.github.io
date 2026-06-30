@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "en/insights/index.md",
+                "file": "en/posts/fuck-whining-post.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "fuck-whining-post"
             }
           }
         ]
@@ -176,12 +176,14 @@
   },
   "active": "fed692106154c4dd",
   "lastOpenFiles": [
+    "en/posts/finish.md",
+    "en/posts/fuck-whining-post.md",
+    "en/insights/index.md",
+    "en/posts/blog-post.md",
     "en/posts/the-distracted-blog-post.md",
     "en/posts/LUCK-blog-post.md",
-    "en/insights/index.md",
     "en/ai-at-work/index.md",
     "en/posts/tu-trabajo-va-a-desaparecer.md",
-    "en/posts/finish.md",
     "en/posts/open?vault=odasnac-content-engine&file=books:.inetloc",
     "en/posts/4th-industrial-revolution.md",
     "es/posts/music.es.md",
@@ -201,8 +203,6 @@
     "en/posts/The Grand Prix of Gumption.md",
     "en/posts/months2weeks.md",
     "en/on-writing/index.md",
-    "en/posts/one-brick.md",
-    "es/posts/months2weeks.es.md",
     "en/insights",
     "en/quiet",
     "en/on-writing",

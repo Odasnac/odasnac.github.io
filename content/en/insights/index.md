@@ -10,6 +10,16 @@ tags: [“insights”, “book”, “libro”]
 
 ---
 
+
+![F*ck Whining: Stop Playing The Victim And Start Living](/bookcovers/fuck-whining-cover-200.jpg)
+
+_F*ck Whining: Stop Playing The Victim And Start Living_ is a sharp, practical book for thoughtful readers who are tired of permanent outrage, blame loops, gossip, and the private habit of mistaking complaint for progress. It argues that whining is procrastination disguised as self-expression, then offers a grounded way to turn complaints into requests, boundaries, decisions, repairs, and action.
+
+[Amazon](https://www.amazon.com/dp/B0GYKQ76WK)
+
+---
+
+
 ![LUCK: Understand Randomness to Improve Your Odds](/bookcovers/LUCK.jpg)
 
 **Maybe you’re not unlucky.** Maybe you’ve simply mistaken randomness for destiny.
