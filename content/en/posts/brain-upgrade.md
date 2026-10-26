@@ -7,7 +7,7 @@ tags:
   - Learning
   - Attention
 cover:
-  image: img/finish-pod.png
+  image: img/knowelia-shot.png
   alt: ‘Cover image’
 ---
 

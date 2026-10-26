@@ -11,10 +11,14 @@
             "id": "4a8c364854c0eeed",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "en/posts/brain-upgrade.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "brain-upgrade"
             }
           }
         ]
