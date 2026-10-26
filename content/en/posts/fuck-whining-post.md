@@ -1,5 +1,5 @@
 ---
-title: "Complaining Feels Like Action. That Is the Trap."
+title: "Complaining Feels Like Action. That is the Trap."
 date: 2026-06-29T09:00:00+02:00
 weight: -260629
 draft: false
@@ -87,7 +87,7 @@ What would you have to face if you stopped saying this?
 
 That question is uncomfortable because it returns us to agency.
 
-## The Difference Between A Lever And A Couch
+## The Difference Between a Lever and a Couch
 
 Blame can reveal a cause. Sometimes the boss really is bad. Sometimes the rule really is stupid. Sometimes the economy, the institution, the family pattern, or the process really is broken.
 
@@ -109,7 +109,7 @@ It recruits witnesses. It gathers sympathy. It becomes polished. It develops bet
 
 But it does not move.
 
-## The Question That Breaks The Loop
+## The Question that Breaks the Loop
 
 There is one question I keep returning to:
 
